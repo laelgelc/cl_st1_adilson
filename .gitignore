@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# cl_st1_adilson
+!cl_st1_ph1_adilson/env
+!cl_st1_ph1_adilson/**/*.log
