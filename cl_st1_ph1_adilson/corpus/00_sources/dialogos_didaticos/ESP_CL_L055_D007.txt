@@ -1,0 +1,8 @@
+﻿¿Vives en casa o departamento?
+En casa.
+¿Cómo es tu casa?
+Es pequeña, tiene un salón, una cocina y un baño.
+¿Cuántos dormitorios tiene?
+Dos.
+¿Es cómoda?
+Sí, cómoda y acogedora.

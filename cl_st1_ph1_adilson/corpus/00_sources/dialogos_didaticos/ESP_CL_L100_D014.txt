@@ -1,0 +1,12 @@
+﻿SG: Buenos días. ¿Qué tal? 
+JJF: Muy bien, gracias. ¿Y tú?
+SG: Bien, gracias. Eres abogado, ¿verdad?
+JJF: Sí, soy abogado.
+SG: ¿Ya trabajaste ejerciendo tu profesión?
+JJF: Si, trabajé tres años en NHJK.
+SG: ¿Por qué saliste de NHJK?
+JJF: Porque la empresa se mudó a otra ciudad.
+SG: ¿Ya viajaste o viviste en el exterior?
+JJF: Si, viví tres meses en los Estados Unidos.
+SG: ¿Cuánto quieres ganar?
+JJF: Bueno, depende...

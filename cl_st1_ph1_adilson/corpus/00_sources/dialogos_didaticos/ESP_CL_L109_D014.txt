@@ -1,0 +1,14 @@
+﻿Maite: ¿Qué haces el sábado por la tarde?
+Concha: No sé. Todavía no lo sé.
+Maite: Mi amigo Enrique organiza una fiesta. Es su cumpleaños. ¿Quieres venir?
+Concha: No estoy invitada...
+Maite: No importa. Vienes conmigo, eres mi amiga. Además...
+Concha: Además, ¿qué?
+Maite: Tengo un amigo para ti.
+Concha: ¿Quién es? ¿Cómo se llama?
+Maite: Es un secreto.
+Concha: Por favor, Maite. ¿Cómo es? ¿Es alto, guapo, con ojos azules? Me gustan así.
+Maite: No. Es pequeño, feo y tiene ojos verdes.
+Concha: ¿De veras? ¿Te gusta a ti?
+Maite: No lo sé.
+

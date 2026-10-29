@@ -1,0 +1,9 @@
+﻿Consulta del doctor Bosque, dígame.
+Hola, buenos días, quería pedir hora para esta tarde.
+Un momento, por favor, ¿a qué hora le viene bien?
+Pues a primera hora de la tarde, sobre las cuatro, más o menos.
+¿A las cuatro y media?
+Muy bien, a esa hora me viene bien.
+Bueno, entonces, hoy a las cuatro y media, ¿de acuerdo?
+De acuerdo. Gracias, hasta la tarde.
+Adiós.

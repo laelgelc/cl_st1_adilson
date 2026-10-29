@@ -1,0 +1,7 @@
+﻿Antonio: ¿Sí?
+Gabriel: Soy Gabriel. ¿Qué tal estás?
+Antonio: ¡Hola, Gabriel! No me siento bien.
+Gabriel: ¿Qué te pasa?
+Antonio: Ayer fui a una fiesta y comí demasiado. Y hoy me duele la cabeza.
+Gabriel: Eso no es nada, hombre. Te dejo descansar. Te llamaré mañana.
+Antonio: Hasta mañana.

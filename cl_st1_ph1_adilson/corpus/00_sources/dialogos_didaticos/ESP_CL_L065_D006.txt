@@ -1,0 +1,8 @@
+﻿¿Hola?
+Hola, ¿está Hugo?
+Sí, ¿de parte de quién?
+De Graciela.
+No, no se encuentra, ¿querés que le diga algo?
+Sí, por favor, decile que llamó Graciela.
+De acuerdo, yo se lo digo, adiós.
+Gracias, adiós.

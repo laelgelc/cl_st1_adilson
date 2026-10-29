@@ -1,0 +1,7 @@
+﻿Federico: Hola, me llamo Federico. ¿Y tú? ¿Cómo te llamas?
+Clara: Hola, Federico. Soy Clara, encantada.
+Federico: ¿De dónde eres?
+Clara: Pues, soy de Montevideo, Uruguay. ¿Y tú?
+Federico: Soy peruano.
+Clara: Y ¿a qué te dedicas?
+Federico: Soy fotógrafo. A propósito, ¿te puedo sacar una foto?

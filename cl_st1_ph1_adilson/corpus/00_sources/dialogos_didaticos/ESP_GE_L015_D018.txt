@@ -1,0 +1,18 @@
+﻿Pepe: Hola Jorge, ¿cómo estás?
+Jorge: Hola Pepe, estoy bien, gracias. ¿Y tú?
+Pepe: Estoy bien también, gracias. Oye, ¿te gustan los animales?
+Jorge: Sí, me gustan mucho. ¿Y tú?
+Pepe: Sí, también me gustan mucho. ¿Tienes algún animal favorito?
+Jorge: Si, me encantan los perros. Tengo un perro en casa y es mi mejor amigo.
+Pepe: Sí, los perros son animales muy fieles y cariñosos. Yo también tengo un perro en casa y lo adoro.
+Jorge: ¡Qué coincidencia! ¿De qué raza es tu perro?
+Pepe: Es un labrador. Es muy juguetón y siempre está lleno de energía.
+Jorge: Si, los labradores son perros muy activos y divertidos. ¿Has tenido algún otro animal de mascota?
+Pepe: Sí, tuve un gato cuando era niño. Era muy cariñoso y tranquilo.
+Jorge: Los gatos son animales muy interesantes y misteriosos. Me gustan mucho también. ¿Te gustan los animales salvajes?
+Pepe: Si, me encanta ver documentales sobre animales salvajes en la televisión. Es impresionante ver lo que pueden hacer y cómo viven en su hábitat natural.
+Jorge: Sí, a mí también me gusta ver documentales sobre animales. Es importante cuidar de ellos y proteger su hábitat para que puedan seguir viviendo en libertad.
+Pepe: Totalmente de acuerdo. Los animales son una parte importante de nuestro planeta y debemos hacer todo lo posible para protegerlos.
+Jorge: Definitivamente. Gracias por hablar conmigo sobre los animales, Pepe. Ha sido una conversación muy interesante.
+Pepe: ¡Gracias a ti, Jorge! Siempre es divertido hablar sobre nuestros amigos peludos y otras criaturas fascinantes que habitan nuestro mundo.
+

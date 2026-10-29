@@ -1,0 +1,9 @@
+﻿B: viste al hombre elefante ?
+B: bueno no , olvida eso , olvida eso .
+A: ay , a poco si estás hinchado .
+B: sí , sí .
+B: no , hinchado , no , no .
+B: lleno de granitos , no , este &=noise .
+A: &=handset noise .
+B: ah , es espantoso esto .
+A: no , pobrecito .

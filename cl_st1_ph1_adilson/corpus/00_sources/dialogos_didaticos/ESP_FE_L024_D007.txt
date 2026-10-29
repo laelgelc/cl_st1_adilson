@@ -1,0 +1,9 @@
+﻿Turista: Perdón, ¿hay una estación de metro cerca de aquí?
+Policía: Sí, hay una en la avenida Paulista, es la Estação Brigadeiro.
+Turista: ¿Cómo voy hasta allí?
+Policía: Siga usted todo recto, por más o menos dos cuadras. La Estação Brigadeiro está a la izquierda, al lado del banco.
+Turista: Sigo todo recto, por más o menos dos cuadras y la estación del metro estará a mi izquierda.
+¿Lo entendí bien?
+Policía: Sí, muy bien.
+Turista: Muchas gracias.
+Policía: De nada.

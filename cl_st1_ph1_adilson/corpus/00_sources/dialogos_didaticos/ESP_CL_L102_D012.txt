@@ -1,0 +1,6 @@
+﻿Compradora: El tamaño está bien, pero el color... el amarillo me encanta, pero me queda horrible.
+Vendedor: ¿Te gustaría probártelo en otro color?
+Compradora: ¿Qué colores tienes?
+Vendedor: En ese modelo tengo negro, que es siempre un clásico, anaranjado y verde pálido.
+Compradora: Quería ver el negro.
+Vendedor: Ya te lo traigo...

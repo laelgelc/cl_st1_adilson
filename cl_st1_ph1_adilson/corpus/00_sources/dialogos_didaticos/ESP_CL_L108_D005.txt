@@ -1,0 +1,10 @@
+﻿Srita. Trejo: ¡Buenas tardes!
+Prof. González: ¡Buenas tardes!
+Srita. Trejo: ¿Es usted el profesor de español?
+Prof. González: Sí, soy el profesor Andrés González.
+Srita. Trejo: ¿De dónde es usted, profesor?
+Prof. González: Soy de Bolivia.
+Srita. Trejo: Profesor González, le presento a la coordinadora del departamento de español, la profesora Susana Ortiz.
+Prof. González: Mucho gusto, profesora Ortiz.
+Profa. Ortiz: Igualmente.
+

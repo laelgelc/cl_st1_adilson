@@ -1,0 +1,18 @@
+﻿B1: bueno?
+A: sí, oye mamá.
+B1: sí, mijo.
+A: vamos a necesitar el acta de bautismo.
+B1: ah, bueno.
+A: mi acta de bautismo.
+B1: sí.
+A: entonces ve y pídele al párroco de San Antonio todos los datos que se requieran.
+B1: bueno, ahí ya te lo dijeron, el acta de bautizo y qué más, el acta de confirmación.
+A: no sé, por lo menos de bautizo.
+B1: sí, creo que sí, bautizo y confirmación.
+A: no, la confirmación yo la hice allá con Madrín.
+B1: sí, pero debieron darte un papel.
+A: a San Antonio?
+B1: no, en Catedral.
+A: entonces se tarda mucho.
+B1: para cuándo lo quieres.
+A: no sabemos.

@@ -1,0 +1,7 @@
+﻿¿Aló?
+¿Se encuentra Isabel?
+¿De parte de quién?
+Javier.
+No, no está, ¿quiere dejarle un mensaje?
+No, está bien, llamo en otro momento. Gracias, adiós.
+Adiós.

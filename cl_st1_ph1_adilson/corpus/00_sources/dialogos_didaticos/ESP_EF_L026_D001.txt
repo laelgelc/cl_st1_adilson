@@ -1,0 +1,6 @@
+﻿Pedro: Simone, éste es Jorge.
+Simone: Hola, ¿qué tal, Jorge? ¿De dónde eres?
+Jorge: Soy de Sevilla -, pero vivo en Madrid. ¿Y tú?
+Simone: Soy peruana de Lima. También vivo en Madrid, pero mis padres viven en Buenos Aires
+Jorge: Ah, encantado de conocerte.
+Simone: Lo mismo digo.

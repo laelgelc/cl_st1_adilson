@@ -1,0 +1,3 @@
+﻿Hola, ¿qué tal? Tú eres Tom, ¿verdad?
+No, no. Yo me llamo Albert. Y tú, ¿cómo te llamas?
+Julia.

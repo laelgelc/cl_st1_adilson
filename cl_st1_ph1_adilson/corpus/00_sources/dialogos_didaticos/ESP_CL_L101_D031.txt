@@ -1,0 +1,5 @@
+﻿Señora: Muchos amigos y conocidos me han comentado sobre las ventajas de usar el banco desde la computadora de mi casa, pero otros me recomiendan que no pague las cuentas así porque el sistema no es seguro. Por eso decidí venir a hablar con usted y ver qué me aconseja.
+Gerente: Nuestra principal preocupación ha sido siempre la seguridad de nuestros clientes. Actualmente somos el banco virtual más seguro, con un índice muy bajo de problemas de invasión y uso criminal de la información confidencial.
+Señora: Bueno, entonces usted me lo recomienda.
+Gerente: Sin lugar a duda. Pero para evitar disgustos es necesario que usted tome algunas precauciones. Por ejemplo, es importante que elija una seña fuerte y que la cambie con frecuencia. Lo mejor es que utilice una seña de 9 o 10 dígitos. Le recomiendo también que mantenga su antivirus siempre actualizado y le sugiero que no abra archivos que le llegan de direcciones desconocidas.
+Señora: A ver, un minutito que voy a tomar nota para no olvidarme...

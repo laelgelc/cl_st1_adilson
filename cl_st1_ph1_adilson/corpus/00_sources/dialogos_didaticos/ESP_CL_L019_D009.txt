@@ -1,0 +1,10 @@
+﻿Hola, ¿dónde vives?
+Vivo en la calle Goya.
+¿En qué número?
+En el 5.
+¿Dónde está esa calle?
+Está cerca de la estación.
+¿Cuál es tu número de teléfono?
+Es el 907 11 00 14.
+¿Cuál es tu correo electrónico?
+Mi correo es marcelo@inter.es

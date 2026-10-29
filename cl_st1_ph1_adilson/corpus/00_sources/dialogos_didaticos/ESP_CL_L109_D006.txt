@@ -1,0 +1,12 @@
+﻿Miguel: ¡Hola, Carlos! ¿Cómo estás?
+Carlos: ¡Hola, Miguel! Mira, tenemos muchos amigos…
+Miguel: ¡Ah sí! Ya veo.
+Carlos: Este es Miguel, un amigo de Madrid. Miguel, esta es Eva. Es italiana.
+Miguel: Mucho gusto, Eva.
+Carlos: Y este es Robert. Es inglés. Habla bien español. Es profesor de inglés.
+Miguel: ¡Hola, Robert!
+Carlos: Y estas son Yvette y Brigitte. Son francesas y estudian español.
+Miguel: Encantado.
+Carlos: Bueno, pues ya estamos todos. ¿Vamos?
+Todos: De acuerdo. Sí, vamos. 
+

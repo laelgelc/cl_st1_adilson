@@ -1,0 +1,4 @@
+﻿Hola, ¿cómo te llamas?
+Alba, ¿y tú?
+Yo, Mario, encantado.
+Encantada.

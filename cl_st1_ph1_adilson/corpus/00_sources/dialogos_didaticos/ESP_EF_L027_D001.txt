@@ -1,0 +1,9 @@
+﻿Raúl: Pepe, ¿sabes dónde está la agenda?
+Pepe: No lo sé, Raúl, pero me parece que está sobre la mesilla de noche. 
+Raúl: No, no está allí.
+Pepe: ¿Ya la has buscado en aquel estante, a la izquierda del sofá?
+Raúl: No, todavía no. Voy a ver, pero no creo que esté allí.
+Pepe: Bueno, hay una buena en mi estuche. Si quieres, te la presto.
+Raúl: No, gracias. Necesito una pequeña. Es para cortar papel
+Pepe: Aquí está, encima de la mesa.
+Raúl: Gracias, Pepe.

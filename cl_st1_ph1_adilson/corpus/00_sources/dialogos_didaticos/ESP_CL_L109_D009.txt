@@ -1,0 +1,11 @@
+﻿Miguel: ¡Mira qué bonito! ¿Qué ciudad es ésta?
+Rosa: Es Buenos Aires. Ya llegamos al aeropuerto.
+Miguel: ¡Qué grande es el río! ¿O es el mar? No veo la costa
+a la izquierda.
+Rosa: Sí, es muy grande; es el mar de Río de la Plata.
+Miguel: Ahora bajamos muy deprisa. Allí veo una gran plaza. ¿Es la plaza de Mayo?
+Rosa: No creo. La plaza de Mayo está en el centro de Buenos Aires.
+Miguel: Ahora no veo nada. Hay nubes, muchas nubes…
+Rosa: Llegamos en pocos minutos. ¡Estamos en Argentina de nuevo! ¡Qué alegría! ¿No estás contento tú también, Miguel?
+Miguel: ¡Pues claro! Tengo ganas de ver a mis tíos.
+

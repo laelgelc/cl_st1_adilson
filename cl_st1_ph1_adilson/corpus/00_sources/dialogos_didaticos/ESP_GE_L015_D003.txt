@@ -1,0 +1,14 @@
+﻿Lucía: Hola, Pedro. ¿Sabes qué mes es hoy?
+Pedro: Sí, es mayo. ¿Por qué lo preguntas?
+Lucía: Es que he estado pensando en los meses del año. ¿Cuál es tu mes favorito?
+Pedro: Mi mes favorito es diciembre porque me encanta la Navidad. ¿Y tú?
+Lucía: Mi mes favorito es junio porque empieza el verano y hace mucho sol. ¿Cuál es el mes más frío en tu ciudad?
+Pedro: El mes más frío es enero. Hace mucho frío y nieva bastante. ¿Y en tu ciudad?
+Lucía: En mi ciudad, el mes más frío es febrero. Hace mucho viento y a veces llueve.
+Pedro: Si, febrero también es un mes frío aquí. ¿Y cuál es el mes más caluroso en tu ciudad?
+Lucía: El mes más caluroso es agosto. Hace mucho calor y todos van a la playa. ¿Y en tu ciudad?
+Pedro: El mes más caluroso es julio. Es el mes de las vacaciones y mucha gente va a la playa también.
+Lucía: Si, julio también es un mes muy caluroso. ¡Qué interesante es hablar de los meses del año!
+Pedro: Sí, me gusta hablar de las diferencias en el clima y los eventos en cada mes. ¡Gracias por hablar conmigo, Lucía!
+Lucia: Gracias a ti, Pedro. ¡Fue muy interesante!
+

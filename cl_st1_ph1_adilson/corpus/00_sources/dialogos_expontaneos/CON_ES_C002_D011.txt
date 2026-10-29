@@ -1,0 +1,9 @@
+﻿A: ya llegó la Lucía .
+A: ya llegó la Lucía ?
+B1: no aquí , aquí no ha venido , no sé , a lo mejor +...
+A: no colguemos porque todavía me están dando los más minutos .
+B1: &=bg .
+B1: speech: cuando venía , preguntale Cuando venía .
+B1: ayer ?
+A: no fue , venía ahorita , a finales de mayo , a pasarse el Día de las Madres .
+B1: ah , bueno , pues no sé si habrá venido porque a la Fátima no la hemos visto y como cada quien , nunca viene .

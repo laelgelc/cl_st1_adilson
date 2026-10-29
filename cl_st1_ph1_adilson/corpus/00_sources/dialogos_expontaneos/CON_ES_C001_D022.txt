@@ -1,0 +1,349 @@
+﻿A: ahá , comenzaste ayer , no . 
+B: sí , comencé ayer . 
+A: ay , de ataque . 
+B: sí . 
+B: no , me ha ido bien , o sea la verdad es que estudiando ahí xxx . 
+A: apenas estás empezando . 
+B: sí , mientras que me dan la capacitación . 
+A: claro , claro , ay , pero chévere . 
+B: sí . 
+A: chévere , chévere . 
+A: y cómo está tu papi y tu mami ? 
+B: bueno , bien , todos bien , oye cuéntame tú qué tal lo pasaron , chévere . 
+A: ay , de ataque , no mijita tienen que ir , de ataque , de ataque , tienen un poco de cosas nuevas y de todo . 
+B: ay sí , yo me muero . 
+A: sí , cheverísimo , y ahora abrieron Universal_Studios y MGM . 
+B: ahá .
+A: y es un espectáculo te digo , cheverísimo , cheverísimo . 
+B: ay sí , no la verdad es que tenemos que ir . 
+A: sí , sí , sí .
+B: oye Diani , cuéntame , y tu papá qué que se nos va a quedar por allá . 
+A: &=laughter él dice que lo voy a tener como tarde aquí mijita . 
+B: ah &=laughter .
+A: sí , acá está , porque tú sabes la la carajita esta se me fue , no . 
+B: &=laughter ay .
+B: ah , sí , imagínate . 
+A: sí , y entonces imagínate , para para nosotros es una ayuda que él esté aquí . 
+B: bueno y ando en el mismo rollo también , sí . 
+A: sí ? 
+A: andas buscando o qué . 
+B: buscando . 
+A: coño , qué bola , y es que que nadie quiere trabajar ya o qué . 
+B: no , sí pero tenía una y se fue . 
+A: se fue . 
+B: sí .
+A: se se fue o la fuiste . 
+B: la fui &=laughter . 
+A: &=laughter ahí está mi papá en la otra línea . 
+A1: aquí estoy escuchándote .
+A1: &=laughter .
+B: ah bueno , bueno &=laughter .
+A1: quiúbo mija , cómo le va . 
+B: hola don xxx qué más . 
+A1: qué ha hecho , qué hay de nuevo . 
+B: cómo anda . 
+A1: bien , muchas gracias . 
+B: te vas a quedar a vivir allá . 
+A: &=laughter .
+A1: pues me voy a quedar aquí hasta que usted me llame que ya me tiene un bebé . 
+B: &=laughter bueno pero por ahora vamos atrasados todavía porque acabo de comenzar a trabajar . 
+A1: &=laughter .
+A: &=laughter .
+B: así que espéreme por allá como dentro de cinco meses más o menos . 
+A: &=laughter .
+A1: &=laughter no , no muy atrasado , no muy atrasado . 
+B: &=laughter okey , y cómo ha pasado , bien . 
+A1: bien , afortunadamente , muy , muy bien , afortunadamente , no me ha molestado absolutamente nada . 
+A1: he estado muy contento , muy , muy , paseando mucho y todas esas cosas . 
+B: ah , bueno , pues .
+B: ah , disfrutaste en Disney , chévere . 
+A1: sí . 
+B: divino , verdad ? 
+A1: es extraordinario , ya le decía a Toto . 
+B: es que eso es otro mundo . 
+A1: que tienen que hacerse unas vacaciones para ir , esperar a que yo llegue y los reemplazo allá para que ustedes se vengan en unas vacaciones larguitas . 
+B: ah , bueno , listo . 
+A1: que vengan hasta allá , eso eso está maravilloso que cosa extraordinaria . 
+B: ah bueno perfecto . 
+A1: claro . 
+A: xxx .
+B: bueno , no , me alegro que estén bien , que vengas pronto . 
+A: &=laughter .
+A1: muchas gracias .
+A1: Un abrazo .
+A: no que ve- que vengan ustedes es otra cosa . 
+B: ah bueno pero , quien sabe cuándo iremos a ir nosotros &=laughter . 
+A: &=laughter .
+A1: Un abrazo mija para tu papá , tu mamá y tus hermanos . 
+B: &=noise .
+B: bueno gracias ellos siempre me están preguntando por usted . 
+A1: Les das por allá un saludos especial .
+A1: gracias . 
+B: bueno , pues . 
+A1: okey .
+B: bien . 
+A1: chao , pues . 
+B: chao , chao Diani . 
+A: chao , amor , hablamos . 
+B: espérate un momentico , espérate un momentico que quieren hablar contigo , espérate un momentico . 
+A: sí , si no vayan no vayan a colgar , que esta vaina no se corte . 
+B1: aló . 
+A: ahá .
+B1: es que quiero que que tu papá salude a Samuel que está aquí . 
+A: ay , pásalo . 
+B1: sí .
+B1: ya le voy a deci- ya le mandé a decir que cogiera el teléfono . 
+A: dile a Gabriel .
+A1: ya ya lo llamó Ortica . 
+A: Gabriel . 
+A2: está afuera , qué pasa .
+A: que Samuel está en el teléfono .
+B1: ya ya se lo , ya ya lo cogió , ya lo cogió . 
+B2: sí . 
+A: aló . 
+B1: hablen , allí está . 
+B2: sí .
+A: quiúbo mi vida , te habla tu tía Diana . 
+B2: &=noise hola , Diana . 
+A: cómo estás mi cielo . 
+B2: bien . 
+A: cómo te ha ido . 
+B2: bien . 
+A: ya estás en el colegio . 
+B2: sí . 
+A: en que año es que estás . 
+B2: sexto &=background:speech . 
+A: ay , ahí está Gabri , que te quiere saludar . 
+B2: bueno &=noise . 
+A: habla Gabri . 
+A2: hola Samuel . 
+B2: &=noise hola . 
+A2: cómo estás . 
+B2: &=noise bien &=noise .
+A2: qué estás haciendo .
+B2: &=noise bájale el volumen , momentico , bájale el volumen que no oigo un culo xxx &=noise . 
+A: &{l=laughter que no oigo un culo &}l=laughter .
+B2: aló . 
+A: &=laughter ah mi cielo , habla con Gabri , pues . 
+A2: hola . 
+B2: bueno . 
+A: &=laughter .
+B2: aló , gracias tío por mi regalo . 
+A2: okey , hola .
+B: &=noise .
+A2: hola .
+B2: aló . 
+A2: hola Samuel . 
+B2: hola . 
+A2: cómo está tu hermana . 
+B2: en la casa . 
+A2: y qué que has &=noise . 
+B2: cómo . 
+A: alexan- .
+A2: que , pronto voy a ir allá a jugar allá con ustedes . 
+B2: &=noise ahá .
+A: Mira mi amor , y que deportes estás jugando ahorita . 
+B2: qué , ah ? 
+A: qué deportes estás jugando ahorita . 
+B2: fútbol . 
+A: fútbol todavía . 
+B2: sí . 
+A: coño , cómo te parece esa perdida de Colombia . 
+B2: sí , uh , mala . 
+A: que mal , no , que mal , que mal que estuvo eso , no ? 
+B2: sí , xxx en Estados Unidos . 
+A: sí . 
+A1: qué hay mijito , yo no te pude llamar el día de tu cumpleaños , mi amor , reciba una felicitación , porque como no tenía el número del teléfono no pude hacerlo , papito &=background laughter . 
+B2: no importa , abuelo .
+B2: bueno , no importa , de todos modos . 
+A1: bueno , mi amor , cómo estás , bien ? 
+B2: bueno , bueno , sí . 
+A1: y ya vas a entrar al colegio ? 
+B2: ya entré , uh . 
+A1: ya vas .
+B2: cómo es .
+A1: primero , verdad ? 
+B2: qué . 
+A1: ahá y muy xxx papá . 
+B2: qué , sí . 
+A1: bueno , muy bien , mi morcito . 
+A: Mira , Samuel . 
+B2: qué . 
+A: Le tienes que decir a tu mamá que te mande para acá para donde tu tía Diana . 
+B2: bueno . 
+A: oíste . 
+B2: bueno . 
+A: con , con Alex . 
+B2: bueno . 
+A: okey ? 
+B2: bueno . 
+A: Mira , cómo está el colegio . 
+B2: bien . 
+A: bien , en qué año que estás mi amor . 
+B2: sí , sexto . 
+A: sexto . 
+B2: sí . 
+A: y .
+B2: primero de bachillerato . 
+A: primero no , mijito , cuando yo vaya para allá te vas a estar graduando ya . 
+B2: sí .
+A: ah que quieres estudiar , todavía no sabes . 
+B2: no , todavía no sé . 
+A: todavía no sabes . 
+B2: no .
+A: ay pero chévere , ay pero aquí Gabriel te quiere saludar otra vez , espérate un momentico , okey ? 
+B2: bueno .
+A2: ahí está ?
+A: ahí está Samuel .
+B2: &=noise hola . 
+A2: hola Samuel &=background:speech . 
+A2: yo puedo hablar con tu hermanita ? 
+B2: &=background:speech qué . 
+A2: donde está tu hermana . 
+B2: cómo . 
+A2: donde está tu hermana . 
+B2: está en la casa , o sea , no está aquí . 
+A2: está aquí está allá . 
+B2: sí . 
+A2: entonces tú hablas inglés ? 
+A2: &=background:speech .
+B2: xxx .
+A2: ah , qué &=background:speech . 
+B2: más o menos .
+A2: sí sabes . 
+B2: que si sé . 
+A2: sí sabes ? 
+B2: bueno vale , sí , inglés . 
+A2: dijo , bueno vale . 
+B2: vale , háblame algo . 
+A2: sí sabes . 
+B2: qué . 
+A1: sí , sabe algo , papá . 
+B2: yo no sé . 
+A2: ah , okey , cuando vaya a Colombia yo te enseño , okey . 
+B2: okey . 
+A2: chao .
+B2: ah cómo &=noise .
+A2: chao .
+A: bueno mi vida . 
+B2: bueno . 
+A: entonces me le mandas un beso a Alex , oíste . 
+B2: bueno , bueno &=noise . 
+A: y te espero por acá , bueno mi cielo , pásame a tu abuela , pues . 
+B: bueno , abuela , el teléfono . 
+B1: aló &=background:speech . 
+A: &=laughtercoño ese caraíte no puede negar que es costeño , no . 
+B1: &=laughter .
+A: bájame la televisión que no oigo un culo &=laughter . 
+B1: &=laughter .
+A: &=laughter ay , yo me estaba muriendo de la risa acá . 
+B1: &=laughter naita , pues , ay , Dios mío &=laughter . 
+A: ay tan bello , como está de bello , ya habla como un niñito grande . 
+B1: sí , sí , sí , está de lo más lindo y grandote , si lo vieras . 
+A: ya está en primero de bachillerato , oye . 
+B1: ya , en primero de bachillerato . 
+A: ay , ay Dios mío , qué tal . 
+B1: imagínate , adelante .
+A: mire y la Alex no se apareció por allá . 
+B1: no , qué va . 
+A: ay , no . 
+B1: Nada . 
+A: ay , bueno . 
+B1: ay , xxx . 
+A: Mira gorda , y la abuela cómo está . 
+B1: bien , mija , gracias a Dios , la abuela bien tú sabes ella tiene salud a toda prueba . 
+A1: ay mija , antes que se nos corte la llamada , sáquele unos cincuenta mil pesos y se los regala al niñito de cumpleaños , de lo mío , oyó . 
+B1: bueno , mijo , okey . 
+A1: hague- y dígale que yo se los mando y pás- . 
+B1: bueno mi amor . 
+A1: para decirle ahí que tú le vas a sacar una platica . 
+B1: okey . 
+A: que se lo pases . 
+B1: ah , bueno , espérate un momentico , Toto , eh , Samuel . 
+B1: Tu abuelo quiere decirte algo . 
+B3: corre antes que te xxx .
+B2: aló .
+A1: mire , papito eh . 
+B2: qué .
+A1: eh , su abuela . 
+B2: ahá .
+A1: Le sacar de mi plata una platica que te voy a mandar de cumpleaños , oyó . 
+B2: ahá bueno . 
+A1: Ella , pídesela que ella la saca y se la entrega o su tío Toto que tiene la la esa allá . 
+B2: bueno . 
+A1: él que puede sacar la plata entonces para que te den esa platica . 
+A1: oyó mi amor . 
+B2: bueno . 
+A1: Le voy a dar cincuenta mil pesitos . 
+B2: bueno . 
+A1: okey papá . 
+B2: bueno , chao . 
+B2: gracias . 
+A1: bueno , okey papá , chao . 
+A: &=laughter .
+B3: aló . 
+A: aló . 
+B3: ahá .
+A: qué más . 
+B3: quiúbo .
+A: &=laughter Mira tú eres el que le estás enseñando las malas palabras a ese caraíto , o qué . 
+B3: entonces , por qué . 
+A: &=laughter que que le bajen la televisión porque no puede oír un culo &=laughter . 
+B3: xxx no , no oí , qué más . 
+A: &=laughter .
+A1: papi . 
+B3: quiúbo .
+A1: me saca una platica y se la regala ahí de cumpleaños , a Samuelito , oyó . 
+B3: ahora , listo . 
+A1: ahí le saca , ya le dije a su mamá cuanto le , le sacan cincuenta y se lo dan . 
+B3: listo . 
+A1: bueno papi . 
+B3: okey .
+A1: okey , ahí le dejo a Mary , a Diana pues para que converse . 
+B3: bueno . 
+A1: hasta luego pues . 
+A: &=laughter .
+B3: listo , hasta luego . 
+A1: okey .
+A: Mira , Timo Samy . 
+B3: qué quieres que te cuente . 
+A: chismoséame de todo el mundo , quien está casado , quien está preñado , de todo . 
+B3: xxx todo el mundo . 
+A: el todo el mundo qué . 
+B3: está casado y preñado &=laughter . 
+A: &=laughter Mira a Eddie no lo pude llamar a Miami . 
+B3: por qué . 
+A: porque se me perdió el teléfono . 
+B3: mierda . 
+A: dile a mi mamá eso . 
+B3: y yo no lo tengo tampoco . 
+A: no , dile a mi mamá , es que ella me había dado el teléfono de mi . 
+B3: tú tienes el teléfono de Eddie allí &=background:speech consíguelo para ver . 
+A: no pues , yo de aquí no creo que yo lo pueda llamar . 
+B3: pues &=noise por qué . 
+A: porque de aquí de mi casa , papito . 
+B3: por qué , por qué . 
+A: no por qué voy a estar llamando yo , por qué no ha llamado él . 
+B3: por qué , por qué &=laughter . 
+A: xxx .
+B3: se casa Laris . 
+A: se casa . 
+A: con quien se casa . 
+B3: sí , con una pelada de , Marta Araos . 
+A: Una pelada qué . 
+B3: Marta Araos . 
+A: Marta qué . 
+B3: araos . 
+A: y quién es ella . 
+B3: Una pelada que fue reina de las guajiras aquí . 
+A: mierda . 
+B3: sí . 
+A: y cuando se casan . 
+B3: no , dentro del otro año . 
+A: ah no , &=laughter pensaba que iba a ser el fin de semana . 
+B3: sí , no , no , no todavía no . 
+A: ah dentro de un año , y qué es una guajira . 
+B3: sí . 
+A: indiecita . 
+B3: no , hombre no , nada qué ver . 
+A: ah , está bien la pelada . 

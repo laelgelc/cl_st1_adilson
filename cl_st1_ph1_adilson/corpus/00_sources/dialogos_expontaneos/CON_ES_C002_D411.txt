@@ -1,0 +1,26 @@
+﻿A: Mira , y qué te iba a preguntar , déjame contarte antes que nos vayan a quitar el tiempo , que yo .
+A: pues andaba muy bien , porque me quedaba en los sitios el tiempo que quería sin nadie que me presionara .
+A: que Eddie me está diciendo que él pensaba llevar las cosas de de allá tuyas a Génesis porque ahí mami siempre está &=noise .
+B: pero yo puedo quedarme con la carta de Gabino y entonces cuando me comunique con Gabino , dársela a Gabino .
+A: &=noise .
+A: y tú no lo mandaste el xxx a Gabino &=noise .
+A: &=background:speech .
+B: xxx yo lo que te dije era .
+A: xxx ella tiene carta para allá , para la casa de Jota .
+B: sí , para los sobrinos , entonces , yo le entregaría esa carta .
+A: &=background:speech .
+A: Ella dice que le entregues todo a Gabino .
+A: &=background:speech &=noise es porque él va para los Minos mañana .
+A: porque él tiene unas medicinas de Ricardo , que las tiene que llevar sin falta , mañana .
+B: &=noise .
+A: &=background:speech &=noise .
+B: &=noise .
+A: &=background:speech &=noise .
+B: &=noise .
+A: &=background:speech .
+A: &=background:speech pues nada , que se lo des a Gabino , dice ella .
+A: &=background:speech sí .
+B: todo .
+A: lo que ella prefiere , que es lo que tú prefieres , que se lo dé a Gabino , verdad ?
+A: que se lo des todo a Gabino .
+B: okey .

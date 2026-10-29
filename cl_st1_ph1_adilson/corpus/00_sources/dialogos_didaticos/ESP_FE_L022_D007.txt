@@ -1,0 +1,10 @@
+﻿Turista: ¡Buenas tardes, Carlos! ¿Puede buscarnos mañana a las 8:45 de la mañana en el Hotel do Lago?
+Conductor: Sí, con gusto.
+Turista: Vamos al aeropuerto. Nuestro vuelo sale a las 11:00.
+Conductor. Perfecto. Mañana a las 8:45 estaré en el hotel para llevarlos.
+Turista: ¿Nos va a cobrar un precio fijo o va usted a usar el taxímetro?
+Conductor: Precio fijo, señor.
+Turista: ¿Cuánto nos va a cobrar para llevarnos al aeropuerto?
+Conductor: Les cobro R$ 90,00.
+Turista: De acuerdo. Le esperamos mañana por la mañana en la puerta del hotel.
+Conductor: Sí, ¡hasta mañana!

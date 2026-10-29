@@ -1,0 +1,25 @@
+﻿A1: Bueno, ¿qué queréis tomar?
+E: Yo, como siempre, un cafelito.
+A1: ¿Solo?
+E: Sí, como siempre.
+I: Yo ahora no quiero nada.
+A1: ¿Qué?
+I: No me apetece nada.
+A1: ¿No te apetece nada de verdad?
+I: Una coca cola, un soberano, un cubata.
+A1: ¿Quieres un cubata?
+I: Un magano.
+A1: Una copa.
+I: Luego, luego me tomo algo. Ahora no me apetece.
+A1: ¿No quieres nada? Pero para que te lo traiga, si te lo va a traer dentro de diez minutos solamente.
+A2: Si tengo que venir yo ahora, dentro de veinte minutos te lo puedo traer. Lo que quieras.
+I: ¿Sí? Pues no sé, un descafeinado.
+A2: Venga, vale.
+A1: Mira el cubata que se tomaba. ¿Dónde está mi bolso?
+I: Por no hacerte gasto, ¿eh?
+A1: Hasta luego.
+E: Esto ya se está... hasta luego.
+I: Cerrar.
+E: Bueno, pues nada, sí, que está grabando ya.
+I: Que está.
+E: Pues nada, vamos a hacer como que nos presentamos en estos momentos. Y aquí estamos, a ver si por fin yo...

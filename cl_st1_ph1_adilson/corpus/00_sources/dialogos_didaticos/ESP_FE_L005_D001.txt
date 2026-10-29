@@ -1,0 +1,16 @@
+﻿Hola, ¿es tu primer día en la escuela?
+Sí.
+Muy bien. ¿Cómo te llamas?
+José.
+¿Y cuál es tu apellido?
+Contreras.
+¿De dónde eres, José?
+Soy chileno.
+¿Cuántos años tienes?
+Tengo 27 años.
+¿Y en qué trabajas?
+No trabajo, soy estudiante.
+¿Cuál es tu correo electrónico?
+j.contreras@mail.com
+¿Y tu teléfono?
+Sí, es el 640 88 93 57.

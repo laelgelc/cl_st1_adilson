@@ -1,0 +1,8 @@
+﻿Antonio: Soy Antonio Casado. Hay una habitación reservada para mí.
+Recepcionista: ¿Casado? ¿Es su apellido?
+Antonio: Sí. Casado.
+Recepcionista: Casado, Casado... Sí. Aquí está. La tiene reservada para dos noches. ¿Su carnet de identidad, por favor?
+Antonio: Aquí lo tiene.
+Recepcionista: Muy bien. Firme aquí. No, más abajo, aquí... Correcto. Habitación 316. Le deseo una feliz estancia en Madrid.
+Antonio: Gracias.
+

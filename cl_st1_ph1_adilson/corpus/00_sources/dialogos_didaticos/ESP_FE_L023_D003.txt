@@ -1,0 +1,6 @@
+﻿Hombre: Perdón, ¿dónde está la cafetería?
+Enfermera: Está en el piso de arriba, cerca de los ascensores.
+Hombre: Sí. ¿Y los servicios, por favor?
+Enfermera: Están enfrente de los ascensores.
+Hombre: ¡Muchas gracias!
+Enfermera: ¡De nada!

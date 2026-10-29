@@ -1,0 +1,11 @@
+﻿Buenos días, ¿cómo te llamas?
+Juan Fernández.
+Muy bien. ¿Cuántos años tienes?
+Doce.
+¿Dónde vives? Calle, número y ciudad…
+Calle Hernán Cortés, quince, Valencia.
+¿Cuál es tu número de teléfono?
+942 – 58 – 93 – 54.
+¿Tienes correo electrónico?
+Sí, fernandez@correo2.com
+Muy bien. Y ahora necesito tu firma.

@@ -1,0 +1,7 @@
+﻿¿Es grande?
+Sí.
+¿Está en la montaña?
+No.
+¿tiene jardín?
+Sí.
+

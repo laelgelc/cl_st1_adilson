@@ -1,0 +1,18 @@
+﻿Vicente: ¿Vienes del consultorio de la doctora?
+Margarita: Sí. Me voy a cambiar.
+Vicente: ¿Y qué te dijo?
+Margarita: Te manda saludos y dijo que fueras a verla lo antes posible...
+Vicente: No es eso lo que quiero saber... No te hagas la distraída. ¿Cómo te encontró?
+Margarita: Perfecta. Me dijo que no tengo nada. Que estoy maravillosa. Los análisis me salieron perfectos y la presión la tengo como la de una adolescente.
+Vicente: Margarita, no me mientas que vivimos juntos hace cuarenta años.
+Margarita: ¡Ay, no me lo hagas acordar que me asusto!
+Vicente: Bueno, vamos, a ver, ¿qué más te dijo?
+Margarita: Nada... eso... que estoy muy bien. Que coma carne no más de tres veces por semana, que tome mi café por las mañanas pero que suspenda el que tomo por la tarde...
+Vicente: Ahá. ¿Y qué más?
+Margarita: Bueeeeno, y me dijo que comiera menos cosas dulces. Me dijo también que caminara un poquito por la mañana y otro poquito por la tarde y listo. ¿Está bien?
+Vicente: No sé, no sé, me parece que me estás contando otra versión. Creo que voy a ir a la doctora pero para hablar de ti.
+Margarita: Nada... eso... que estoy muy bien. Que coma carne no más de tres veces por semana, que tome mi café por las mañanas pero que suspenda el que tomo por la tarde...
+Vicente: Ahá. ¿Y qué más?
+Margarita: Bueeeeno, y me dijo que comiera menos cosas dulces. Me dijo también que caminara un poquito por la mañana y otro poquito por la tarde y listo. ¿Está bien?
+Vicente: No sé, no sé, me parece que me estás contando otra versión. Creo que voy a ir a la doctora pero para hablar de ti.
+

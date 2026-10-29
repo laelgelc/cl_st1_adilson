@@ -1,0 +1,12 @@
+﻿Luigi: Hola, buenos días. Disculpe, he leído las normas de la residencia y hay algunas cosas que no entiendo, no sé si me puede ayudar.
+Recepcionista: A ver, dime.
+Luigi: La primera no la entiendo bien. ¿Me puede explicar qué quiere decir?
+Recepcionista: ¿A ver? «Solamente se admitirá un máximo de...».
+Luigi: Sí, sí. Eso sí. Eso es que solo puedo traer a la residencia a dos amigos al mismo tiempo, ¿verdad? La segunda parte es lo que no entiendo.
+Recepcionista: «Es obligatorio que el residente registre sus visitas a la entrada y a la salida de las mismas en el libro que a tal efecto encontrará en el mostrador de recepción». Bueno, es simplemente que tienes que comunicarnos cuándo vienen amigos tuyos. Y que aquí en la recepción tenemos un libro donde escribimos los nombres de las visitas cuando entran y cuando se van.
+Luigi: Ah, bien. ¿Qué más? Aquí dice que está prohibido que las visitas pernocten. Esa palabra, ¿qué significa?
+Recepcionista: Que no puede quedarse nadie a dormir.
+Luigi: Ah, entiendo. Y una cosa más, ¿qué es esto de novatadas?
+Recepcionista: Uf, eso no es fácil de explicar. A ver... Son bromas que hacen a veces los residentes antiguos a los nuevos, y, bueno, algunas son bromas simpáticas, pero otras pueden ser un poco molestas, ¿entiendes?
+Luigi: Sí, claro. Pues muchas gracias, muy amable.
+Recepcionista: De nada, hombre. Cuando necesites cualquier cosa, ya sabes...

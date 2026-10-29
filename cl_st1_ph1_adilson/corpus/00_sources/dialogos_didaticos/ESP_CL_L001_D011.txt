@@ -1,0 +1,12 @@
+﻿Perdona, estoy haciendo una encuesta sobre el consumo de comida rápida. ¿Me puedes responder a unas preguntas? Es un minuto.
+Vale, sin problema. No tengo prisa.
+¿Con qué frecuencia consumes comida rápida?
+Una vez a la semana. Normalmente los fines de semana, si salgo con amigas y cenamos fuera, porque es lo más económico.
+¿Dónde tomas comida rápida normalmente?
+En alguna hamburguería, me gustan todas.
+¿Qué opinas de la comida rápida?
+Me gusta de vez en cuando, pero no me encanta.
+¿Cuánto dinero sueles gastar cuando vas a este tipo de restaurante?
+Entre 10 y 15 euros, a veces menos.
+Pues eso es todo. Muchas gracias por colaborar.
+De nada. Adiós.

@@ -1,0 +1,9 @@
+﻿Buenas tardes, ¿qué quiere beber?
+Quiero un jugo de naranjas.
+Lo lamento, no hay naranja.
+Pues, un jugo de manzana.
+No hay manzanas.
+Bueno, pues volveré mañana.
+Mañana cerramos el bar.
+¿Para reponer la mercancía?
+No, para descansar de tanto trabajar...

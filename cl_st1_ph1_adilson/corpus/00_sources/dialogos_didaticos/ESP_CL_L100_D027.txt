@@ -1,0 +1,13 @@
+﻿Camarero: Aquí tiene su tique factura y su vuelto.
+Clienta: Muchas gracias, pero no me tiene que traer el vuelto. Me tiene que devolver la tarjeta.
+Camarero: No es posible. ¿No es este su tique
+factura?
+Clienta: Veamos: ¿cuál es el importe?
+Camarero: $54,50.
+Clienta: Correcto. Veamos los ítems: pollos deshuesados, una ensalada mixta especial, un mousse de chocolate.
+Camarero: Sí... dos aguas con gas y una sin gas. Y dos copas de vino.
+Clienta: No, tomamos solo dos aguas: una con gas y otra sin gas.
+Camarero: Hum... hum... ¿café?
+Clienta: Sí, uno cortado y otro solo.
+Camarero: Discúlpeme, creo que este es el tique factura de la mesa de al lado. Ya le traigo enseguida el suyo y su tarjeta.
+

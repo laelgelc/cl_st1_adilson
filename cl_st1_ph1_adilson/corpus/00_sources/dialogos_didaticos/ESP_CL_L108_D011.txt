@@ -1,0 +1,11 @@
+﻿Silvia: ¡Hola Amalia! ¿Cómo estás?
+Amalia: Bien, gracias. ¿Y, tú
+Silvia: Muy bien. ¿Son fotografías de tu familia?
+Amalia: Sí. Mira, ella es mi mamá, se llama Teresa.
+Silvia: ¿Quién es él? ¿Tu papá?
+Amalia: No, él es el hermano de mi mamá, se llama David. Él es mi tío.
+Silvia: ¿Y quiénes son ellos? ¿Tus hermanos?
+Amalia: No, ellos son mis primos: Roberto, Carlos y Clara. Ellos son los hijos de mis tíos David y María.
+Silvia: ¿Y, ellos?
+Amalia: Ellos son mis abuelos, Elena y Ricardo. Ellos son los papás de mi mamá.
+

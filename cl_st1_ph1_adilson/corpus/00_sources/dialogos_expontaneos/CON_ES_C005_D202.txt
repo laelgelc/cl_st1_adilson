@@ -1,0 +1,12 @@
+﻿A1: ¿queréis un café?
+E: yo recuerdo de donde vivíais
+A1: ¿eh? ¿quieres un café?
+E: no no quiero nada hija
+A1: ¿no quieres nada?
+E: no
+A1: ¿te apetece otra cosa? ¿té o algo?
+E: no nada nada nada
+A1: ¿nada nada nada?
+E: he desayunado y
+A1: ¿o un bollo o algo?
+E: nada

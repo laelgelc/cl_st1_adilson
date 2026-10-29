@@ -1,0 +1,7 @@
+﻿Hotel Central, buenos días, le atiende Claudia.
+Hola, buenos días, ¿podría pasarme con el departamento de reservas?
+Lo siento, ahora mismo no hay nadie. ¿Quiere hacer una reserva?
+Sí, quería una habitación doble del día 1 al 3 de marzo.
+¿A qué nombre le hago la reserva?
+Mi nombre es Antonio Herrera.
+Necesito el número de una tarjeta de crédito para hacer la reserva.

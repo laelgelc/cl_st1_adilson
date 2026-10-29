@@ -1,0 +1,54 @@
+﻿Camarero: Buenas tardes, señores.
+Rojas: Tenemos una reserva para tres personas.
+Camarero: ¿A nombre de quién?
+Rojas: A nombre de la empresa Centro.
+Camarero: ¡Ahl, efí, sí, está aquí. ¿ES usted el señor Rojas?
+Rojas: Si.
+Camarero: Los acompaño hasta la mesa. Por aquí, por favor. Tomen asiento. Aquí está la carta con el menú ejecutivo.
+Camarero: ¿Qué desean de primero?
+Rojas: ¿Cuáles son las opciones de entrada?
+Camarero: Hoy tenemos sopa crema de espárragos o sopa de pescado.
+Rojas: Tráigame una sopa crema.
+Señora Contastini: Yo quiero una sopa de pescado.
+Gutiérrez: A mí también me trae una sopa de pescado.
+Camarero: Muy bien, ?y de segundo?
+Gutiérrez: Hum... ¿cómo viene el lomito?
+Camarero: El lomo al plato viene a la grilla con una salsa de champiñones y su acompañamiento ideal es el puré de papas. Realmente es un manjar.
+Gutiérrez: Le acepto la sugerencia.
+Señora Contastini: ¿Qué relleno tienen los ravioles?
+Camarero: Ricota, carne o verdura. La especialidad de la casa son los ravioles de verdura con salsa de crema.
+Señora Contastini: ¿Qué lleva la salsa?
+Camarero: La crema, claro, con puerro y toques de
+pimienta y parmesano.
+Señora Contastini: Le acepto entonces la especialidad de la casa.
+Rojas: A mí me apetece comer pescado. ¿Cómo está
+la merluza?
+Camarero: Es uno de los platos más pedidos. Viene a la plancha con alcaparras. Muy liviano e ideal con una guarnición de papas al horno gratinadas.
+Rojas: Creo que está decidido, como plato fuerte tráiganos un lomo con puré, los ravioles a la crema y una merluza con papas al horno.
+Camarero: Muy bien. Y ¿qué van a beber?
+Gutiérrez: Tráiganos agua con gas y una copa de vino tinto.
+Rojas: Menos para mí. Creo que combina más un vino blanco con la merluza.
+Gutiérrez: Sin duda. Dos copas de vino tinto y una de vino blanco.
+Camarero: ¿Postre?
+Gutiérrez: Sí, tráiganos la carta.
+Camarero: Aquí está.
+Señora Contastini: ¿Qué es una espuma de naranja?
+Camarero: Es una especie de mousse, pero más liviana. Hecha a base del zumo de la fruta.
+Señora Contastini: Quiero una espuma de naranja. entonces.
+Gutiérrez: A mí me trae un flan.
+Camarero: ¿Y para usted?
+Rojas: Nada, gracias.
+Rojas: Oiga, por favor, ¿me trae otra botellita de agua?
+Camarero: ¿Café?
+Rojas: Sí, por favor. Un cortado.
+Gutiérrez: Un café solo.
+Señora Contastini: Uno con crema y canela.
+Rojas: Y tráiganos la cuenta, por favor.
+Camarero: Los cafés y la cuenta.
+Rojas: ¿Cuánto es?
+Camarero: 105 pesos.
+Rojas: Aquí tiene un cheque de la empresa Centro de 115 pesos y quédese con el vuelto.
+Camarero: Muchas gracias.
+Rojas: Tráigame la factura, por favor. Los datos de la empresa están con el cajero.
+Camarero: Muy bien, enseguida se la traigo.
+

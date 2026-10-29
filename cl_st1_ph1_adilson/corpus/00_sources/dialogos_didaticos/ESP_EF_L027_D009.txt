@@ -1,0 +1,15 @@
+﻿Camarero: Buenos días, aquí tienen el menú.
+Madre: Hijos, ¿qué queréis?
+Raúl: De primero quiero una sopa de marisco y de segundo un filete de ternera a la plancha
+bien cocido, con patatas
+Padre: ¿Y tú, Teresa?
+Teresa: Una ensalada verde y un filete de pollo a la plancha.
+Madre: De primero quiero una ensalada marinera y de segundo bacalao
+Camarero: Y usted, señor, ¿qué desea?
+Padre: Lo mismo que la señora.
+Camarero: ¿Y de beber?
+Teresa: Agua con gas y hielo.
+Raúl: Quiero un refresco de limón.
+Madre: Y, a nosotros, pónganos una botella de vino tinto.
+Camarero: ¿Algo más?
+Madre: Sí, un poco de pan, por favor.

@@ -1,0 +1,8 @@
+﻿Concha: ¿Diga?
+Luis: ¡Hola, soy Luis!
+Concha: ¡Hola, Luis! ¿Cómo estás?
+Luis: Muy bien. Hoy tengo la tarde libre. ¿Quieres venir conmigo al cine?
+Concha: Estupendo. Yo también tengo la tarde libre.
+Luis: ¿Nos vemos a las cinco? En el cine Rex.
+Concha: De acuerdo. Hasta pronto.
+

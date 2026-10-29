@@ -1,0 +1,14 @@
+﻿Agente de viajes (AV): Ahora que ya tienen sus pasajes a México, ¿puedo ayudarlos en algo más?
+Turista 1: Sí, dígame, ¿qué equipaje debo llevar?
+AV: Entre mayo y junio la temporada es más calurosa; lleve ropa leve. Para ir a clubes nocturnos o a restaurantes exclusivos, puede usar una vestimenta casual o una ropa un poco más formal.
+Turista 1: ¿Es fácil manejar en la ciudad?
+AV: Sí, pero existen zonas en las que el tráfico se congestiona, entre ellas el Centro Histórico de la ciudad.
+Turista 2: ¿Qué precauciones debo tomar a la hora de comer?
+AV: Las comidas del país son exquisitas y se caracterizan por ser picantes y muy condimentadas, por lo que conviene ser cauteloso a la hora de comer, especialmente los primeros días. Así su organismo se irá acostumbrando a la gastronomía local, como los tacos, el chilmole, las enchiladas y los tamales.
+Turista 3: ¿Tendré problemas para cambiar o pagar en dólares?
+AV: No, porque en México la mayoría de los establecimientos comerciales, hoteles y restaurantes aceptan dólares como forma de pago.
+Turista 2: ¿Dónde puedo comprar artesanías?
+AV: Yo les recomiendo adquirirlas en tiendas específicas de artesanías. Hay unos trajes bordados por mujeres otomíes que son muy bonitos; también hay juguetes de madera y cartón, tallas en ópalo y otras piedras semipreciosas, y cestos de diferentes tipos hechos a mano por los descendientes de los mayas.
+Turista 1: Muchas gracias por la información.
+AV: De nada, y que tengan un buen viaje.
+

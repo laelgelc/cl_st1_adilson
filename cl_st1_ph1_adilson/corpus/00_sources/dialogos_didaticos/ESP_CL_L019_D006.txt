@@ -1,0 +1,9 @@
+﻿Hola, ¿qué tal?
+Muy bien, ¿y tú?
+¿Cómo te llamas?
+Yo soy Sonia.
+¿Y el apellido?
+Silvia. Me llamo Sonia Silvia. ¿Y tú?
+Yo me llamo Juan. ¿Y de dónde eres?
+Soy de Rio de Janeiro.
+Yo también soy brasileño.

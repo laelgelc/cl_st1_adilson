@@ -1,0 +1,12 @@
+﻿Maître: ¡Buenas tardes!
+Turista: ¡Buenas tardes! Queremos una mesa para cuatro personas, por favor.
+Maître: ¿Hizo usted alguna reserva?
+Turista: No, no la hice.
+Maître: Bueno, no se preocupe, señor... El tiempo de espera es de veinte minutos. ¿Todo bien?
+Turista: ¡Sí, claro!
+Maître: ¿Su nombre?
+Turista: Hector García.
+Maître: ¿Disculpe?
+Turista: García. Se escribe G-A-R-C-Í-A.
+Maître: Muy bien, señor García. Puede esperar en el bar si lo desea.
+Turista: ¡Muchas gracias!

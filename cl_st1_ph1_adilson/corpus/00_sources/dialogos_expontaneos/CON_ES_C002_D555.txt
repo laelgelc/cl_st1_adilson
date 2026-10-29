@@ -1,0 +1,16 @@
+﻿A: solamente para mi gorda , pero si Héctor está por ahí , pásamelo sólo por un minuto .
+B: Un minuto , a ver , espero que .
+B: espero que hable algo bueno .
+B: y positivo , porque está muy positivo .
+A: ya , no te preocupes , no le digas , no le digas nada de que es grabado porque si no se pone nervioso .
+B: bien , ahí te lo paso .
+B1: &=noise hola , hasta mañana .
+A: aló , ne- aló , negro , hola negro , cómo estás .
+B1: aló , hasta mañana .
+B1: &=laughter .
+A: ya , deja de decir hasta mañana .
+A: está bien Chela ?
+B1: sí &=noise .
+A: el bebé está bien ?
+B1: me han dicho que hable dos palabras , hola y hasta mañana &=laugh .
+A: &=laughter oye , hermano , cuídate , sí ?

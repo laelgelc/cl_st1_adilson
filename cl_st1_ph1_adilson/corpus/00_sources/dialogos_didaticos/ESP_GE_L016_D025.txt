@@ -1,0 +1,10 @@
+﻿Juan Carlos: ¡Hola! Oye, ¿me podrías prestar una de tus novelas?
+Eva: ¡Hombre, claro! ¿Tienes alguna en mente?
+Juan Carlos: Pues, me gustaría leer alguna de Rómulo Gallegos. ¿Tendrías alguna?
+Eva: ¡Por supuesto!, tengo un clásico de la literatura venezolana: Doña Bárbara.
+Juan Carlos: ¿De qué se trata?
+Eva: Bien, es una novela cuyo tema se basa en la lucha entre la civilización y la barbarie, es un análisis de la sociedad llanera y del país, sus personajes representan todos esos conflictos. Es una obra muy humana y cautivante.
+Juan Carlos: Creo que me gustará, aprecio mucho esos temas.
+Eva: Seguro que te va a encantar. Su mensaje es muy hermoso, dice que por sobre todas las cosas, la verdad y la justicia prevalecen sobre el mal.
+Juan Carlos: ¡Me gustaría que el mundo fuera así!
+

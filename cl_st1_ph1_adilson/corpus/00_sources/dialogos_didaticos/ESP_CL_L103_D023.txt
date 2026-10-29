@@ -1,0 +1,16 @@
+﻿Nathan: A ver, aquí..., "Consulta padres", "Boletín de notas".
+Paula: Ah... sí, ahí están las notas.
+Nathan: Sí, Literatura siete, Inglés siete cincuenta...
+Paula: Pero estas son las del primer trimestre...
+Nathan: Claro, si ya empezó a relajarse desde el principio; tres en Computación...
+Paula: Bueno, Nathan, eso ya lo sabíamos, vamos a ver cómo va ahora.
+Nathan: Pero aquí están solo las notas del primer trimestre.
+Paula: A ver, apretá aquí, en "ver parciales".
+Nathan: Ahhh... sí. Ahora muestra las notas que ya tiene.
+Paula: A ver... Bueno, empezó a mejorar en Computación, pobre... se esfuerza tanto...
+Nathan: Sí, pero ya está dejando de estudiar en Química, en Literatura... y juno en Inglés!
+¡Claro, como tuvo nota alta, ahora se hizo el vivo y no entregó algún trabajo! ¡Decime si no es un irresponsable!
+Paula: Y... en algunas volvió a subir... Física, Filosofía, en Matemática sigue muy bien.
+Nathan: Y vos encima lo defendés...
+Paula: No, no lo defiendo, pero todavía no hablamo con él. Cuando venga, charlamos.
+Nathan: Bueno.

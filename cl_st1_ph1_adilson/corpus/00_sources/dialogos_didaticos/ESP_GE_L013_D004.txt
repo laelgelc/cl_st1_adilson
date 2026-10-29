@@ -1,0 +1,14 @@
+﻿MUJER: ¡Hola, Miguel! ¿Qué tal estás?
+HOMBRE: ¡Hola, Isabel! Bueno, estoy un poco cansado, pero en general todo bien, gracias. ¿Y tú? ¿Qué tal con los exámenes?
+MUJER: Bien, tengo mi último examen el próximo mes y luego... ¡las vacaciones!
+HOMBRE: ¡Qué bien! iMe alegro mucho! Yo espero un hijo, mi novia está cansada... y le ayudo con el trabajo de casa...
+MUJER: Bueno, ella no puede hacer muchas cosas, me imagino...
+HOMBRE: Claro. Ella está bien, pero no puede hacer esfuerzos.
+MUJER: ¿Y Cómo es tu nueva casa? ¿Dónde está?
+HOMBRE: Ahora vivimos en Leganés, cerca de Madrid. Nuestra nueva casa es un chalé en una zona de casas con
+familias. Tiene dos pisos y un jardín también.
+MUJER: iMuy bien! Es genial para vosotros y vuestros hijos.
+HOMBRE: ¡Sí, sí! Tiene una habitación muy grande para todos sus juegos, una sala de televisión, un estudio y mucho espacio para los niños.
+MUJER: iFantástico, me alegro! ¡Un saludo a tu novia!
+HOMBRE: ¡Gracias! Adiós.
+

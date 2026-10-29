@@ -1,0 +1,10 @@
+﻿Turista: ¿Perdón, está libre?
+Taxista: Sí, señor. ¿Adónde lo llevo?
+Turista: Por favor, vamos a la Praia do Futuro.
+Taxista: ¿Conoce Fortaleza?
+Turista: Sí, es la tercera vez que vengo aquí.
+Taxista: ¿Le gusta la ciudad?
+Turista: Mucho. Es una ciudad bella.
+Taxista: Y las playas de aquí, ¿ya conoció todas?
+Turista: No, solo algunas. Me gusta mucho Cumbuco y Canoa Quebrada.
+Taxista: Realmente son playas muy bonitas.

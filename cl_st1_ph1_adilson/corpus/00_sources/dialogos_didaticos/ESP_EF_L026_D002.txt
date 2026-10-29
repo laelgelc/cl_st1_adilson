@@ -1,0 +1,10 @@
+﻿Camarero: Buenos días, ¿qué les pongo?
+Juan: De primero quiero una ensalada de lechuga, espinacas y tomate, con aceite, por favor. De segundo, filete de ternera con patatas asadas. Y tú, María, ¿ya sabes qué vas a comer?
+María: Sí. De primero quiero una ensaladilla rusa y de segundo lenguado con pimientos
+Camarero: ¿Y para beber?
+María: Para mí una gaseosa, sin hielo
+Juan: Y para mí una botella de agua sin gas 
+Camarero: ¿Quieren algo para picar?
+Juan: Sí, una tapa de boquerones y aceitunas.
+Camarero: Enseguida.
+Juan: Muchas gracias.

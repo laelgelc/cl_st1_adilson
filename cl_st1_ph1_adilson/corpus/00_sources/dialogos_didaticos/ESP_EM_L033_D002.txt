@@ -1,0 +1,11 @@
+﻿Profesor argentino: Vos, ¿cómo te llamás?
+Paolo: Me llamo Paolo.
+Profesor argentino: ¿Y tu apellido?
+Paolo: Rossini.
+Profesor argentino: ¿De dónde sos?
+Paolo: Soy italiano, de Roma.
+Profesor argentino: ¿Qué hacés?
+Paolo: Estudio idiomas y soy ingeniero agrónomo.
+Profesor argentino: ¿Sos soltero?
+Paolo: No, no; soy casado.
+

@@ -1,0 +1,11 @@
+﻿Daria: ¡Hola! Yo soy Daria, y tú, ¿cómo te llamas?
+David: ¡Qué tal!, yo soy David. ¿De dónde eres, Daria?
+Daria: Soy de Polonia, ¿y, tú?
+David: De Estados Unidos.
+Daria: David, te presento a mis amigos Ronaldo y Rogerio.
+David: Mucho gusto.
+Ronaldo: Mucho gusto.
+Rogerio: Igualmente.
+David: ¿De dónde son ustedes?
+Ronaldo: Nosotros somos de Brasil.
+

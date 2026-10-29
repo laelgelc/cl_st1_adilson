@@ -1,0 +1,7 @@
+﻿<H1> ¿Verdad, señora?  
+<H2> Pues sí.  
+<H1> Pues no, señora, no. Entonces su hijo no es el cabeza de familia. ¿Me quiere decir usted de qué viven en esta casa, por favor?  
+<H2> Bueno, pues la verdad es que vivimos de Manolo.  
+<H1> Manolo será otro hijo, ¿verdad?  
+<H2> Pues... no. Manolo es el inquilino. Le tenemos alquila<(d)>o un cuarto, allá abajo...  
+<H1> Bueno, bueno, señora; mejor lo dejamos... y ponga usted lo que quiera.

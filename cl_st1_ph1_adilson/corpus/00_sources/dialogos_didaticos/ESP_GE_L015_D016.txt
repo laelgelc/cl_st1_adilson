@@ -1,0 +1,17 @@
+﻿Jorge: Hola Pepe, ¿qué tal estás?
+Pepe: Hola Jorge, estoy bien, gracias. ¿Y tú?
+Jorge: Estoy bien también. Oye, ¿te gusta algún deporte en particular?
+Pepe: Sí, me gusta mucho el fútbol. ¿Y tú?
+Jorge: A mí también me gusta el fútbol, pero también me gustan otros deportes como el baloncesto y el tenis.
+Pepe: Sí, el tenis es un deporte muy interesante. ¿Alguna vez has jugado?
+Jorge: Sí, he jugado algunas veces, pero no soy muy bueno en ello. ¿Y tú?
+Pepe: Yo he jugado desde pequeño y me gusta mucho. Es un deporte que requiere mucha concentración y habilidad.
+Jorge: Sí, definitivamente requiere habilidad y destreza. ¿Qué opinas del boxeo?
+Pepe: Bueno, no soy muy fanático del boxeo, pero entiendo que es un deporte que requiere mucha técnica y entrenamiento. ¿Y tú?
+Jorge: A mí tampoco me gusta mucho el boxeo. Prefiero deportes
+menos violentos. Pepe: Sí, entiendo. Cada uno tiene sus gustos y preferencias en cuanto a
+deportes. Lo importante es hacer ejercicio y mantenerse activo.
+Jorge: Totalmente de acuerdo. Practicar deportes es una forma divertida y saludable de mantenerse en forma y mejorar nuestra salud.
+Pepe: Definitivamente. ¡Hablemos más sobre deportes en otra ocasión!
+
+

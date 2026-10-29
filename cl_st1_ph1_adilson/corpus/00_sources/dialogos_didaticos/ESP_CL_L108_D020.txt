@@ -1,0 +1,19 @@
+﻿A: ¡Buenas tardes! ¿Puedo ayudarla?
+B: Sí, gracias. Necesito comprar un regalo para mi novio. ¿Tienen camisas?
+A: Por supuesto. Tenemos camisas formales e informales. ¿Cuál prefiere?
+B: Informal. ¿De qué materiales tiene?
+A: Tenemos de algodón, lino y mezclilla.
+B: De lino está bien. ¿De qué colores hay?
+A: Hay azul cielo, blanco, beige, gris y negro.
+B: Pienso que beige.
+A: Muy bien. ¿Qué talla necesita: chica, mediana, grande o extra grande?
+B: Mediana, por favor. También necesito un cinturón café para hombre.
+A: Tenemos de piel y de plástico. ¿Cuál prefiere?
+B: El de piel ¿Cuánto es en total?
+A: Son $ 1 678.00.
+B: ¿Aceptan tarjetas de crédito o sólo efectivo?
+A: Aceptamos tarjetas de débito y también efectivo.
+B: Perfecto. Aquí tiene
+A: Muchas gracias por su compra. Hasta pronto.
+B: Gracias. Hasta luego.
+

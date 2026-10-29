@@ -1,0 +1,37 @@
+﻿E: Bueno pues vamos a empezar ya. Antes de nada, lo primero que quiero que me digas es: ¿qué prefieres, cómo prefieres que te trate? ¿Te trato de usted o de tú?
+I: No, de tú.
+E: ¿De tú?
+I: Sí.
+E: ¿Alguien te trata de usted?
+I: En clase. Pero vamos, los profesores, algunos.
+E: ¿Los profesores?
+I: Sí, algunos.
+E: ¿Sí? ¿A los estudiantes? ¿Dónde vas, a un instituto?
+I: Sí, al Antonio Machado.
+E: Al Antonio Machado. ¿Y quién te ha contactado para hacer esto?
+I: Un profesor que tuve hace dos años.
+E: ¿Es profesor tuyo?
+I: Sí.
+E: Es compañero mío, yo lo conozco. Oye, ¿y qué es lo que te ha dicho sobre la encuesta?
+I: Nada, pues que si se la queríamos hacer, que estabais haciendo una encuesta sobre Alcalá de Henares, ¿no? Y nada, que nos ibais a hacer algunas preguntas.
+E: Y que os íbamos a hacer unas preguntas. Bueno, para empezar con esas preguntas que te quiero hacer, dime en qué circunstancias tratas de usted o de tú a la gente que habitualmente te rodea. Por ejemplo, ¿hay algún miembro de la familia a quién le trates de usted? ¿Al abuelo o algo así?
+I: Pues a mis abuelos y a mis tíos.
+E: ¿Sí? ¿Les llamas de usted?
+I: Sí, porque mis primos le tratan de usted y son sus padres. O sea que yo también.
+E: ¿Y a tus padres no?
+I: No, a mis padres de tú.
+E: ¿Y a los vecinos por la calle? ¿A la gente conocida del vecindario?
+I: Hombre, depende. Si le conozco mucho, mucho, pues de tú, porque si no se me enfadan.
+E: ¿Sí?
+I: Sí. Y a otros de usted.
+E: Y a otros de usted. ¿Y por ejemplo si entras en un comercio a comprar cualquier cosa?
+I: De usted.
+E: Y bueno, en la escuela me has dicho que el profesor os trata de usted a vosotros. ¿Y vosotros?
+I: Depende también. Si él me trata de usted, pues yo también. Si no, pues de tú.
+E: ¿Y una persona mayor siempre le tratas de usted, y esa persona te trata de tú? ¿Tú qué haces, continúas tratándole de usted?
+I: Sí.
+E: Sí, ahí no hace falta que no sea recíproco, ¿no? Bueno, muy bien. Yo te trataré de tú.
+I: Vale.
+E: Y tú a mí, por supuesto también.
+I: ¿De tú también?
+E: De tú.

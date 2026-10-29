@@ -1,0 +1,10 @@
+﻿A: cómo está a nivel general todos ?
+B: acá todo está muy bien , sí , no te preocupes , todo está muy bien .
+A: cómo está la Cindy ?
+B: ninguna novedad .
+B: allí está en .
+B: está más grande ya .
+B: no sé si habrás visto allí una foto allí en el carro .
+B: no la guardaría &=distortion .
+A: sí pero no , no la han tomado bien la foto , o sea está escondida pues .
+B: ah sí &=noise .

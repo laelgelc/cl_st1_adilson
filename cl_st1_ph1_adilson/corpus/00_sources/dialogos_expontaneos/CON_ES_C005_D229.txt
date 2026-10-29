@@ -1,0 +1,6 @@
+﻿E: ¿y usted en qué barrio vive?
+I: eeh yo vivo en el barrio San Luis comuna seis (6)
+E: ¿y cuánto tiempo lleva viviendo en ese barrio?
+I: veintiocho (28) años
+E: ¿y le gustaría irse a vivir a otro barrio?
+I: humm la verdad no no me gusta me siento seguro a pesar de que el barrio ha presentado en años pasados eeh hum algunos puntos de inseguridad

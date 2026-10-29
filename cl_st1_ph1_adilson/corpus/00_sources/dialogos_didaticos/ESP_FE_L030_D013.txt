@@ -1,0 +1,7 @@
+﻿¿Está encima de la mesa?
+No.
+¿En este cajón?
+No.
+¿Al lado de la calculadora?
+¡Sí!
+

@@ -1,0 +1,6 @@
+﻿Maître: ¡Buenas noches!
+Turista: ¡Buenas noches! ¡Queremos una mesa!
+Maître: Sí, ¿para cuántas personas?
+Turista: Para cuatro personas
+Maître: Muy bien. Síganme, por favor.
+Turista: ¡Sí, claro!

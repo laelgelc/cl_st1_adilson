@@ -1,0 +1,9 @@
+﻿? ¿Vamos al cine esta tarde?
+? Uy, no sé. Mañana tengo clase.
+? ¿A qué hora?
+? A las nueve, como siempre.
+? Bueno, pero el cine es por la tarde. ¿A qué hora te vas a la cama?
+? A las once y media de la noche. Pero es que, además, hoy juega el Real Madrid contra el Barça y quiero verlo.
+? Pero el cine es a las siete menos veinte de la tarde y el partido es a las nueve de la noche.
+? Ah, entonces, perfecto.
+

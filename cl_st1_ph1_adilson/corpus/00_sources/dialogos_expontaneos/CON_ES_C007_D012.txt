@@ -1,0 +1,13 @@
+﻿B: y ese experimento ¿en qué consiste?
+A: Este están grabando es ¿ves que lo – en mi trabajo es en lo de reconocimiento de
+lenguaje? por computadora
+B: ah sí pues
+A: entonces pues han estado haciendo mucho eso de que sea lenguaje formal
+B: sí
+A: ahora quieren hacer lenguaje natural quieren
+B: mmm
+A: entender cómo funciona y demás
+B: si ya lo entiendo
+A: ujum por eso así lo están haciendo
+B: está bien.
+A: pero pero así está todo el rollo

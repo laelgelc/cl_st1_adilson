@@ -1,0 +1,8 @@
+﻿Socio: ¿Ya has leído los currículos?
+Socia: No, todavía no. ¿Puedes hacerme un resumen?
+Socio: Bueno, en total hay cuatro candidatos, dos mujeres y dos hombres, pero yo solo leí el de las mujeres. Los otros dos los tiene José Luís. 
+Socia: Bueno, primero me cuentas tú y después hablo con él.
+Socio: Entonces empecemos por Ana. Estudió Economía en la Universidad Nacional, y no tiene hijos. De 1995 a 2004 trabajó en tres empresas, o sea, nunca se fija en el mismo lugar por más de tres años. Participa con frecuencia en congresos y tiene varios cursos de especialización. Es hija de un amigo del dueño.
+Socia: Vale. ¿La próxima?
+Socio: Después tenemos a Isabel, que cumplió cuarenta años, tiene dos hijos, y estudió Bioquímica. Trabajó diez años en industrias de alimentos desarrollando productos. La despidieron. Estuvo ocho meses desempleada. Hizo cursos en el área de marketing y tuvo muchos trabajos temporarios.
+

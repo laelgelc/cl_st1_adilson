@@ -1,0 +1,16 @@
+﻿Hola, ¿eres nueva en la escuela?
+Sí, es mi primer día.
+Muy bien, ¿cómo te llamas?
+Carmen Roma.
+Carmen, ¿de dónde eres?
+Soy de Sevilla.
+¿Y cuántos años tienes?
+Tengo treinta y dos años.
+¿Y a qué te dedicas?
+Soy secretaria.
+¿Cuál es tu teléfono?
+Nueve tres, cuatro nueve tres, siete ocho, cuatro seis.
+¿Puedes repetirlo?
+Sí, nueve tres, cuatro nueve tres, siete ocho, cuatro seis.
+Por último, ¿tu e-mail?
+Carmen guion bajo roma arroba mail punto com.

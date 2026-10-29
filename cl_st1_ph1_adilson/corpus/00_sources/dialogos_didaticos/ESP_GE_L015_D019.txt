@@ -1,0 +1,14 @@
+﻿Ana: Oye, ¿te gustan los colores?
+Juan: Si, me encantan los colores. ¿Y a ti?
+Ana: Sí, también me gustan mucho. ¿Cuál es tu color favorito?
+Juan: Mi color favorito es el azul. Siempre me ha gustado mucho porque me
+recuerda al mar y al cielo. Ana: Sí, el azul es un color muy relajante y tranquilo. A mí me gusta mucho el verde porque me recuerda a la naturaleza y a la vida. 
+Juan: Si, el verde es un color muy bonito y fresco. ¿Te gustan los colores brillantes y llamativos? Ana: Si, me gustan los colores brillantes y llamativos, especialmente para la ropa de verano. ¿Y tú?
+Juan: Si, a veces me gusta usar colores brillantes para darle un toque de alegría a mi ropa. Pero también me gusta usar colores más oscuros para ocasiones más formales.
+Ana: Sí, los colores oscuros son elegantes y formales. Pero también hay ocasiones en las que es divertido usar colores brillantes y atrevidos.
+Juan: Si, definitivamente. ¿Has notado que cada color tiene un significado diferente?
+Ana: Sí, es interesante cómo los colores pueden afectar nuestro estado de ánimo y nuestras emociones. Por ejemplo, el rojo puede ser un color de pasión y energía, mientras que el amarillo puede ser un color de alegría y felicidad.
+Juan: Si, es verdad. Los colores pueden transmitir diferentes sensaciones y emociones. Es por eso que es importante elegir cuidadosamente los colores que usamos en nuestra vida diaria.
+Ana: Totalmente de acuerdo. Ha sido una conversación muy interesante.
+Juan: Siempre es divertido hablar sobre las cosas que nos gustan y cómo nos afectan en nuestras vidas.
+

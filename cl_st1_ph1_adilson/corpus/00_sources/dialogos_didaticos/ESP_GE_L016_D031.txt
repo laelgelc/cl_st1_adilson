@@ -1,0 +1,7 @@
+﻿Telefonista: Buenos días.
+Clienta: Buenos días, me gustaría hacer una llamada a cobrar a Brasil.
+Telefonista: Perdona, no te entiendo.
+Clienta: Necesito llamar a mis padres y ellos van a pagar la llamada allá
+Telefonista: ¡Ah! Si, e de acuerdo, aquí llamamos a este tipo de llamada a cobro revertido. ¿Podría darme el número de teléfono y su habitación?
+Clienta: ¡Ah! Gracias, la habitación es 374 y el teléfono en Brasil el 2261.....
+

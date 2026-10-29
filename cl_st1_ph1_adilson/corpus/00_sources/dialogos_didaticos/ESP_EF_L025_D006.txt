@@ -1,0 +1,8 @@
+﻿Hola. ¿Cuánto cuestan estos chicles?
+Cien pesos cada uno.
+Quiero dos. ¿Y cuánto cuesta este chocolate?
+Quinientos pesos.
+Quiero uno. ¿Cuánto es?
+Doscientos de los chicles y quinientos del chocolate. Setecientos todo.
+Acá tiene.
+Gracias.

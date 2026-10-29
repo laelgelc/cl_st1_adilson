@@ -1,0 +1,12 @@
+﻿Enfermero: ¿Es usted la señora Gómez?
+Paciente: Sí, soy yo.
+Enfermero: ¿Qué le pasa, señora Gómez?
+Paciente: Me duele el estómago.
+Enfermero: ¿Está tomando alguna medicación?
+Paciente: No.
+Enfermero: Bueno. Permítame medir su temperatura y tensión arterial.
+Paciente: ¡Por supuesto!
+(Algunos minutos después.)
+Enfermero: Su tensión y temperatura están normales.
+Paciente: ¡Gracias!
+Enfermero: El médico le atenderá enseguida.

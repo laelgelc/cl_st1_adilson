@@ -1,0 +1,11 @@
+﻿Servicio de habitaciones: ¡Buenos días! Servicio de habitaciones, ¿dígame?
+Huésped: Sí, necesito que laven unas camisas.
+Servicio de habitaciones: Dígame a nombre de quién y su habitación, por favor.
+Huésped: A mi nombre, Roberto Ortiz. Estoy en la habitación 131.
+Servicio de habitaciones: Vamos a ver, señor Roberto Ortiz, habitación 131, ¿sí?
+Huésped: ¡Exacto!
+Servicio de habitaciones: Le pediré a la camarera que recoja sus camisas en este momento.
+Huésped: Sí, sólo que las necesito hoy mismo, por la noche.
+Servicio de habitaciones: Claro que sí. Se las entregaremos hoy por la noche.
+Huésped: ¡Muchas gracias!
+Servicio de habitaciones: De nada.

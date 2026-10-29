@@ -1,0 +1,11 @@
+﻿MUJER: Buenos días, ¿en qué puedo ayudarle?
+HOMBRE: Hola, estaba buscando una chaqueta.
+MUJER: ¿De qué tipo?
+HOMBRE: Una chaqueta que abrigue.
+MUJER: ¿Para alguna actividad en concreto?
+HOMBRE: Pues mire, me gusta mucho hacer excursiones al monte y necesito algo que me proteja del frío.
+MUJER: ¿Qué le parece esta?
+HOMBRE: Me gusta, ¿pero no la tiene de algún color más oscuro?
+MUJER: Sí, la tenemos de color azul marino.
+HOMBRE: Entonces me la llevo, ¿cuánto cuesta? 
+

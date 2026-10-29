@@ -1,0 +1,9 @@
+﻿Pedro: Perdone, ¿sabe dónde queda la calle Goya?
+Rosario: Sí, pero está un poco lejos de aquí.
+Pedro: Entonces ¿tomo un autobús?
+Rosario: Sí, ve aquella tienda al otro lado, justo después de la tienda en la esquina hay una parada de autobús.
+Pedro: ¿Y qué autobús debo tomar?
+Rosario: El número 452, no tiene cómo perderse.
+Pedro: Muchas gracias.
+Rosario: De nada.
+

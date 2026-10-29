@@ -1,0 +1,5 @@
+﻿A: Señorita Torres, ¿ya ha llegado el señor Gorostiaga?
+B: No, todavía no.
+A: ¡Qué raro que no haya llegado todavía!
+B: Sí, la verdad que sí. Gorostiaga es muy puntual.
+A: Lo lamento, pero tengo que comenzar sin él.

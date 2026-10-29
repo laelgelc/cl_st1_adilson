@@ -1,0 +1,13 @@
+﻿Rodolfo:- Valeria, ven, vamos al parque.
+Valeria: ¿Qué hay en el parque?
+Rodolfo: Dicen que hay una casa abandonada y que en esa casa vive un fantasma.
+Valeria: ¡Bah!, no creo en fantasmas.
+Rodolfo: Sí, sí. Mi hermano escuchó un ruido pasando por allí.
+Valeria: Vamos a ver qué tiene esa casa.
+[...]
+Rodolfo: Es esa.
+Valeria: No veo nada terrorífico. La casa tiene puerta y ventanas como cualquier o
+Rodolfo: Mira, la puerta se abre. Corre.
+Valeria: No, espera. Hay alguien ahí y no parece ser un fantasma.
+Señor: ¿Qué pasa? ¡Ah!, ya... el fantasma. Aquí no. hay ningún fantasma. Yo soy el vigila del parque y vivo en esa casa. No sé por qué dicen que soy un fantasma.
+Rodolfo: Sí, sí... es que... bueno, adiós.

@@ -1,0 +1,9 @@
+﻿Jefe: Señorita Mara, por favor, llame a nuestro representante e infórmele que la reunión quedó para el jueves a las tres. ¿El jueves es veinticinco o veintiséis?
+Mara: El jueves es 26, señor.
+Jefe: Bueno. Pídale que me envíe treinta o cuarenta catálogos de productos y dígale que si los pierde u olvida, tendremos problemas. Infórmeme los horarios de los vuelos a Asunción; quiero viajar por la mañana temprano o al mediodía.
+Mara: Sí, cómo no.
+Jefe: Llame también al consultorio de mi dentista y cambie el horario del jueves. Ahora, muéstreme los precios de las joyas que quiero regalarle una a mi mujer.
+Mara: Sí, el anillo cuesta quinientos ochenta y cinco euros; el collar, ochocientos noventa y nueve euros; y los pendientes setecientos cuarenta y cinco euros.
+Jefe: ¿De plata u oro?
+Mara: De oro.
+Jefe: Compre el anillo e incluya el valor en mi planilla de gastos personales.

@@ -1,0 +1,12 @@
+﻿Pilar: ¿Qué lees?
+José: Un poema bellísimo. Si te leyera una parte, ¿sabrías de quién se trata?
+Pilar: ¡A lo mejor! Conozco muchos poemas. A ver, léemelo, por favor.
+José: Está bien: "Entre mi amor y yo han de levantarse trescientas noches como trescientas paredes y el mar será una magia entre nosotros". [...]
+Ahora, ¿me podrías decir de quién es?
+Pilar: Oye, me suena; sin embargo, no me gustaría meter la pata. Prefiero que me digas quién es el autor.
+José: Es Jorge Luis Borges.
+Pilar: ¡Genial! ¿Y, cómo se llama el poema?
+José: Despedida.
+Pilar: A mí me gustaría conocer toda la obra de Borges.
+José: A mí también.
+

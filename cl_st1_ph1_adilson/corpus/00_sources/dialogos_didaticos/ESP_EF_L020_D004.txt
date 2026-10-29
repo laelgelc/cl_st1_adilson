@@ -1,0 +1,8 @@
+﻿¿Tú eres José?
+No, yo soy Diego.
+¿Quién es José?
+José es mi primo.
+¿Cuántos sois en casa?
+Somos tres. Y usted, ¿quién es?
+Yo soy Juan.
+Ah!, Mucho gusto.

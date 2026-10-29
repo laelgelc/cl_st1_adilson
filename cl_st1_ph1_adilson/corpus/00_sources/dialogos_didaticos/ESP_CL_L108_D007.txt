@@ -1,0 +1,7 @@
+﻿Laura: ¡Buenos noches! Soy Laura. ¿Cómo te llamas?
+César: ¡Buenos noches! Soy César. ¿De dónde eres?
+Laura: Soy de España, ¿y, tú?
+César: Soy de Argentina. ¿Eres casada?
+Laura: No, soy soltera. Y tú, ¿eres soltero?
+César: No, soy viudo.
+

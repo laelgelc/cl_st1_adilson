@@ -1,0 +1,4 @@
+﻿Hola, yo soy Santiago y tú, ¿cómo te llamas?
+¡Hola!, me llamo Julia, ¿qué tal?
+Bien, gracias, ¿y tú?
+Muy bien también.

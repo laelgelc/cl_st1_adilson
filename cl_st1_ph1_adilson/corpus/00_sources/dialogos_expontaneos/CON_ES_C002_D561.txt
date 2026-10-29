@@ -1,0 +1,9 @@
+﻿A: Mira .
+A: te llego , llego a la casa y después hablamos .
+A: pásame con mamá ahora , que se me va acabar el tiempo , se me acaba el tiempo oye Negro .
+A: oye .
+B1: no , no , no , no sé , ni un- chao .
+B1: chao , cuídate &=noise .
+A: mándale saludos a Chela y al bebé , un besote , hermano , cuídate bastante .
+B1: ya , ojalá que te lo puedan recibir , ahora que llegue , ya , chao .
+A: &=laughter chao , Negro .

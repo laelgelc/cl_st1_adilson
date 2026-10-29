@@ -1,0 +1,14 @@
+﻿¿Dónde vives?
+Vivo en un piso pequeño en el centro de la ciudad.
+¿Cómo es?
+Es nuevo, moderno y muy bonito. Es exterior. Tiene mucha luz.
+¿Cuántas habitaciones tiene?
+Dos habitaciones, un salón, cocina y un cuarto de baño.
+¿Tiene calefacción?
+Sí, calefacción central y agua caliente.
+¿Tiene terraza?
+No, no tiene terraza, pero tiene un balcón en el salón. Además, tiene garaje, ascensor y aire acondicionado.
+¿Está lejos de la universidad?
+No, está muy cerca, a unos cinco minutos andando.
+¿Es muy caro el alquiler?
+No, es muy barato: 180,3 euros al mes.

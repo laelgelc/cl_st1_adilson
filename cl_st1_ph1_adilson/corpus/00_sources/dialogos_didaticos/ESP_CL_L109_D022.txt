@@ -1,0 +1,11 @@
+﻿Ramón: Mañana es sábado. ¿Cómo está el frigorífico, María?
+María: Vacío; hoy es viernes…
+Ramón: Pues aquí están los menús de la semana.
+María: Estupendo. Eres un compañero ideal. A ver: el lunes, ensalada, pollo y fruta. El martes, sopa, carne y fruta. El miércoles…
+Ramón: El miércoles, espagueti, carne y fruta. El viernes, arroz a la cubana, pescado y fruta.
+María: Mm… Ya tengo hambre. ¿y el sábado? El sábado no trabajamos y estamos en casa. Quiero un menú especial. A ver: ensalada, bistec de ternera, fruta y flan. No está mal.
+Ramón: Y el domingo, paella y helado. ¿te parece bien?
+María: Sí, me parece bien. Vamos al supermercado.
+Ramón: Ya son las ocho. ¿No estás muy cansada?
+María: No. Así hay menos gente y hacemos la compra más rápidamente.
+

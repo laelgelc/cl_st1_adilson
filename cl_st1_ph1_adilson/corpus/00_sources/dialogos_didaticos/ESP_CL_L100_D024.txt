@@ -1,0 +1,8 @@
+﻿Señorita Pérez: Dígame.
+Rojas: Señorita Pérez, habla Rojas.
+Señorita Pérez: Sí, ¿qué necesita?
+Rojas: El próximo lunes va a haber una reunión con el señor Gutiérrez, nuestro mayor distribuidor, y vamos a almorzar juntos. Para la ocasión quiero contar con la presencia de mi consultora comercial, la señora Contastini. Anote en la agenda el compromiso y avísele a la señora Contastini. Cualquier cosa, llámeme o venga hasta mi oficina.
+Señorita Pérez: Muy bien, señor Rojas. ¿va a necesitar tique restaurante?
+Rojas: No, pues se trata de un almuerzo de trabajo, así que la empresa se hará cargo de la cuenta, que va a entrar en viáticos. Haga una reserva en el restaurante Buen Paladar, del centro, mesa para tres personas, e informe que vamos a necesitar una factura.
+Señorita Pérez: ¡Ahora mismo!
+

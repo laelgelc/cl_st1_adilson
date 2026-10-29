@@ -1,0 +1,12 @@
+﻿Camarero: ¿Señor Hector García?
+Turista: Soy yo.
+Camarero: ¡Su mesa está lista! ¡Por aquí, por favor!
+Turista: Muy bien.
+Camarero: ¡Siéntese! Aquí está el menú.
+Turista: Muchas gracias.
+Camarero: ¿Le apetece beber algo?
+Turista: Sí, dos caipirinhas, por favor.
+Camarero: Se las traigo en un minuto.
+(Algunos minutos después.)
+Camarero: Aquí están.
+Turista: Muchas gracias.

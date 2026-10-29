@@ -1,0 +1,9 @@
+﻿Fernando: ¡Buenas, Carmen! Oye, ¿conoces al pintor colombiano Fernando Botero?
+Carmen: Sí, hombre, y él no es sólo pintor sino que también es escultor.
+Fernando: Chica, lo que me llama la atención en sus obras es la gordura de sus personajes.
+Carmen: Sí, es verdad. Es su rasgo principal. Además, es uno de los pocos artistas que ha exhibido sus obras en las avenidas y plazas más famosas del mundo. Y ahí te hablo de los Campos Elíseos de París, de la Quinta Avenida de Nueva York, del Paseo de Recoletos en Madrid, de la Plaza de la Señoría en Florencia y hasta de las Pirámides de Egipto.
+Fernando: ¡Qué éxito! ¿Eh? ¿Sabías que desde pequeño fue un gran aficionado taurino?
+Carmen: Sí, y sus primeros dibujos fueron sobre toros y toreros.
+Fernando: Bueno, Carmen, me voy; sé que estás ocupada y yo dándote charla. Sin embargo, fueron muy provechosas tus informaciones. Te dejo. Hasta otro día.
+Carmen: Hombre, fue un placer charlar contigo. Adiós.
+

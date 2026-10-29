@@ -1,0 +1,17 @@
+﻿Jorgelina: Dos copias de cada documento, por favor.
+Rodolfo: Disculpe, ¿está en la cola?
+Jorgelina: No, ya... ¿Rodolfo?
+Rodolfo: ¡Jorgelina Ferrara! ¡Tanto tiempo!
+Jorgelina: No nos vemos desde la colación de grado... ¿Estás trabajando aquí?
+Rodolfo: Sí, hace una semana.
+Jorgelina: Pero ¿no trabajabas en una empresa de telecomunicaciones?
+Rodolfo: Sí, pero uno piensa que tiene el puesto asegurado, no se preocupa en actualizarse... hasta que un día alguien más preparado ocupa tu lugar...
+Jorgelina: Lo siento. Pero hoy en día todo es tan rápido, no te da tiempo a quedarte parado ni un solo minuto.
+Rodolfo: Sí, las cosas no son como antes. ¿Te acuerdas? Nuestros abuelos entraban de jóvenes en una empresa, hacían carrera y se jubilaban después de años y años de trabajo en el mismo lugar. La gente antes tenía más seguridad en el empleo. Ahora la seguridad es momentánea.
+Jorgelina: Mi abuelo es un caso: era funcionario de los Correos. De mensajero a cartero; de cartero a oficinista; de oficinista a telegrafista. ¡Y todo se aprendía dentro del trabajo!
+Rodolfo: Telegrafista... una profesión que no existe más. Hoy en día uno tiene que ser un experto, tener amplios conocimientos en sistemas de computación y de idiomas, además de saber un poco de cada cosa, para estar siempre disponible para cualquier
+puesto.
+Jorgelina: La verdad que sí. Yo, por ejemplo, trabajaba en el sector de Recursos Humanos y ahora estoy en el área de marketing.
+Rodolfo: ¡Qué bien! También estoy en el área de marketing. Mientras estaba desempleado y buscaba otro empleo, la gente me decía que tenía que hacer un curso de Marketing. Y acá está el resultado: gracias al curso de Marketing estoy trabajando en tu sector.
+Jorgelina: Pues, bienvenido y a aprovechar todas las oportunidades. ¿Sabes que va a haber un curso la próxima semana?...
+

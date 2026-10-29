@@ -1,0 +1,20 @@
+﻿A: ¡Buenas noches!
+B: ¡Buenas noches! ¿Necesita ayuda?
+A: Sí, gracias. Deseo comprar una pulsera.
+B: Tenemos una gran variedad. ¿De qué material desea?
+A: Pues...
+B: Tenemos de oro, de plata, de madera y de plástico.
+A: Las pulseras de plástico son bonitas. ¿De qué colores tienen?
+B: Anaranjado, amarillo, verde, rosa y morado.
+A: Verde está bien. También necesito unos aretes.
+B: Aquí tenemos aretes de oro, ahí en esa mesa de plata, y allí en el aparador de madera.
+A: De oro, por favor.
+B: Aquí tiene.
+A: ¿Aceptan tarjetas de crédito?
+B: Por supuesto, y también aceptamos dinero en efectivo.
+A: ¿Cuánto es en total?
+B: Son $235.00 de las pulseras y $750.00 de los aretes, entonces es un total de $985.00
+A: Muy bien. Aquí tiene.
+B: Recibo $1000.00 en efectivo y su cambio es de $15.00. Muchas gracias por su compra.
+A: Gracias a usted.
+

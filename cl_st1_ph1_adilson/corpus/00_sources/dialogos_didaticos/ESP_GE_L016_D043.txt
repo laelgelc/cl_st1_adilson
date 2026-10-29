@@ -1,0 +1,9 @@
+﻿Fernando: He terminado un libro de Ernesto Sabato esta semana.
+Carlos: ¿De verdad?, ¿cuál?
+Fermando: Uno y el Universo.
+Carlos: A ese lo había leído el año pasado. ¿Qué te pareció?
+Fernando: Me pareció bastante interesante, se lo voy a recomendar a una amiga.
+Carlos: Me acuerdo que en aquella época me había gustado más Sobre Héroes y tumbas aunque su comienzo me pareciera tenebroso.
+Fernando: He leído que empieza con el misterio de un crimen, me encantan estos temas...
+Carlos: Si quieres te lo presto.
+

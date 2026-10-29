@@ -1,0 +1,16 @@
+﻿HOMBRE: ¡Hola, Cristina! ¿Qué tal?
+MUJER: iMuy bien, papá!
+HOMBRE: Tienes tu mochila, los libros y todo, ¿verdad, hija?
+MUJER: Sí, papá. Aquí está todo.
+HOMBRE: ¿Qué tal tu primer día de escuela?
+MUJER: Bien. Tengo muchos compañeros nuevos y también una profe que es de Inglaterra.
+HOMBRE: ¿Inglesa? Qué bueno.
+MUJER: Sí, se llama Deb y es muy simpática. Tiene el pelo pelirrojo, corto y liso. Tiene cincuenta años y habla
+muchos idiomas: inglés, francés, español, alemán y ruso!
+HOMBRE: iFantástico! ¿Y cómo son tus compañeros? ¿Son simpáticos?
+MUJER: Sí... Mi compañera se llama Emiko, ies japonesa! Es muy tímida, delgada y le gusta leer. No habla mucho porque no habla bien español. ¿Puedo invitarla a casa para hacer los deberes?
+HOMBRE: Sí, eres muy amable. ¿Y tus otros compañeros?
+MUJER: Bueno... John es estadounidense, es muy sociable y estudioso. Todos los días estudia en la biblioteca.
+Andrés es español, pero es un poco antipático. No le gusta estudiar, molesta en clase. ¡Es un pesado!
+HOMBRE: Ah, lo siento.
+

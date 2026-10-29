@@ -1,0 +1,16 @@
+﻿Hola, buenos días. Quería un billete para Santander.
+Buenos días, ¿Para qué día?
+Para el próximo miércoles, 25.
+¿A qué hora desea salir?
+A partir de las diez de la noche.
+Hay un tren que sale de Madrid-Atocha a las 22:30 horas y llega a Santander a primera hora de la mañana.
+Este es perfecto.
+¿Asiento o litera?
+Asiento.
+¿ventanilla o pasillo?
+Ventanilla.
+¿Ida y vuelta?
+No, solo ida.
+Pues, aquí tiene. Miércoles, 25. Salida de Madrid-Atocha a las 22:30 horas y llegada a Santander a las 7:00 horas. Son treinta y siete euros con cincuenta.
+Aquí tiene y gracias.
+A usted, adiós.

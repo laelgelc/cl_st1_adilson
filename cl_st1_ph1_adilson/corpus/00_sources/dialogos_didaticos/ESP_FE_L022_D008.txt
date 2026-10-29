@@ -1,0 +1,10 @@
+﻿Taxista: ¡Buenos días! Déjeme ayudarlo con las maletas.
+Turistas: ¡Gracias, Carlos! ¿Cómo está el tránsito hasta el aeropuerto hoy?
+Taxista: No está tan pesado, señor. Su vuelo sale a las 11:00, ¿no?
+Turistas: Sí, sale a esa hora.
+(Llegando al aeropuerto.)
+Taxista: ¿Cuál es la compañía aérea?
+Turista: Es la Fly Airlines.
+Taxista: Ah, sí. Llegamos. ¿Va usted a querer un recibo?
+Turista: Sí, por favor.
+Taxista: Aquí está. ¡Buen viaje y regrese pronto!

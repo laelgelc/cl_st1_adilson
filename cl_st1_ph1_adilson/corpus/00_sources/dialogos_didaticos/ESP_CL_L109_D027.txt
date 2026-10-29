@@ -1,0 +1,11 @@
+﻿Pedro: ¿Te gusta este color?
+Jaime: No mucho. ¿Y a ti? Va bien con tu camisa.
+Pedro: Quizás. Pero prefiero las corbatas de colores un poco más claros.
+Jaime: ¿Qué tal esta?
+Pedro: Tampoco es para mí. Odio los dibujos. Jaime, mira esta. Está bien, ¿verdad?
+Jaime: ¿Es para ti?
+Pedro: No, es un regalo para un amigo.
+Jaime: ¿Y cuánto cuesta?
+Pedro: Dos mil pesetas. Está em rebajas.
+Jaime: Está bien de precio. Es un buen regalo.
+

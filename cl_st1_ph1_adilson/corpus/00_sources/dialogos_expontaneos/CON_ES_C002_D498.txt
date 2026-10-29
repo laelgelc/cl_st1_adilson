@@ -1,0 +1,84 @@
+﻿A: y tienes que mandar una carta de intención , y te lo voy a decir ahora mismo para que no , no se me olvide +...
+A: tendrías que mandar una carta en español , nada más , al ACE , anota esto .
+A: a_c_e ACE +...
+B: &=noise a C E , sí ?
+A: a_c_e , como Ace@s:eng en inglés , hardware@s:eng se escribe H AR D W AR E +...
+B: sí , ya .
+A: corporation@s:eng C O R , le pones C O R P .
+A: y le mandas la carta al señor Dan DA N Olsen +...
+A: como el del , del ah ?
+B: xxx Olsen , cómo .
+A: olsen como , como el fotógrafo de Superman@s:eng , &=laugh Olsen O +...
+B: ya , Dan Olsen , ya .
+A: o L S E N +...
+B: mmm .
+B: ya .
+B: &=noise .
+A: el es el Director de Ventas +...
+A: para Sudamérica .
+B: xxx .
+B: director de Ventas para Sudamérica , ya .
+A: ya .
+A: Esta , la dirección , dos mil doscientos +...
+B: dos mil doscientos .
+A: kensington , se escribe K E N S I N G T O N +...
+B: ah , K E E .
+A: k como en kilo , E N +...
+B: sí .
+B: e N .
+A: s I N +...
+B: s I .
+A: n +...
+B: es N , ya .
+A: g to@n , ah , ge , G T O N Kensington .
+B: ya , Kensington , ya .
+A: court@s:eng CT .
+B: cuánto ?
+A: kensington_court C O U R T +...
+A: es el nombre , esa es la calle , el pueblo es Oak@s:eng O A K , otra palabra Brook@s:eng B R O OK , be alta , okey ?
+B: ya .
+B: espérate , O A K ?
+A: o OK .
+B: &=noise o OK .
+A: ya , Brook@s:eng +...
+B: brook@s:eng .
+A: okey ?
+A: ya , así se escribe , B R O OK +...
+B: ya .
+A: eso está en Illinois , le pones I L +...
+B: sí , Illinois , sí xxx .
+A: y después le pones sesenta cinco veintiuno .
+B: ya .
+A: okey .
+A: tienes que mandarle que , estás interesado , okey ?
+A: qué qué es tu negocio +...
+B: &=noise xxx ya .
+A: okey , y que , que es lo que haces tú , y qué sé yo , y que estás interesado en la posición de abrir almacenes , mira lo que te digo yo , estás interesado +...
+A: en abrir almacenes Ace@s:eng Ace , en Chile .
+B: bien .
+B: ya .
+A: y que necesitas información en forma urgente .
+B: ya .
+A: okey , le das la información de tu negocio , le dices lo que quieres , y que necesitas folletos e información .
+A: okey ?
+B: ya .
+A: después que ellos reciban esto , lo van a revisar , y este hombre lo va a revisar y te va a mandar un paquete de información .
+B: xxx de información , ya xxx &=noise .
+A: anótale que si quiere conversar conmigo en Estados Unidos +...
+B: ya .
+A: me llame a mi teléfono , dile que tú , que tú tienes un representante en Estados U- ponle así , tengo mi representante en Estados Unidos y su nombre es Edmundo Muñoz +...
+B: sí .
+B: ya .
+A: ah , y el teléfono , dos uno cuatro , dos siete nueve , tres nueve dos cinco , okey , para que el tipo , si tiene alguna información , me la de rápidamente .
+B: ya .
+B: &=noise .
+B: ya .
+B: &=noise okey .
+A: okey ?
+A: no sé qué te parece esa idea a ti .
+B: es muy , es muy grandiosa , pero +...
+A: claro , &=laugh .
+B: pero es mejor recibir la información .
+A: por lo menos , pues oye , por lo menos +...
+B: a ver qué es lo que se puede hacer , a lo mejor se consigue algo , alguien que haga más acá .
+A: ya pues .

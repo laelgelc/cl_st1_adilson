@@ -1,0 +1,17 @@
+﻿Ring ring...
+Señora: Sí, dígame.
+Vendedor: Buenos días, señora. Aquí quien habla es Gutiérrez, representante exclusivo de Galactic Televisión, la novedad y la actual mejor opción en materia de TV paga.
+Señora: Bueno, la verdad es que no estoy interesada.
+Vendedor: ¿Ya tiene usted TV paga?
+Señora: No, ni me interesa. El solo hecho de tener que pagar para acceder a ese servicio me provoca desinterés.
+Vendedor: ¿Qué es lo que más le gusta ver en la tele?
+Señora: Programas de entrevistas, novelas y noticieros.
+Vendedor: ¿Usted sabe que en la TV paga uno de los mayores atractivos siempre han sido los canales especializados? Sí, hay un canal para cada tipo de programas, intereses y gustos. Por ejemplo, hay canales especializados en documentales y entrevistas, arte, noticias, deportes, cine, programas infantiles.
+Señora: Todo eso también lo tengo en la TV de aire, solo que los canales no son especializados en 
+un tipo de programación, sino que presentan una programación surtida y variada, ¿no?
+Vendedor: ¿Sabe usted cuántas horas por día transmite señal la TV paga? ¡24 horas! Contra un promedio de 18 horas de la TV abierta.
+Señora: Mucho, ¿no? La verdad es que me contento con dos o tres por día.
+Vendedor: ¿Sabe cuántos canales le ofrecemos en el paquete tradicional? ¡75!
+Señora: Y a mí me parecían que los ocho de aire ya eran demasiados.
+Vendedor: Y ahora la buena noticia... para los cien primeros abonados, las tres primeras mensualidades... ¡Gratis!
+Señora: ¡Qué suerte la de los primeros abonados!

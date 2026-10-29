@@ -1,0 +1,19 @@
+﻿B: no me acuerdo bien .
+B: no me acuerdo , una billetera que tiene Didi .
+A: eh , no no .
+A: que me regaló Vi- .
+B: qué lástima .
+A: que me regaló Virginia .
+B: te regaló Virginia .
+A: mmm .
+B: ah .
+A: &=noise Ella sabe exacto .
+B: oh era .
+B: eh , pues yo no .
+B: ah , solamente que le puedo pedir a Beca .
+A: &=background:speech ah .
+B: cuando venga Beca .
+B: beca va a venir mañana , dice .
+A: eh y de preguntarle , porque le pregunta a Virginia de donde compró esa billetera que le , que me regaló .
+B: bueno .
+A: necesito dos .

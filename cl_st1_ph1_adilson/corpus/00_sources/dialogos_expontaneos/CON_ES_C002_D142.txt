@@ -1,0 +1,18 @@
+﻿B: pero , pero , pero bueno , espero no quedar demasiado marcadito , por ahí .
+A: oye , a ver , aguántame tantito porque creo que hay otra llamada .
+B: orale . 
+A: &=noise .
+B: &=noise .
+B: &=background:speech .
+B: &=noise &=background:speech .
+B: &=noise .
+B: &=noise es un sistema de investigación . [+ bch]
+B: &=noise . 
+A: &=noise bueno .
+B: &=noise ya .
+A: &=noise xxx .
+B: qué pasó .
+A: ya .
+A: era mi tía .
+B: ah .
+A: que tenía yo que hablarle por teléfono y este , me habló ella primero .

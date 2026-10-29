@@ -1,0 +1,18 @@
+﻿A: ¡Buenos días!
+B: ¡Buenos días! ¿Tienen zapatos para hombre? 
+A: Sí cómo no. Tenemos mocasines, tenis y zapatos sport. ¿De qué tipo desea?
+B: Tenis, por favor. ¿De qué colores tienen?
+A: Tenemos blancos, azules, negros, rojos, cafés y amarillos.
+B: Azules, está bien.
+A: ¿Qué número necesita?
+B: Nueve, por favor.
+(Un momento después...)
+A: Aquí tiene sus tenis.
+B: Son muy cómodos. ¿Cuánto valen?
+A: Valen $980.00, pero tienen un descuento del 10%, entonces el precio es de $882.00
+B: Muy bien. ¿Aceptan tarjetas de crédito o débito?
+A: No, lo siento. Sólo aceptamos dinero en efectivo.
+B: Está bien. ¿Dónde pago los tenis?
+A: Allí, en la caja, por favor. Gracias por su compra.
+B: De nada. Hasta pronto.
+

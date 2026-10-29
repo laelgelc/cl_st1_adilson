@@ -1,0 +1,4 @@
+﻿A: ¿Cómo ha sido la junta de hoy por la mañana?
+B: Muy polémica. Es una lástima que no hayas participado. Necesitábamos gente para apoyar nuestra propuesta.
+A: La verdad es que me dio mucha bronca no haber participado, pero tenía una reunión de trabajo a la misma hora. Y tampoco voy a poder participar en la de la noche.
+B: ¡Qué lástima que no participes!

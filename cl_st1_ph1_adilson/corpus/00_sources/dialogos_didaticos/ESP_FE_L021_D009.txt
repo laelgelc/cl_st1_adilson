@@ -1,0 +1,6 @@
+﻿Servicio de habitaciones: Buenas noches, servicio de habitaciones. ¿Dígame?
+Huésped: Sí, mire, quiero un sándwich de queso y un zumo de naranja, por favor.
+Servicio de habitaciones: Un sándwich de queso y un zumo de naranja.
+Huésped: Exacto.
+Servicio de habitaciones: ¿Cuál es el número de la habitación?
+Huésped: 907.

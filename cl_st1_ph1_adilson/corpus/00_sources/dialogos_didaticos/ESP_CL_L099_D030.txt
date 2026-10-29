@@ -1,0 +1,12 @@
+﻿Representante de la compañía aérea: Señor Calderón, se están acabando los pasajes para el comienzo del mes. Hasta que usted decida en qué fecha viaja a la convención, preventivamente le he hecho tres reservas. Usted verá con cuál de las opciones se queda.
+Señor Calderón: Bueno, dígame...
+Representante: La primera es para el caso de que decida presenciar la convención desde el comienzo, entonces saldría hacia Monterrey el martes 2 de octubre a las 17:35, y llegaría para la ceremonia de apertura. Para esa posibilidad, el código de la reserva es be-cu-equis-te-ese.
+Señor Calderón: ¿La última cuál es?
+Representante: "Ese".
+Señor Calderón: Ajá...
+Representante: La segunda es por si decide ir solo para su presentación, dos días después. Tengo un lugar el día cuatro, bien temprano, a las 7:10 de la mañana, también por Mexicana. La reserva es: erre-ye-u-hache-efe.
+Señor Calderón: Sí...
+Representante: Ahora, tengo también la posibilidad de que llegue la noche anterior y ya duerma allá. No sé si para usted es más conveniente, porque realmente llegaría bien tarde, saldría a las 23:25. Si le interesa, la reserva es: uve-te-zeta-o-ge.
+Señor Calderón: Bueno, voy a pensarlo un poco y lo Ilamo en dos horas, ¿está bien?
+Representante: ¡Cómo no! Hasta luego.
+Señor Calderón: Hasta luego.

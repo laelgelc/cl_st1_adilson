@@ -1,0 +1,7 @@
+﻿¿Diga?
+Hola, ¿está Agustín?
+No, en este momento no está.
+¿sabes a qué hora vuelve?
+No sé, dentro de una hora aproximadamente.
+Vale, pues llamo más tarde. ¡Gracias!
+

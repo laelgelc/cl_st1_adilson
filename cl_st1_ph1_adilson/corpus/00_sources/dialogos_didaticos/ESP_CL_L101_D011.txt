@@ -1,0 +1,4 @@
+﻿Médico: Marcela, ¿tengo algo más hoy?
+Secretaria: No, doctor, hoy no tiene nada más.
+Médico: ¿Hay alguien en la sala de espera?
+Secretaria: No, doctor, no hay nadie más.

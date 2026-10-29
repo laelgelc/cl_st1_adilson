@@ -1,0 +1,11 @@
+﻿Sergio: ¿Qué tal, chicas? Mirad, quiero presentaros a alguien. Este es Javier. Estas son Sandra y Estíbaliz.
+Sandra: ¡Hola!
+Javier: Hola, encantado.
+Sandra: ¿Qué estudias, Javier?
+Javier: Voy a empezar un doctorado en Psicología.
+Sandra: ¡Anda! Yo también estudio Psicología, pero estoy en segundo. Aún me falta un poco para el doctorado.
+Estibaliz: No hagas caso a Sandra. ¿De dónde eres?
+Javier: De Teruel. Bueno, de Crivillén, un pueblo de Teruel.
+Estibaliz: ¿Y es la primera vez que vienes a Bilbao?
+Javier. Pues sí. No había estado nunca.
+Sandra: Pues tenemos que enseñarte la ciudad, ya verás, es genial. Te va a encantar.

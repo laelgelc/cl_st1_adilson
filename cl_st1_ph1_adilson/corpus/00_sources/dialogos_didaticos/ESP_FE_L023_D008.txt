@@ -1,0 +1,12 @@
+﻿Paramédico: ¡Hola! Me llamo Edson y estamos aquí para ayudarle.
+Víctima: ¡Muchas gracias!
+Paramédico: ¿Qué pasó?
+Víctima: Bueno, me sentí mareado y con la visión borrosa.
+Paramédico: ¿A qué hora se alimentó por última vez?
+Víctima: Hace más o menos 6 horas.
+(En el camino al hospital.)
+Paramédico: ¿Es diabético?
+Víctima: No.
+Paramédico: ¿Es alérgico a algo?
+Víctima: Sí, soy alérgico a la penicilina.
+Paramédico: Quédese tranquilo. El equipo médico del hospital le atenderá.

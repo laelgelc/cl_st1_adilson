@@ -1,0 +1,6 @@
+﻿Luis: ¿Diga?
+Concha: ¡Hola, Luis! Soy Concha. ¿Te acuerdas de mí?
+Luis: ¡Hola, Concha! ¿Cómo estás?
+Concha: El lunes por la mañana juego con mi equipo en el colegio, al balonmano. ¿Podrías venir?
+Luis: Me gustaría, pero no puedo. Por la mañana tengo clases.
+

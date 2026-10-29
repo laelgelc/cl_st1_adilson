@@ -1,0 +1,12 @@
+﻿Ricardo, ¿cómo te llamas de apellido?
+Molina.
+¿Y de dónde eres?
+Soy argentino, de Buenos Aires, pero ahora vivo acá en Madrid.
+Ya, ¿y a qué te dedicas?
+Trabajo en una empresa de computadoras, soy informático, pero, además, estoy estudiando un máster en programación.
+¿Y en qué calle vives?
+En el centro, en la calle Goya, número 37, 5º izquierda.
+¿Y por qué sigues estudiando?
+Porque ahora estoy trabajando acá, pero quiero mejorar en mi trabajo y necesito saber más. Y en el futuro, ¿quién sabe?, a lo mejor me voy a otro país.
+¿Qué te gusta en tu tiempo libre?
+Me gusta mucho ir al cine, el fútbol, salir con los amigos y, bueno, jugar con las computadoras.

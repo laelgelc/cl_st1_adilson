@@ -1,0 +1,4 @@
+﻿¿Quieres tomar un café?
+No, gracias. No tomo café.
+¿Y un té?
+Bueno, un té sí. Gracias.

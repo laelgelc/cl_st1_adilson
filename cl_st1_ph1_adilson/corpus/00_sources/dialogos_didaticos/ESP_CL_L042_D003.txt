@@ -1,0 +1,11 @@
+﻿Hola, buenos días.
+Buenos días.
+¿Qué quieren tomar?
+Yo, una cerveza.
+Para mí, una Coca-cola.
+¿Quieren algo de comer?
+Sí, una ración de calamares.
+¿Algo más?
+No, gracias.
+¿Cuánto es?
+Nueve euros.

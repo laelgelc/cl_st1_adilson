@@ -1,0 +1,14 @@
+﻿Empleada: Línea seguro, buenos días.
+Tomás: Hola, buenos días, quería dar parte de un accidente de coche.
+Empleada: ¿Me dice su nombre o su número de póliza, por favor?
+Tomás: Sí, Tomás Morán Marcos.
+Empleada: Un momento... Muy bien, señor Morán. Dígame qué ha pasado.
+Tomás: Pues fue anoche, cuando volvía a casa. Yo iba por el carril de la derecha, porque tengo que torcer a la derecha para entrar en mi calle.
+Entonces, vi una furgoneta aparcada en doble fila justo en la esquina. Cambié de carril para pasarla y, cuando giraba para entrar en mi calle, una moto me adelantó por la derecha y le di con la parte delantera de mi coche.
+Empleada: ¿Hubo algún herido?
+Tomás: No, no, qué va. Solo un roce en la chapa del coche, pero no pasó nada, ni al conductor de la moto ni a mí. Es que no me dio tiempo a verla, la verdad.
+Empleada: Entiendo. ¿Y rellenaron ustedes el parte?
+Tomás: Sí, sí... Pero, en este caso, ¿sería culpa mía?
+Empleada: En principio, no, pero cuando nos entregue el parte, nuestros expertos lo valorarán.
+Tomás: De acuerdo. Entonces, me paso por la oficina y les llevo el parte, ¿no?
+Empleada: Sí, eso es. Puede venir de nueve a dos y de cuatro y media a ocho.

@@ -1,0 +1,10 @@
+﻿Don Ramón: ¡Buenos días! ¿Necesita algo?
+Don Fernando: Sí, deme un quilo de manzana y dos de naranja, por favor.
+Don Ramón: Aquí están y como siempre muy frescas.
+Don Fernando: Si, en su almacén todo está siempre fresco. ¿Tiene higos?
+Don Ramón: Perdón, pero no me quedan. Llegarán dentro de dos días.
+Don Fernando: No hay problema, vuelvo después, ¿cuánto es todo?
+Don Ramón: Sale seis euros con cincuenta céntimos.
+Don Fernando: Aqui está.
+Don Ramón: Gracias.
+

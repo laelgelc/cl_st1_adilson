@@ -1,0 +1,11 @@
+﻿Hola, ¿tienes unos minutos? Es para una encuesta sobre los gustos de los jóvenes españoles.
+Vale, pero solo unos minutos.
+Bien, ¿cómo te llamas?
+Juanjo.
+¿Qué estudias?
+Estoy haciendo tercero de informática en una universidad en la universidad privada.
+Dime, Juanjo, ¿qué haces en tu tiempo libre?
+Pues no sé, me gusta salir con mis amigos e ir al cine. También me gusta mucho ir a comer hamburguesas a un burguer.
+¿Practicas algún deporte?
+No, no me gusta hacer deporte.
+Pues, nada más, muchas gracias.

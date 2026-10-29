@@ -1,0 +1,16 @@
+﻿Padre: Hola hijo, ¿cómo estás?
+Hijo: Hola papá, estoy bien, gracias. ¿Y tú?
+Padre: Bien también. Oye, últimamente he estado pensando en tu futuro y me gustaría saber qué profesión te gustaría seguir.
+Hijo: Bueno, aún no lo tengo muy claro. Me gustan varias cosas, como la música y la informática.
+Padre: ¿Y has considerado alguna carrera relacionada con esas áreas?
+Hijo: Sí, he estado pensando en estudiar ingeniería en sonido o programación de software.
+Padre: ¡Qué interesante! Ambas son carreras muy demandadas en el mercado laboral. ¿Has investigado sobre ellas?
+Hijo: Sí, he estado leyendo mucho al respecto y me parecen muy interesantes.
+Padre: Me alegra que estés pensando en tu futuro, hijo. Es importante elegir una carrera que te guste y te haga sentir realizado.
+Hijo: Sí, lo sé. Y tú, papá, ¿cómo elegiste tu profesión?
+Padre: Bueno, yo estudié medicina porque siempre me gustó ayudar a las personas y hacer una diferencia en la sociedad.
+Hijo: Eso es admirable, papá. Y ¿te gusta tu trabajo?
+Padre: Sí, me encanta. Es un trabajo muy gratificante, pero también requiere mucho esfuerzo y dedicación.
+Hijo: Entiendo. Bueno, seguiré investigando sobre las carreras que me interesan y tomaré una decisión pronto.
+Padre: Muy bien, hijo. Siempre puedes contar con mi apoyo. Estoy seguro de que tomarás la mejor decisión para ti.
+

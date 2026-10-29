@@ -1,0 +1,7 @@
+﻿Juan: Páscual, ésta es Lupe.
+Pascual: ¡Hola, Lupe! ¿Cómo estás?
+Lupe: Muy bien. Gracias.
+Juan: Te presento a María. María, éste es Carlos.
+Carlos: ¡Hola, maría! ¿Cómo estás?
+María: Encantada.
+

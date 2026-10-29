@@ -1,0 +1,12 @@
+﻿Madre: Pedro, ya son las diez. Cepíllate los dientes y vete a la cama a dormir.
+Pedro: Mamá, cuando eras niña, ¿te cepillabas los dientes todos los días?
+Madre: Sí, todos los días después de comer y antes de dormir.
+Pedro: ¿De verdad que comías algo te cepillabas los dientes enseguida?
+Madre: Bueno, a veces no posible. Por ejemplo, si estaba en la calle y comía un caramelo no podía cepillármelos. Pero, cuando llegaba a casa, era lo primero que hacía. 
+Pedro: ¿Siempre comías caramelos en la calle, mamá?
+Madre: No, Pedro, por supuesto que no. Sólo a veces.
+Pedro: Pero es mejor siempre cepillarse los dientes después de comer caramelos, ¿verdad?
+Madre: Sí, es mucho mejor. Ahora basta de charlas. Cepíllate los dientes y vete a la cama.
+Pedro: Ya que es mejor así, dame dos caramelitos que enseguida me cepillo los dientes.
+Madre: No, Pedro. ¡Definitivamente no!
+Pedro: ¿Por qué?

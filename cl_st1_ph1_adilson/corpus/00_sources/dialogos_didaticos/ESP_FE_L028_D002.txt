@@ -1,0 +1,5 @@
+﻿Loc 1: Pero, ¿qué pasa?
+Loc 2: Nada, ¡que se há roto! ¡Ay, pero si es nuevo!
+Loc 1: ¡Corre! ¡Que nos estamos empapando!
+Loc 2: ¡Pues vaya ganga que hemos comprado!
+

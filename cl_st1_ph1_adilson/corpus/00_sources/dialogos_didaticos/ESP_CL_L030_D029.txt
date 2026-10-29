@@ -1,0 +1,13 @@
+﻿Hotel Husa, buenos días.
+Buenos días.
+¿Qué desea?
+Quiero una habitación para el día cinco de agosto.
+¿Doble o individual?
+Doble.
+¿Con pensión completa?
+No, con media pensión.
+No, no es posible, solamente tenemos pensión completa.
+¿Y cuánto cuesta?
+75,13 euros.
+¡Uf! Es muy caro. Lo siento, no la reservo.
+Muy bien, hasta luego.

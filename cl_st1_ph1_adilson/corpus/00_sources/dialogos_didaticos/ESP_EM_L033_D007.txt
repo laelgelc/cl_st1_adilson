@@ -1,0 +1,11 @@
+﻿Pablo: Creo que este año el Real Madrid va a vencer de nuevo el campeonato español.
+Alex: Ojalá sea campeón, jes el mejor equipo de fútbol del mundo!
+Juan: No estoy tan seguro. El Barça tiene muy buenos jugadores también. No os olvidéis de Messi, Daniel Alves, Puyol...
+Alex: Sí, pero el Real tiene a Casillas, Higuaín, Cristiano Ronaldo...
+Pablo: Camarero, la cuenta, por favor.
+Alex: Bueno, hasta ahora, los resultados indican que muy probablemente el Real será campeón.
+Juan: Pero el Barça aún tiene grandes posibilidades.
+Pablo: Hombre, vámonos. Ya está por empezar el partido y no me quiero perder un solo segundo.
+Alex: Lástima no haber conseguido entradas... Ahora estaríamos con los hinchas del Real.
+Juan: Pues vosotros estaríais... yo, no.
+

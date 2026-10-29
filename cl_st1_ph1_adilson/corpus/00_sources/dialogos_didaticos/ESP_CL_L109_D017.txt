@@ -1,0 +1,17 @@
+﻿Antonio: Dígame.
+Maite: Buenos días. ¿Es usted Antonio Casado?
+Antonio: Sí, sí, soy yo. ¿Quién llama?
+Maite: Soy Maite, la secretaria del concurso CIMA, de TV-Plus...
+Antonio: ¿Sí? ¿De veras? ¡Qué suerte!
+Maite: Sí, tiene usted suerte. ¡Enhorabuena! Tengo su cupón de chocolates El Dulzón en la mano. ¿Desea usted participar en el concurso CIMA?
+Antonio: ¡Pues claro!
+Maite: Muy bien, muy bien. Bueno, necesito algunos datos sobre usted. Por ejemplo, la edad. A ver, ¿Qué edad tiene usted? ¿Cuántos años tiene?
+Antonio: Eso es fácil. Tengo 19 años.
+Maite: Bien. Es usted muy joven. Su dirección la tengo aquí. Estupendo. Su cita es para el día 30 de marzo, miércoles. El concurso es a las 8 de la tarde. Le esperamos por la mañana, a las 10. ¿Es posible?
+Antonio: ¡Sí, claro!
+Maite: El billete y el hotel lo pagamos nosotros. ¿Cómo desea viajar usted, en tren o en avión?
+Antonio: Mm ... En tren, prefiero el tren.
+Maite: De acuerdo. Un billete de tren para el día 30 de marzo, de Murcia a Madrid. La vuelta para el día 1 de abril. ¡Enhorabuena, don Antonio, y hasta pronto!
+Gracias a ustedes. ¡Hasta pronto!
+
+

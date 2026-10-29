@@ -1,0 +1,8 @@
+﻿¿Qué te pasa?
+Me duelen mucho la cabeza y el cuello.
+¿Y tienes fiebre?
+Sí, por lo menos 38.
+Necesitas llamar al médico.
+Sí, creo que sí.
+¿Quieres una aspirina ahora?
+Vale, gracias.

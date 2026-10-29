@@ -1,0 +1,6 @@
+﻿Turista: Perdón, señora. ¿Me puede ayudar, por favor?
+Policía: No faltaba más. ¿Qué le pasa?
+Turista: He perdido mi pasaporte.
+Policía: Bueno, tiene usted que ir a Deatur, una comisaría especializada para los turistas.
+Turista: ¿Y dónde está?
+Policía: Está en la rua da Consolação, 247.

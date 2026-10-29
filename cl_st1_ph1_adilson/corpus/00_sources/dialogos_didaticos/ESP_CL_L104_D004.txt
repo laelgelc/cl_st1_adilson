@@ -1,0 +1,21 @@
+﻿Secretaria: Por favor, siéntese un momento. El doctor ya la atenderá.
+Juana: ¿Mauricio?
+Mauricio: Hola, Juana. ¡Tanto tiempo! ¿Cómo estás?
+Juana: Bien, bueno... más o menos.
+Mauricio: ¡Qué pregunta la mía! Mira dónde nos venimos a encontrar. No sabes lo feliz que me pone verte... aunque sea aquí...
+Juana: Pero, tú estás bien, ¿no?
+Mauricio: Sí, supongo que nada que la consulta, unos remedios y un poco de cama no resuelvan.
+Juana: Te noto un poco colorado... ¿estás con calor?
+Mauricio: Es que tengo un poco de fiebre, me la medí antes de salir de casa. Además de un catarro evidente.
+Juana: Un resfrío... una gripe... ¡qué andarás incubando!
+Mauricio: No sé, lo único que realmente quiero es sanarme porque no aguanto más que se me tape la nariz y se me cierre el pecho. ¡No he podido dormir por la noche!
+Juana: Para que no te sientas solitario con tus síntomas perturbadores, te cuento que vine a ver a un oculista.
+Mauricio: No sabía que tenías algún problema en la vista.
+Juana: Hasta hace un tiempo atrás no, pero últimamente siento que se me nubla la vista, que me punzan los ojos. ¡Es horrible!
+Mauricio: ¿Y la cabeza?
+Juana: No sabes lo mal que me trae: parece que se me parte del dolor.
+Secretaria: Por favor, señor Mauricio Pérez, sala 3.
+Mauricio: ¿Te veo a la salida?
+Juana: Sí, claro. ¿Un café?
+Mauricio: Hecho.
+Secretaria: Por favor, señorita Juana Murro, puede pasar a sala 5.

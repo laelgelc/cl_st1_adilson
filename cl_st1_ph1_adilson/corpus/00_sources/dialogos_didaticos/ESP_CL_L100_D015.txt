@@ -1,0 +1,14 @@
+﻿RG: Buenas tardes, soy Rafael Gómez.
+PM: Mi nombre es Pedro Morales. Mucho gusto.
+RG: ¿Cuántos años tiene señor Morales?
+PM: Veintiocho.
+RG: ¿De dónde es usted?
+PM: Nací aquí, en Chile, pero viví en Madrid desde 1995 hasta 1999.
+RG: ¿Estudio en Madrid?
+PM: No. Estudié Ingeniería en la Universidad de Santiago. En 1995 viajé a Madrid y allí trabajé como gerente en la panadería de mi tío. Luego empecé la carrera de Abogacía, pero no la terminé.
+RG: ¿Qué hace en su tiempo libre?
+PM: Bueno leo voy al cine... y además juego al tenis los fines de semana.
+RG: ¿Ya viajó a los Estados Unidos?
+PM: Sí, Cuando volví de Madrid conseguí una beca y estuve un año en Texas.
+RG: ¿Tiene algún hobby?
+PM: Sí, me encanta cocinar y los fines de semana cocino para mis amigos.

@@ -1,0 +1,20 @@
+﻿TELEFONISTA: Prodex, buenos días.
+SEÑOR B.A.I.: Buenas tardes. Quisiera hablar con el contable, por favor.
+TELEFONISTA: ¿De parte de quién?
+SEÑOR B.A.I.: Soy Bernardo Aurrecoechea Iturrigorri.
+TELEFONISTA: ¿Aurrechea...?
+SEÑOR B.A.I.: Aurrecoechea Iturrigorri.
+TELEFONISTA: Sí... un momentito, por favor.
+TELEFONISTA: ¿Sr. Aurrechea?...
+SEÑOR B.A.I.: Aurrecoechea...
+TELEFONISTA: Sí, perdone. La Sra. Moreno está hablando por otra linea, en cuanto ter-mine le paso.
+TELEFONISTA: Marta, el Sr. Auchea quiere hablar contigo.
+MARTA MORENO: ¿Diga?
+SEÑOR B.A.I.: Buenas tardes, soy Bernardo Aurrecoechea Iturrigorri de Lamsa.
+MARTA MORENO: Buenas tardes.
+SEÑOR B.A.I.: Llamaba porque he comprobado un olvido en su última factura. No han tomado en cuenta el descuento del 3%.
+MARTA MORENO: Espere un momento, por favor. Voy a coger su expediente... Es la 32-5D, ¿verdad?
+SEÑOR B.A.I.: Sí, ésa es.
+MARTA MORENO: Efectivamente... No se preocupe, hoy mismo le mando otra factura rectificada.
+SEÑOR B.A.I.: Gracias.
+MARTA MORENO: Adiós.

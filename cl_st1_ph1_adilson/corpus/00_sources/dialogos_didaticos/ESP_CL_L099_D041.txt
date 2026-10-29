@@ -1,0 +1,5 @@
+﻿Rosa: Lill, ¿tienes algún analgésico en tu cartera?
+Lili: Rosa, ¿te olvidaste de que yo solo me trato con homeopatía? Pero... ¿qué te duele?
+Rosa: El hombro.
+Lili: Seguro que es por estar tanto tiempo frente a la computadora. Pero igual, no hay que tomar tantos remedios. Necesitas hacer ejercicios de estiramiento.
+Rosa: Tienes razón.

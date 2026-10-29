@@ -1,0 +1,11 @@
+﻿Huésped: Hola, ¡muchas gracias por venir!
+Camarera(o): ¿En qué puedo servirle?
+Huésped: Creo que el aire acondicionado no funciona.
+Camarera(o): ¿Dónde está el control remoto?
+Huésped: Está arriba de la cómoda.
+Camarera(o): ¡Sí! Ahora, presione el botón rojo y cierre las ventanas.
+Huésped: ¡Ah, claro!
+Camarera(o): ¿Algo más, señor?
+Huésped: No, nada más.
+Camarera(o): ¡Qué disfrute su estadía en el hotel!
+Huésped: ¡Muchas gracias!

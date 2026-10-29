@@ -1,0 +1,13 @@
+﻿Hola, buenos días. ¿Qué le pongo?
+Quiero una docena de huevos.
+Tenga. ¿Algo más?
+Sí, una botella de vino blanco.
+¿Algo más?
+Una barra de pan y un paquete de harina.
+Tenga, ¿algo más?
+Sí, un kilo de naranjas y doscientos cincuenta gramos de jamón.
+Tenga, ¿quiere algo más?
+Nada más, gracias. ¿Cuánto es?
+Son 5,99.
+¡Qué caro!, ¿no?
+Mire, el jamón es 2,70 euros, las naranjas son 0,54 €, la harina cuesta 0,41 €, el vino 0,96 €, los huevos son 1,11 euros y la barra de pan 0,27 €. Total: 5,99 euros.

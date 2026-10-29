@@ -1,0 +1,16 @@
+﻿Joven: Por favor, quiero una lata de atún.
+Dependiente: Un momento que ya
+vuelvo
+[...]
+Dependiente: - Aquí tienes tu lata de sardinas.
+Joven: - No, ¿no me entiendes
+Quiero una lata de atún,
+Dependiente: - Ah, perdona. Es que
+atiendo a muchas personas al mismo tiempo y me hago un lío.
+¿Me devuelves la lata de sardinas? Ya resuelvo tu problema.
+Joven: ¡Madre mía! ¡Qué despistado!
+Dependiente: Aquí tienes tu lata de atún. ¿Te la envuelvo
+Joven: Sí. ¿Cuánto es?
+Dependiente: Espera que voy a ver el precio. Hoy estoy solo y no puedo hacer todo de una vez.
+Joven: Sí, ya lo veo.
+

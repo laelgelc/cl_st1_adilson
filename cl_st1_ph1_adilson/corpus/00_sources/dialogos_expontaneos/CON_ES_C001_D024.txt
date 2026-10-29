@@ -1,0 +1,231 @@
+﻿A: mmm .
+B: mmm , no la he visto yo .
+A: pasado mañana es tu cumpleaños .
+B: bueno .
+B: eh mañana sí , esté .
+A: mañana .
+B: eh ?
+B: de paraguaya es la billetera ?
+A: Argentina parece que es .
+B: ah como es mi hijo se abre ?
+A: sí , se abre , así tiene .
+A: es linda !
+A: Una que tiene , un una manijita , así acostadito .
+A: no es una manejita , una un cuerito que se mete hacia adentro y después se saca también para poder poner en el brazo .
+B: ah .
+B: ah .
+A: te acuerdas que te mostré ?
+A: en , igual , que el de Didi .
+B: no me acuerdo bien .
+B: no me acuerdo , una billetera que tiene Didi .
+A: eh , no no .
+A: que me regaló Vi- .
+B: qué lástima .
+A: que me regaló Virginia .
+B: te regaló Virginia .
+A: mmm .
+B: ah .
+A: &=noise Ella sabe exacto .
+B: oh era .
+B: eh , pues yo no .
+B: ah , solamente que le puedo pedir a Beca .
+A: &=background:speech ah .
+B: cuando venga Beca .
+B: beca va a venir mañana , dice .
+A: eh y de preguntarle , porque le pregunta a Virginia de donde compró esa billetera que le , que me regaló .
+B: bueno .
+A: necesito dos .
+B: qué te regaló a vos ?
+A: ajá .
+B: ah , bueno .
+B: listo .
+A: dos necesito si puede comprar , sí es muy caro traiga uno nada más .
+B: Mira las cosas de cuero .
+A: sí , sí , no tenés idea , mmm .
+B: las cosas de cuero .
+B: están por las nubes , las carteras .
+B: y los bolsones que costaban el año pasado veinte y cinco , veinte y ocho , treinta , están a setenta .
+A: a la pucha , subió todo .
+B: todito , todito está caro .
+B: este , yo no compro nada , porque lo único que les llevo es un chaleco de una lana .
+A: mmm .
+B: canadiense finita , un chaleco para ponerse abajo del saco así .
+A: mmm .
+B: a ustedes , a vos , a Cheché y a Claudio tres chalecos que lo único que pude , pude , que me pareció baratos por lo fina que son .
+B: pero después es imposible de comprar nada .
+A: oye mamá y mis hijos vinieron a verte ?
+B: sí .
+B: yo estuve con ellos , en , donde es los , él que vino a verme es Manuel .
+B: y llevó el regalo todo lo que , que te conté ya eso .
+A: sí , sí .
+B: qué felices con lo que les llevaste , y después él cumplió quince años .
+B: vos hablaste con ellos y yo hablé por teléfono de Asunción .
+B: de Concepción y me contaron que .
+B: recibieron el dinero , yo le regalé treinta y cinco dólares a , a Manuel y veinte y cinco a la nena .
+B: yo les regalé por el cumpleaños .
+A: sí .
+B: y del dinero que vos mandaste , creo que le compró ropa verdad a .
+A: ché , mamá ?
+B: pues pues parece que la Mara está muy futuda@n .
+A: qué qué bien se escucha con esta .
+A: parece que xxx &=distortion .
+B: pero que mara- .
+A: ah .
+B: parece que estamos uno al lado del otro .
+A: sí .
+B: sí bueno , y ahora no le he visto todavía porque yo llegué ayer de Concepción y hoy amanecí muy cansada y hoy quiero descansar .
+B: y después les voy a llamar a ellos , porque no le quiero llamar , pues , por por mi cumpleaños , justo que sea , el día el seis le voy a llamar .
+A: mmm .
+B: entendés ?
+B: pasado mañana creo que ya es mi cumpleaños .
+A: eh oye , oye y el cinco es tu cumpleaños .
+B: el viernes .
+B: ah sí , pero hoy es el cumpleaños de Lorena .
+A: oh sí ?
+B: eh .
+A: mmm , de veras &=distortion .
+B: se van a ir todas a Six_Flags@s:eng dice .
+A: Le voy a llamar , a vi- a saludarla un poco .
+B: eh , por el cumpleaños de mami , de mi mami me dijo el gordo ayer me habló .
+A: mmm .
+B: y , están todos bien acá , no hay ninguna novedad .
+A: y Chote cómo anda mamá .
+B: Mira no toma una gota , no puede ni oler la bebida .
+B: bebida alcohólica y me dice xxx .
+B: Al comienzo estuvo muy violento , se ponía todo negro , discutía y .
+B: está , pero está un poco deprimido ahora , pero eso es porque el organismo se .
+A: sí .
+B: acostumbrándose por la falta , y tomó unas vitaminas .
+B: y se hace ver , no sale más de noche , en fin .
+A: &=background:speech y no tiene novia ?
+B: tiene una miñona &=laugh una miñona de sudona , me parece ahora .
+A: hecha !
+B: &=laugh pero novia no .
+B: y voy a .
+A: ah , Y Enrique .
+B: y Enrique ayer estuvo acá , y otra vez no sé , que tuvo problema , que no le pagaron su plata , no sé qué cosa , tuvo ya otra vez .
+B: también con una futudez andante .
+A: &=noise que bola mete .
+B: eh , no tiene nada , no , nada no tiene , ándale no sé , yo no sé lo que hace .
+A: y no tiene oficina y no tiene oficina acaso .
+B: sí tiene , dice que ahora se va ir otra vez a la oficina , esta semana que no se iba más me dijeron , porque le llamaban allí y no .
+B: no le contestaba , así que no se iba , pero ahora ayer dice que o anteayer , no sé , que limpió su oficina y se iba a ir otra vez .
+B: pero yo no sé , en qué anda metido .
+A: y vive en lo de Carlos .
+B: iii .
+B: sí , ha ido de nuevo , eh y Chote trabaja con Raúl .
+A: mmm .
+B: y pero parece , no es seguro ni hay que decir nada , que va a trabajar en el Bu .
+B: porque en el Bu , el Bu arrendó .
+B: el señor que compró nuestra casa de Concepción .
+A: ya .
+B: y él arrendó , y Carlos Aníbal salió y ya de lo de .
+A: Carlos Pereira ?
+B: eh sí , le indemnizó y todo , y éste .
+B: el trabaja por su cuenta , y ya le llamaron acá , llamó ya el rector de la universidad .
+B: ya para qué venga a hacer el concurso para profesor .
+A: ah .
+B: y va ha ser titular allá , profesor titular de allá , y va a tener dos cátedras que vienen a hacer .
+B: eh un millón seiscientos mil y con los trabajos extra , que él hace .
+B: este y va a trabajar en el Bu también , ya no quiere más trabajos .
+B: fijo quiere estar con sus papás allí .
+B: nueve .
+A: qué ?
+B: años estuvo prácticamente fuera de la casa , seis años de facultad y tres años en el Chaco , y en el Chaco , no aguantaba más .
+A: oye mamá Y qué tal ?
+B: se embruteció Mmm ?
+A: y qué tal allí con ella ?
+A: y nena ?
+B: y no , regular .
+A: regular no más .
+B: regular eh .
+B: pero no él está aichó@s:heb está enfermo .
+A: sí ?
+B: sí .
+A: mamá y ?
+A: eh ?
+B: con la novia bien , pero con los xxx un desastre .
+A: oh sí .
+B: ah sí .
+A: &=background:speech qué ?
+A: y no van a venir .
+B: sí , va a venir Ticona y .
+B: acá se van a ir , ahora vienen a firmar sus papeles .
+A: ah .
+B: la que no , no tiene para irse , parece es qué es .
+B: qué van a ver cómo hacemos eso sí le ayudamos a ti- , a ti- a Maribí para que se vaya .
+A: mmm .
+B: vamos a ver cómo se hace .
+B: que se vaya para traer , que se vaya y se presenta allá , y vuelve enseguida .
+A: sí , porque , ella ya , ya había empezado arreglar , ah , mi casa para ponerle la , la otra pieza a las gentes .
+B: entendés ?
+B: para tener .
+B: eh ?
+B: sí .
+A: ya , voy a hacer de dos pisos si es que se quieren quedar acá .
+B: eh .
+B: y allí se van a quedar porque a dónde se van a ir papito .
+A: sí .
+B: no , bueno , la que se va ir a tu casa es Ticona .
+A: con la Agasapo .
+B: beca se .
+B: el , no quiere saber nada , dice , no sé yo , no sé yo si se va a ir .
+B: pero él hasta ahora dice que no se va a ir , vamos a ver que después que no decide y se va .
+A: ay xxx !
+B: y .
+B: y xxx .
+A: sí , y Guido , mamá .
+B: eso es lo que dice , como dice le eh .
+B: hasta ahora siente Carlos Aníbal que no le mandaron .
+B: me frustraron ustedes , dice .
+B: qué no me mandaron dice cómo !
+B: ahora el hijo de Amada se va el año que viene .
+A: &=noise mmm .
+B: se va a presentar para la beca , porque se fue a Disney_World y vino luego loco !
+B: y no solamente eso , sino que ella ya quiere empezar .
+B: a saber .
+B: a ver , de poder arreglar , para irse para cuando termine su bachillerato irse a estudiar él allá .
+A: sí , mamá y cómo se llama , qué más te quería preguntar .
+B: eh ?
+B: de Raúl .
+A: eh no , y que qué más era y Tera xxx .
+B: eh del de Carlos Aníbal me estabas hablando , de que se va ir allá .
+B: y de ?
+A: mmm .
+B: y de Sylvia , se operó .
+A: guido , Guido , Guido , Guido .
+B: guido , Guido está como siempre es su casa , el pachá .
+B: allá en su casa , arregla su casa ahora , va va a poner todo de madera alrededor de la pared por la humedad .
+A: mmm .
+B: y está solo porque la novia tiene un departamento acá y va , va y viene por su cuestión de su enfermedad .
+B: y ella se operó , y tiene , quedó bien parece , bueno no se sabe todavía , de su coto .
+B: y tiene que empezar el trabajo , el tratamiento .
+B: tiene un problema de válvula parece que le van a hacer un bypass@s:eng en el corazón .
+A: mentira !
+B: mmm , si .
+A: chis !
+A: qué mamá ?
+A: y en qué trabaja Guido ahora ?
+B: en nada .
+A: &=background:speech se está comiendo toda su plata ?
+B: viven de la plata , y claro , tienen puesto en el banco dicen no sé financiera financiera .
+B: yo no sé qué cosa .
+A: &=noise mmm .
+B: y , ahí está , van a cobrar otra parte , dice .
+B: y tiene todavía terreno , tiene todavía un poquito de terreno que dicen , dicen , yo no sé si es cierto , que le ofreció a ese Jacobo , al que compró nuestra casa .
+B: y allá el campo no se va más tampoco , no tiene luego camioneta .
+B: tiene un autito chico él ahora .
+B: pero muy bien , a la , tiene su casa bien puesta , le puso todo cielo raso .
+B: se compro una heladera una un freezer@s:eng una cocina , miles de cosas compraron .
+A: mmm .
+B: y , esté , que te iba a decir , en fin allí está .
+B: y yo , a ella la veo poco , a Guidín le vi , en el sanatorio , cuando me fui a verla a ella .
+A: y que dice ?
+B: y él , él nada , hola que tal ni nada más como si me hubiesen visto ayer .
+B: y éste Julio Cesar es el qué vino a verme .
+B: y después me llamó Ingrid y querían venir , pero yo , ya viajaba ese día y me dijo que ahora a la vuelta van a venir a verme dijo .
+A: &=background:speech mmm .
+B: y .
+A: y Fidel ?
+B: eh Eh ?
+B: no sé nada de él , el día que llegué , hablaron .

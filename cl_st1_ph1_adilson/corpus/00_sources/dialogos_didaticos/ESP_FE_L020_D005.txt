@@ -1,0 +1,8 @@
+﻿Turista: ¡Perdón, por favor!
+Camarero: Sí, ¿Qué desea señor?
+Turista: ¿Podría darme una servilleta?
+Camarero: Claro, en un minuto se la traigo.
+(Unos minutos después.)
+Camarero: Aquí está, señor. ¿Algo más?
+Turista: Por lo mientras no. ¡Gracias!
+Camarero: De nada.

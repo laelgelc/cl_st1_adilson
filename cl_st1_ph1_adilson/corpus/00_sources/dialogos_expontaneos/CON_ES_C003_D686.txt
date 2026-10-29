@@ -1,0 +1,5 @@
+﻿Vivía en @nombre lugar-, vivía
+¿Vivías en @nombre lugar?
+en @nombre lugar.
+Sí.
+

@@ -1,0 +1,6 @@
+﻿Juan: Hola, Carlos. ¿Quieres venir a casa a estudiar Matemáticas mañana por la mañana?
+Carlos: Por la mañana no puedo. Es que tengo clases de Inglés todos los miércoles de ocho a once. lunes y miércoles, de ocho a once.
+Juan: Bueno, pero el examen de Matemáticas es el martes o el viernes Podemos estudiar el jueves ¿Qué prefieres?
+Carlos: ¿El martes? no puedo porque voy al dentista. ¿Qué te parece si quedamos el jueves?
+Juan: Estupendo. Te espero a las nueve. Estudiamos hasta las doce, almorzamos y después vamos a la escuela.
+Carlos: Vale.

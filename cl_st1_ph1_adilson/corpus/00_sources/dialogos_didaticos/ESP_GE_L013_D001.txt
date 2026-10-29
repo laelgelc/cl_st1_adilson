@@ -1,0 +1,10 @@
+﻿MUJER: Hola, Vicente. ¿Qué tal?
+HOMBRE: ¡Hola! Bien, gracias. Este domingo mi familia y yo damos una gran fiesta porque mi abuelo Jaime cumple cien años.
+MUJER: iCien años! ¡Qué vida tan larga!
+HOMBRE: Sí, parece increíble. No tiene problemas de salud, está genial. Sus hijos no se lo creen.
+MUJER: ¿Cuántos hijos tiene?
+HOMBRE: Bueno, tiene tres: mi padre y sus dos hermanas, Francisca y Soledad. Mi tía Francisca está casada y no tiene hijos. Soledad tiene un hijo, mi primo Lucas, y está viuda desde hace años. Luego mi padre tiene dos hijos, mi hermano Simón y yo. En total somos tres nietos con dos hijos cada uno. Seis bisnietos en total.
+MUJER: ¡Qué familia tan numerosa! ¿Y vais todos a la fiesta de tu abuelo?
+HOMBRE: Sí, claro, como son cien años nadie puede faltar. Lo celebramos en el restaurante del padre de mi mujer, un lugar encantador cerca del lago. Y no nos cuesta nada, porque como regalo mi suegro nos permite comer allí sin pagar. Ah, ila familia es algo maravilloso!
+La tarea ha terminado. Ahora va a pasar a la siguiente tarea.
+

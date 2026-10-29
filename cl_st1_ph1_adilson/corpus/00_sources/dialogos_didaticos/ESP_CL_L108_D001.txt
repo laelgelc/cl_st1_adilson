@@ -1,0 +1,8 @@
+﻿Jeannette: ¡Hola!, me llamo Jeannette.
+Carlos: ¡Qué tal! yo soy Carlos.
+Jeannette: Carlos, ¿de dónde eres?
+Carlos: Soy de Perú, ¿y, tú?
+Jeannette: Yo soy de Inglaterra.
+Carlos: Hasta luego.
+Jeannette: Nos vemos.
+

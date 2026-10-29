@@ -1,0 +1,4 @@
+﻿¿Qué es esto?
+Es un robot familiar. Sirve para entretener y educar a los niños.
+¿Y cómo funciona?
+Funciona a pilas.

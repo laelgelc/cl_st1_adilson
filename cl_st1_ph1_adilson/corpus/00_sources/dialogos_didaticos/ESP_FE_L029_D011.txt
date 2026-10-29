@@ -1,0 +1,7 @@
+﻿¿Diga?
+Hola, ¿está Agustín?
+No, en este momento no está. ¿Quieres dejarle algún recado?
+- Si, dile que ha llamado Adelaida.
+Muy bien, se lo digo.
+Gracias.
+

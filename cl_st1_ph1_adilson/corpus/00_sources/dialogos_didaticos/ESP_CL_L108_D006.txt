@@ -1,0 +1,9 @@
+﻿Obed: ¡Hola, qué tal! Yo soy Obed, ¿y, ustedes?
+Ville: ¡Hola! Yo soy Ville y él es mi amigo Mingú.
+Ming?: ¡Qué tal! ¿De dónde eres Obed?
+Obed: Soy de Haití, ¿y, ustedes?
+Ville: Yo soy de Finlandia.
+Mingú: Y yo soy de Corea del Sur.
+Ville: Mingú y yo somos estudiantes de español, ¿y, tú?
+Obed: Yo también soy estudiante de español.
+

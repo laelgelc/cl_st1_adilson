@@ -1,0 +1,12 @@
+﻿A: cómo se va a morir .
+A: ah ?
+B: ahora si vienes este año siquiera , pues .
+A: vamos a tratar , papito , pero es que no he podido juntar la plata que necesito para poder hacer eso , pues .
+A: eso es caro, papá .
+B: &=noise total con mil dólares tienes el pasaje, ida y vuelta .
+A: claro, pues, y +...
+B: te los presto, yo.
+A: &=laughter.
+B: &=noise &=background:speech .
+A: &=laugh tú me los prestas.
+B: &=noise.

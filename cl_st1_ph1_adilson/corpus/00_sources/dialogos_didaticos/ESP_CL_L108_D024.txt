@@ -1,0 +1,7 @@
+﻿Renato: Adria, ¿qué prefieres hacer en tus vacaciones?
+Adria: Yo prefiero estar en casa y escuchar música. ¿Y, tú?
+Renato: Prefiero viajar.
+Adria: ¿Qué lugares prefieres conocer?
+Renato: Prefiero conocer lugares cerca del mar.
+
+

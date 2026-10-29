@@ -1,0 +1,9 @@
+﻿¡Buenos días! Quiero cobrar un cheque.
+¿Es nominal o al portador?
+Perdón, no entiendo.
+¿Está a su nombre?
+Sí, sí.
+¿Su carné de identidad o pasaporte, por favor?
+Sí, aquí tiene.
+Muy bien. Tiene que firmar y poner el número del DNI o pasaporte en el reverso, aquí detrás.
+De acuerdo.

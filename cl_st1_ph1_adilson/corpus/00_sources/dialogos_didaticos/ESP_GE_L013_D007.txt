@@ -1,0 +1,22 @@
+﻿MUJER: Buenos días. ¿En qué puedo ayudarte?
+HOMBRE: Hola, buenos días. Necesito algunas cosas para la clase de Matemáticas.
+MUJER: Muy bien. ¿Qué necesitas?
+HOMBRE: Necesito un lápiz, una goma, un bolígrafo y un cuaderno.
+MUJER: Vale, aquí está el lápiz. ¿De qué color quieres el bolígrafo? Tengo rojo, azul, verde, negro...
+HOMBRE: Me gusta el bolígrafo azul que está al lado de los libros.
+MUJER: Muy bien, y el cuaderno, ¿grande o pequeño?
+HOMBRE: El cuaderno normal, no grande, pero tampoco pequeño. Quiero ese verde, por favor.
+MUJER: ¿Este?
+HOMBRE: Sí, ese.
+MUJER: Aquí está. ¿Algo más?
+HOMBRE: Sí, un estuche también.
+MUJER: Tengo varios tipos de estuche. Grande, pequeño, este es de colores y cuesta 15 euros o este rojo cuesta 8 euros.
+HOMBRE: Me gusta el estuche barato. En el estuche llevo el bolígrafo, la goma y el lápiz. Ya está todo.
+MUJER: Muy bien, el lápiz, la goma, el bolígrafo, el cuaderno y el estuche son 13,50 euros.
+HOMBRE: Aquí tiene.
+MUJER: Muchas gracias.
+HOMBRE: Adiós, gracias.
+MUJER: Hasta luego.
+
+
+

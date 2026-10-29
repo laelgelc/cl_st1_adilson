@@ -1,0 +1,10 @@
+﻿¿Cómo te llamas?
+Soy Julia.
+¿Y tu apellido?
+Law.
+¿De dónde eres?
+Soy inglesa.
+¿Qué haces?
+Soy estudiante y trabajo en un hotel.
+¿Eres soltera?
+Sí, sí.

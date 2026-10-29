@@ -1,0 +1,6 @@
+﻿Camarero: ¿Van a comer postre?
+Celia: Tú no, Ricardo, que estás a régimen. Para mí, traigame la crema catalana.
+Ricardo: Y yo quiero un café, y enseguida la cuenta, por favor.
+Camarero: ¿Cómo va a pagar?
+Ricardo: Con tarjeta de débito.
+

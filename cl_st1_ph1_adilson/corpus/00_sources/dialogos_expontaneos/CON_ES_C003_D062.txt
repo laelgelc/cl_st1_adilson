@@ -1,0 +1,16 @@
+﻿AM2M9 (()) de lleno, vamos.\
+AM2M9 Es un canteo.\
+AM2M10 ¿Quién?\
+AM2M9 Hala, tú otro.\
+AM2M8 (())\
+AM2M10 ¿A quién estás mirando tú?\
+AM2M9 A la rubia.\
+AM2M10 ¿La que está en la barra?\
+AM2M10 ¿Pero es la que está con @nombre propio?\
+AM2M9 ¿Qué dices?\
+AM2M9 Se han pira'o (())\
+AM2M10 (())\
+AM2M9 Este, así.\
+AM2M9 Tal cual.\
+AM2M9 Ha hecho justo.
+

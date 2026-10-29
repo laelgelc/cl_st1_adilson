@@ -1,0 +1,9 @@
+﻿Dr. Gimeno: ¡Hola! ¿Qué te duele Fermín?
+Fermín: Me duele todo. Tengo dolor de cabeza, de espalda, de piernas...
+Dr. Gimeno: Bien. Y la garganta, ¿te duele también?
+Fermín: Sí, doctor, mucho.
+Dr. Gimeno: Vamos a ver. Abre la boca. Un poco más, mm... Ya está. Tienes la gripe. Además, también tienes algo de fiebre. Toma una de estas pastillas cada seis horas.
+Fermín: ¿Tengo que quedarme en cama?
+Dr. Gimeno: Sí, sólo uno o dos días.
+Fermín: ¡Bien! ¡Entonces no voy al colegio!
+

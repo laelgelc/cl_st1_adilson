@@ -1,0 +1,5 @@
+﻿-Buenos días. ¿Qué horario atiende el doctor los viernes?
+-De las 10 de la mañana a las 5 de la tarde.
+- ¿Horario continuado?
+-No. Se toma 1 hora para almorzar cerca del mediodía, pero sin horario fijo.
+

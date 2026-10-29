@@ -1,0 +1,5 @@
+﻿Servicio de habitaciones: Señor, servicio de habitaciones.
+Huésped: Sí, puede dejar la comida en la mesa.
+Servicio de habitaciones: Buenas noches, servicio de habitaciones. ¿Dígame?
+Huésped: Por favor, ¿puede pedirle a alguien que recoja los platos de la 907?
+Servicio de habitaciones: Claro. En este momento la camarera los recogerá.

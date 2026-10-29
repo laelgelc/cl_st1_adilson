@@ -1,0 +1,6 @@
+﻿¡Hola!, ¿cómo te llamas?
+Andreas, ¿y tú?
+Yo me llamo Alessia Fabro y soy italiana. Y tú, ¿de dónde eres?
+Soy alemán. ¿Fabro es tu apellido?
+Sí, Y tú, ¿cuál es tu apellido?
+Schmidt, Andreas Schmidt.

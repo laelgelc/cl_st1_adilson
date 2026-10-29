@@ -1,0 +1,13 @@
+﻿Escribano: Tengo aquí un borrador del contrato, pero para preparar la versión final hace falta que se acuerden algunas condiciones y valores.
+Locador: Pensé que eso ya había quedado establecido.
+Locataria: En realidad ustedes me pasaron inicialmente un alquiler de 1100 euros. Y eso fue antes de que hiciera la tasación del inmueble. La cuestión es que hay que cambiar la instalación eléctrica y también parte de la tubulación de agua. Y esas son obras de conservación que son de responsabilidad del propietario.
+Locador: ¿Y cuál es su propuesta?
+Locataria: Yo me encargo de las obras y se las descuento integralmente de los primeros alquileres. Hablé con una empresa especializada que me pasó un presupuesto aproximado de 4500 euros.
+Locador: Eso es un disparate. Yo le consigo alguien que lo haga por la mitad de precio.
+Locataria: No tengo ningún inconveniente en aceptar su oferta, siempre que me presente una relación de las obras que se realizarán y del material que será utilizado. Solo aceptaré la propuesta después de verificar que la disminución del valor no resulte en la disminución de la calidad.
+Escribano: Propongo que se determine un valor promedio para la obra de digamos tres alquileres, que entran en vigor una vez firmado el contrato por las partes interesadas.
+Locataria: ¿Pero cuándo se firma el contrato? Porque si lo firmo hoy, ya empiezo a pagar alquiler, pero no puedo entrar en el inmueble antes de las reformas.
+Locador: Mire, señora, ya me estoy cansando de tanta negociación. O firmamos contrato hoy o el inmueble seguirá sin alquilar.
+Locataria: Perfectamente, pero yo no voy a firmar nada apurada y sin haber entendido perfectamente los términos.
+Escribano: Está usted en su derecho. Si tiene alguna duda, estoy a su disposición.
+Locataria: Es que en la cláusula 10 dice textualmente "dando expresa conformidad de aceptarlo en perfecto estado de uso y conservación, con todos sus artefactos, sanitarios e instalaciones en buen estado de uso y funcionamiento". Opino que no se atiene a la realidad y que debería alterarse conforme acordamos hace unos minutos...

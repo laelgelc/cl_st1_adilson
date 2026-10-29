@@ -1,0 +1,11 @@
+﻿Recepcionista: ¡Buenos días! ¡Bienvenido al Hotel do Lago, señor!
+Turista: ¡Gracias! Hice una reserva.
+Recepcionista: ¿A qué nombre, señor?
+Turista: A mi nombre, que es Pablo Herrera.
+Recepcionista: ¿Podría usted deletrear su apellido, por favor?
+Turista: Por supuesto... es H-E-R-R-E-R-A.
+Recepcionista: ¡Muy bien! Aquí está, señor Herrera. Es una reserva para cuatro noches, ?sí?
+Turista: Sí, claro.
+Recepcionista: ¡Está bien! Aquí está su llave. Su habitación es la 131.
+Turista: Muchas gracias.
+Recepcionista: De nada. ¡Que disfrute su permanencia con nosotros, señor!

@@ -1,0 +1,8 @@
+﻿Marisa: Hola, Susana. Habla Marisa.
+Susana: ¡Hola, Marisa! ¿Qué tal? ¿Lista para el viaje?
+Marisa: Sí, pero quería preguntarte unas cosas, antes de ir a tu casa. ¿Vives en una casa o en un departamento? ¿Por qué?
+Susana: Vivo en un departamento. ¿Por qué?
+Marisa: No quiero que pienses que soy exigente. Es que yo ronco a la noche y me da mucha vergüenza compartir una habitación con otra persona.
+Susana: Ja, ja, ja. No tienes que preocuparte, porque mi departamento es muy grande y hay un cuarto exclusivo para huéspedes. Además, los verdaderos amigos son comprensivos y yo te considero una gran amiga, así que no te hagas problema.
+Marisa: Susana, quiero pedirte un favor. Uno de mis primos, Álvaro, también estará en Buenos Aires. ¿Podemos salir con él un día y mostrarle maravillas de la ciudad?
+Susana: Claro que sí, Marisa. Dime una cosa: ¿cuántos años tiene tu primo?

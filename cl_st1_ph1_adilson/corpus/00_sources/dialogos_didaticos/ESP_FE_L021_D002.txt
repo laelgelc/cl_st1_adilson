@@ -1,0 +1,13 @@
+﻿Camarera(o): ¿En qué puedo servirle, señor?
+Huésped: ¿Dónde está el control remoto de la TV?
+Camarera(o): Está aquí, en el escritorio.
+Huésped: ¡Perfecto!
+Camarera(o): ¿Algo más?
+Huésped: Sí, por favor, ¿dónde está el cobertor?
+Camarera(o): Está dentro del armario, señor.
+Huésped: ¡Ah, bien!
+Camarera(o): ¿Desea otra información?
+Huésped: No, nada más.
+Camarera(o): ¡Qué descanse!
+¡Con permiso!
+Huésped: ¡Muchas gracias!

@@ -1,0 +1,6 @@
+﻿Restaurante El Mariachi. ¡Buenos días! ¿Qué desea?
+¡Hola! ¡Buenos días! Quiero reservar una mesa para dos personas esta noche.
+¿Para qué hora la quiere?
+Para las diez, si es posible.
+Un momento, por favor... Sí, a las diez no hay ningún problema. ¿Me dice su nombre, por favor?
+Alfonso Hurtado.

@@ -1,0 +1,17 @@
+﻿Hola buenas tardes, llamo por el piso en alquiler.
+Sí dígame, ¿qué quiere saber?
+Primero dónde está.
+Si mira es un piso muy céntrico, está junto al ayuntamiento.
+¿Cuántos metros tiene?
+Tiene 100 metros, cuatro habitaciones, dos baños, cocina y salón comedor.
+¿Está amueblado?
+Si está totalmente equipado, también tiene ascensor.
+Ah, ¡Qué bien!, ¿cuál es el precio del alquiler?
+El precio es 1.240 €, más 1 mes de fianza y se necesita aval bancario.
+Me parece bien, ¿es posible ver el piso?
+Si, esta mañana han venido dos personas a verlo y esta tarde no tengo ninguna cita.
+¿Puedes venir a las cinco?
+De acuerdo, ¿me dice la dirección?
+Es en la Pza. del Ayuntamiento número 12, 3º derecha. Te espero a las cinco.
+Gracias, hasta luego.
+Hasta luego.

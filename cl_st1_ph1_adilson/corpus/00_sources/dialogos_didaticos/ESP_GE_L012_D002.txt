@@ -1,0 +1,10 @@
+﻿CHICA: Oye, Aitor, ¿ya has elegido las actividades extraescolares para este curso?
+CHICO: Sí, el otro día fui a inscribirme.
+CHICA: ¿Nos veremos en clase de Dibujo?
+CHICO: No, he decidido dejarlo, prefiero hacer otras cosas.
+CHICA: ¿Qué harás?
+CHICO: Los lunes y miércoles natación, tenía ganas de hacer algo de deporte.
+CHICA: Yo también, pero me he apuntado a baloncesto.
+CHICO: Los martes seguiré con las clases de guitarra, me encantan.
+CHICA: Claro, no lo dejes. Se te da muy bien.
+

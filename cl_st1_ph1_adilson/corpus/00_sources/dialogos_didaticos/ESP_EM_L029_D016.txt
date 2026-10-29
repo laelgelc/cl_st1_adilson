@@ -1,0 +1,14 @@
+﻿Para ser nuestro cliente es necesario contestar algunas preguntas para completar los datos. ¿De acuerdo?
+¡Vale!
+¿Cómo se llama?
+José.
+¿Cuáles son sus apellidos?
+Pérez González.
+¿De dónde es?
+De Barcelona, España.
+¿Dónde vive?
+Calle Antonio Guzmán, n.º 65.
+¿Tiene teléfono?
+Sí, es el 6458-3909.
+¿Qué hace?
+Soy ingeniero.

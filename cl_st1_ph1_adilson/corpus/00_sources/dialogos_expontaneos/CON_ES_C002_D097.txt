@@ -1,0 +1,14 @@
+﻿B1: aló , Margarita .
+A: cómo estás , Nena .
+B1: hola , hola qué gusto de hablar contigo .
+A: sí , pues , imagínate .
+B1: oye , Margarita , dime cómo está tu salud .
+A: Mira , la salud , más o menos , pero tú sabes mi salud nunca ha sido muy buena , tampoco , así que ya +...
+B1: sí , pues , nunca ha sido muy buena , en realidad .
+B1: sí ?
+A: sí , oye Nena , va a ser tu cumpleaños +...
+B1: sí .
+A: desgraciadamente la tarjeta te la mandé hoy día así que te va a llegar atrasada , oye .
+B1: ah , sí .
+B1: ah , muchas gracias .
+A: Mira , la tarjeta misma no es muy bonita , pero la razón por qué la elegí es porque trae una poesía que me gustó .

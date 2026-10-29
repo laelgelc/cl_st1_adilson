@@ -1,0 +1,20 @@
+﻿Luisa: ¿Sí
+Virginia: ¿Luisa?
+Luisa: ¡Hola, Virginia! ¿Qué tal?
+Virginia: Muy bien, ¿qué tal tú?
+Luisa: Bien...
+Virginia: Oye, había pensado ir al cine este viernes. ¿Os apuntáis Pepe y tú?
+Luisa: ¿Este viernes? Me temo que Pepe no puede... ¿No preferirías que fuésemos el sábado?
+Virginia: A mí me da igual. Si yo lo que quiero es veros.
+Luisa: Vale, pues el sábado. ¿Qué película habías pensado?
+Virginia: Una comedia argentina que me han dicho que es muy divertida, Tiempo de valientes.
+Luisa: Ah, ya la hemos visto. Pero es muy divertida, no te la puedes perder.
+Virginia: También han estrenado 1 franco, 14 pesetas y El laberinto del fauno.
+Luisa: ¿Pero El laberinto del fauno no es de miedo?
+Virginia: No. Es una película
+un poco fantástica, con efectos especiales. He leído alguna crítica y la ponen muy bien. Pero, bueno, de verdad, me da igual. Vamos a ver la que queráis vosotros.
+Luisa: ¿De verdad te da igual?
+Es que me encantaría que fuéramos a ver la otra. ¿Has leído algo sobre ella?
+Virginia: No, pero un compañero me ha dicho que está muy bien, y eso que a este chico no le gusta mucho el cine español. ¿Vamos a ver esa, entonces?
+Luisa: Vale, perfecto. Oye, ¿compras tú las entradas por teléfono? Es que, si no, el sábado es imposible encontrar entradas.
+Virginia: Hecho. Yo me encargo de comprarlas.

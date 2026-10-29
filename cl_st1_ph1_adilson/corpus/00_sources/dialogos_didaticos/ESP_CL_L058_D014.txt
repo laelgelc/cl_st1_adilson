@@ -1,0 +1,5 @@
+﻿Las gambas.
+¿Las gambas son tu comida favorita?
+No, lo contrario.
+¡Ah!, no te gustan nada.
+Sí, exacto.

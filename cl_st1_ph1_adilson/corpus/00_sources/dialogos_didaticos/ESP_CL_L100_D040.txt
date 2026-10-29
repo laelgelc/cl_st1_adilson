@@ -1,0 +1,16 @@
+﻿Emilio: La empresa es la número uno en el mercado, pero su producto ha perdido espacio los últimos meses porque el nuevo producto de la competencia ha tenido muy buena aceptación entre los consumidores.
+Sofía: ¿Cuál es el objetivo de nuestra empresa cliente?
+Emilio: La meta es mantener su nivel de ganancias en el balance anual.
+Sofía: ¿Cuál es el presupuesto que tendremos para trabajar?
+Emilio: No es muy alto. Y ya han adelantado que no van a trabajar con préstamos bancarios para hacer la campaña porque los intereses son altísimos.
+Sofía: ¿Cuál es el producto?
+Emilio: Vamos a trabajar con su producto principal: la esponja multiuso.
+Sofía: ¿Cuál es su rasgo diferencial?
+Emilio: Ahí entra la novedad: han inventado una esponja antibacteriana y anatómica.
+Sofía: ¿Tienes la descripción detallada del producto?
+Emilio: Aquí está: Limpex, esponja anatómica y antibacteriana, color naranja, paquete con tres unidades, medidas...
+Sofía: Naranja, puede ser que el taller de arte consiga un logotipo original y llamativo. Pásales la descripción del producto para que vayan elaborando algo. ¿Qué te parece una campaña radiofónica?
+Emilio: Sí, puede ser. Tiene gran alcance, es barata y llegamos hasta el público consumidor: las amas de casa. Pero creo que no nos podemos olvidar de la televisión, especialmente en los horarios de las novelas, aunque sea un medio de difusión caro.
+Sofía: Sí, tienes razón... Otra opción barata pueden ser los exhibidores callejeros.
+Emilio: Estoy totalmente de acuerdo. Vamos a ver si hasta el final del día le aumentamos al jefe la pila de proyectos para aprobación de su escritorio.
+

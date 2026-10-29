@@ -1,0 +1,5 @@
+﻿A: aló , aló papi .
+B1: sí .
+A: ya papi , te estoy hablando acá con .
+B1: sí , sí , cómo ?
+A: con Frida también , hablaste con Frida ayer ?

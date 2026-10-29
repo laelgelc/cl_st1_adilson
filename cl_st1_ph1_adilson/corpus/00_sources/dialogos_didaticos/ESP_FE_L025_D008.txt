@@ -1,0 +1,15 @@
+﻿Atendiente: ¡Buenos días! ¿Le puedo ayudar en algo?
+Turista: Estoy buscando una camiseta para regalársela a un amigo.
+Atendiente: Humm... ¿Qué le parece esta?
+Turista: ¡Perfecta!
+Atendiente: ¿Qué talla usa él?
+Turista: 'M', mediana.
+Atendiente: ¿Qué color prefiere? ¿Azul o amarilla?
+Turista: Azul.
+Atendiente: Ok... un momento por favor. Aquí está una azul, talla M.
+Turista: ¿Cuánto es?
+Atendiente: Son R$ 35,00. ¿Algo más?
+Turista: No, nada más. ¿Puedo pagar con tarjeta de crédito?
+Atendiente: Sí, claro.
+Turista: Aquí está. 
+

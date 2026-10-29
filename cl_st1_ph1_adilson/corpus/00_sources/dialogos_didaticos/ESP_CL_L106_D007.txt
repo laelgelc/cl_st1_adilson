@@ -1,0 +1,6 @@
+﻿? Por favor, ¿me puede dar una hoja de reclamaciones?
+? Por supuesto, señora. ¿Qué ha pasado?
+? El trato recibido por el dependiente ha sido horrible. Me ha dicho que por estar de rebajas no puedo hacer
+ninguna devolución, eso no es legal.
+? Claro que no lo es, lo siento mucho. Aquí tiene la hoja de reclamaciones.
+

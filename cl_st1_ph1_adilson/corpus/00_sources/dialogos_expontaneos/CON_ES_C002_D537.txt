@@ -1,0 +1,15 @@
+﻿A: mamá , pero cómo está su condición física .
+B: ya .
+A: o sea , te acuerdas que tuvo problemas con la anestesia la vez pasada .
+B: exactamente , sí , todo eso he estado viendo , estamos .
+B: viendo con Raúl y estamos pidiendo distintas opiniones .
+B: pero , la realidad es una , Edmundo , seamos realistas .
+B: yo siempre me he opuesto por la edad .
+A: &=noise
+B: que , que no debíamos arriesgarnos , pero qué pasa .
+B: en , nadie sabe cuando nos toca , y yo no se si en algún momento .
+B: no pueda estar en condiciones como para poderla atender a mi mamá y .
+B: que ella vaya a perder la vista totalmente , entonces creo que es un riesgo que debemos de correr .
+B: a mí , Raúl me dijo que te escribiera , eh &=sigh .
+B: estaba tratando de obtener otra opinión médica distinta .
+B: para ver si era factible .

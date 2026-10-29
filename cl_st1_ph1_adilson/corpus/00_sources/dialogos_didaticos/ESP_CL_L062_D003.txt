@@ -1,0 +1,16 @@
+﻿Hola, Buenos días.
+Buenos días, dígame.
+Mire, necesito información sobre los trenes de Madrid a Valladolid.
+¿Para qué día?
+Para el 17 de septiembre.
+Hay un tren que sale a las 9.30 horas y llega a las 11.30 horas de la mañana.
+¿hay alguno por la tarde?
+Sí, hay uno que sale a las 16.30 horas y llega a Valladolid a las 19.30.
+Sí, ese es el que me interesa. ¿Puedo reservar una plaza?
+Sí, claro. ¿Ida y vuelta?
+Sí.
+Bien, este es el billete. Es el coche 13 y el asiento 35.
+¿Cuánto es?
+Son 40 euros con 50.
+Aquí tiene, muchas gracias.
+A usted.

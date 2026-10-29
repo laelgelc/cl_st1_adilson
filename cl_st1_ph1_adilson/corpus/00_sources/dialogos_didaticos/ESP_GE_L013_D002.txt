@@ -1,0 +1,17 @@
+﻿HOMBRE: Mamá, ¿sabes dónde está mi mochila?
+MUJER: Pedro, mi amor, está en tu habitación delante de la silla.
+HOMBRE: No, mamá. No está aquí.
+MUJER: Es la mochila verde, ¿verdad?
+HOMBRE: No, es roja, es nueva.
+MUJER: Ah, perdón, cariño. Está en la mesa del salón.
+HOMBRE: Mamá, necesito la mochila ahora para salir. Estoy en el salón, pero no está aquí.
+MUJER: ¡Ah, madre mía, es verdad! Tu padre tiene tu mochila en el trabajo, porque no encuentra su cartera.
+Vuelve esta noche de la oficina, cariño.
+HOMBRE: Mmh, vale, pues entonces tomo la mochila vieja para ir a casa de mi amigo.
+MUJER: Sí, mi amor, ¿tienes muchos deberes para hoy?
+HOMBRE: Mmh, no, mamá... quiero salir, por favor. Pablo está en el parque y quiero jugar con él.
+MUJER: iPedro! iDebes estudiar y luego puedes jugar con tu amigo!
+HOMBRE: Lo sé... lo siento... Te prometo que hago todos los ejercicios después de cenar.
+MUJER: Vale... Esta noche haces los deberes.
+HOMBRE: Hasta luego, mamá.
+

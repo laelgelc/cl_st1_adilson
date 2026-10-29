@@ -1,0 +1,12 @@
+﻿¿Puedo facturar aquí para Viena?
+Sí, desde luego, ¿Me permite su billete? Y el pasaporte...
+Aquí tiene.
+¿Va a facturar equipaje?
+Una maleta pequeña.
+¿Fumador o no fumador?
+No fumador.
+¿Ventanilla o pasillo?
+Ventanilla.
+Su tarjeta de embarque. Hora límite 15.45, puerta B.
+Muchas gracias.
+De nada. ¡Buen viaje!

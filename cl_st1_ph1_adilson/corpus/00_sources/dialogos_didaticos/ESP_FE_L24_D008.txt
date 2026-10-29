@@ -1,0 +1,8 @@
+﻿Turista: Señor, un hombre me ha robado la tarjeta de crédito.
+Policía: ¿Me lo puede describir, señora?
+Turista: Es alto, delgado, tiene el pelo oscuro, lleva una camiseta roja y vaqueros.
+Policía: ¿Cuándo pasó eso?
+Turista: Hace más o menos 10 minutos.
+Policía: ¿Y dónde ocurrió?
+Turista: Cerca de la esquina.
+Policía: Un momento. Voy a informar a la central de policía.

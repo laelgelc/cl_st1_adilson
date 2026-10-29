@@ -1,0 +1,13 @@
+﻿Juan: ¿Me prestas un CD?
+María: Sí, pero ¿cuál?
+Juan: Uno de salsa.
+María: Mira, en esa caja tengo algunos.
+Juan: Pero aqui no hay ningún CD.
+María: ¿Ninguno?
+Juan: No, la caja está vacía.
+Maria: ¡Ahl, claro, ahora me acuerdo. Ayer arreglé todo aquí. Creo que están en el primer estante.
+Juan: Sí, aquí hay uno muy bueno de Celia Cruz.
+María: ¡Ah, no! Llévate cualquier CD, menos ese.
+Juan: ¿Por qué? Yo soy cuidadoso y mañana te lo devuelvo.
+María: No, ni hablar. El primero que te presté se quedó con algún amigo tuyo. ¿Te acuerdas?
+Juan: Ya veo que no estás en un buen día. ¡Qué mal humor!

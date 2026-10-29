@@ -1,0 +1,8 @@
+﻿Taxista: Disculpe, señora Vega. ¿De dónde es usted?
+Turista: Yo soy de España, de Barcelona. ¿Y usted? ¿Es de esta ciudad?
+Taxista: Sí, soy de Recife. ¿Conoce usted por aquí?
+Turista: No, no conozco nada. Es la primera vez que vengo aquí.
+Taxista: Le va a gustar esta ciudad. La Praia de Boa Viagem es muy bonita.
+Turista: ¡Me lo han dicho! Pero, mañana yo querría conocer Porto de Galinhas.
+Taxista: Si usted quiere la llevo hasta allá, señora. Aquí está mi tarjeta.
+Turista: Muchas gracias.

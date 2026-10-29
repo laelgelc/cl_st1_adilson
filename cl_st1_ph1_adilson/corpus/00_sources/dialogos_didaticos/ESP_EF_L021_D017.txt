@@ -1,0 +1,13 @@
+﻿Diego: -Estoy pensando en comprar una mascota.
+Julia: ¿Qué dices? No te oigo.
+Diego: Que estoy pensando en comprar una mascota.
+Julia: Diego, yo te conozco muy bien. Cuando dices que estás pensando es porque ya la tienes. 
+Diego: Menos mal que me conoces.  Está en la sala. Espera un momento que te la traigo.
+Julia: ¡Ah!, un cachorro de perro. ¡Qué bonito!
+Diego: Tiene seis meses.
+Julia: ¡Madre mía!, estos perros destruyen todo. ¿Y quién lo va a cuidar?
+Diego: - Me ofrezco para llevarlo a pasear. 
+Julia: ¿Sólo eso?
+Diego: Bueno, si no te gusta, lo devuelvo.
+Julia: No, ni hablar, nos quedamos con él. Él va a ser un gran amigo.
+

@@ -1,0 +1,6 @@
+﻿Turista: Perdón, ¿dónde está la taquilla?
+Policía: Está allí, a la derecha, señor.
+Turista: ¿Y la puerta de entrada?
+Policía: La puerta de entrada está a la izquierda de la taquilla.
+Turista: ¡Muchísimas gracias!
+Policía: De nada.

@@ -1,0 +1,16 @@
+﻿Laura: Hola, José. ¿Cómo estás?
+José: Hola, Laura. Estoy bien, gracias. ¿Y tú?
+Laura: Estoy bien también, gracias. Oye, noté que te lastimaste la mano. ¿Qué te pasó?
+José: Si, me lastimé jugando fútbol el fin de semana pasado. Me golpeé la mano con la pelota.
+Laura: ¡Qué mal! ¿Te duele mucho?
+José: Sí, me duele un poco. Pero me puse hielo y parece que está mejorando.
+Laura: Me alegra escuchar eso. A mí me duele un poco el cuello, creo que dormí mal anoche.
+José: ¿En serio? ¿Te duele mucho?
+Laura: No tanto, solo un poco. Creo que solo necesito un buen masaje en el cuello.
+José: Sí, un masaje puede ayudar. A propósito, ¿has ido al médico por tu dolor de cabeza?
+Laura: No, no he ido todavía. Pero he estado tomando algunas pastillas para el dolor y parece que está mejorando.
+José: Bueno, espero que te sientas mejor pronto. Por cierto, tienes unos ojos muy bonitos. ¿Son verdes?
+Laura: Sí, son verdes. Gracias por el cumplido, José. Y tú tienes una sonrisa muy bonita. Y tienes unos brazos muy fuertes, ¿verdad?
+José: Sí, me gusta hacer ejercicio y levantar pesas. Quiero estar en buena forma física. Bueno, Laura, fue un placer hablar contigo. ¡Hasta la próxima!
+Laura: Igualmente, Juan. ¡Hasta la próxima!
+

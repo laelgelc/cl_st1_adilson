@@ -1,0 +1,28 @@
+﻿
+QuerÃ­a informaciÃ³n sobre viajes a Mallorca. 
+
+Â¿En aviÃ³n o en barco? 
+
+En aviÃ³n, por favor. 
+
+Â¿Quiere reservar tambiÃ©n el hotel? 
+
+SÃ­, una habitaciÃ³n doble en rÃ©gimen de pensiÃ³n completa. 
+
+Â¿Para quÃ© fechas? 
+
+Del 15 al 25 de julio. Â¿QuÃ© precio tiene? 
+
+El viaje, 100 euros por persona. El hotel, 60 euros por persona y dÃ­a. 
+
+Entonces, quiero reservar ahora mismo el aviÃ³n y la habitaciÃ³n.  
+
+Â¿A nombre de quiÃ©n? 
+
+Manuel MartÃ­nez. 
+
+Tiene que dejar una seÃ±al. 
+
+Muy bien. Â¿Puedo pagar con tarjeta de crÃ©dito? 
+
+SÃ­, aceptamos todas las tarjetas de crÃ©dito.

@@ -1,0 +1,10 @@
+﻿MADRE: ¿Qué te apetece?
+CHICO: Me encantaría comer una hamburguesa con una montaña de patatas fritas.
+MADRE: Dani, esto es un restaurante italiano, aquí no hay nada de eso.
+CHICO: Ya, pues no sé, ¿y qué vas a comer tú?
+MADRE: Creo que los espaguetis con almejas tienen que estar muy ricos, ¿los quieres probar?
+CHICO: No, no me gustan las almejas, ya lo sabes.
+MADRE: Si quieres puedes pedir una pizza de atún, antes te encantaban.
+CHICO: No me apetece mucho, pediré una, pero de jamón serrano.
+MADRE: Vale.
+

@@ -1,0 +1,11 @@
+﻿A: eh , como te digo , yo , me pareció importante la información , ahora la otra cosa que él me dijo , que le suena un taca-taca-taca , .
+A: que cuando yo le dije , que cuando yo lo cargo , suena un taca-taca-taca , él dice que él no entiende por qué eso puede sonar taca-taca-taca , .
+A: pero entonces me cansé de decirle , Cuevas venga a dar una vuelta para que usted oiga el taca-taca-taca , pero no hubo manera , .
+A: si , que estaba esperando a éste , que estaba esperando al otro y no quiso montarse , .
+B: &=background:speech .
+A: oye , él dice que él no comprende qué puede sonar taca-taca-taca , .
+B: &=noise .
+A: que eso está flojo , que va a sonar pum cuando cae a un hoyo , pero que no va a sonar taca-taca-taca , .
+A: te lo digo por si puedes hablar con alguien de eso , y además porque , .
+A: no sé , me imagino que uno debe sopesar , él dice que no cree que el carro se debe seguir usando por mucho tiempo así , .
+B: hay que darle funda a eso entonces .

@@ -1,0 +1,16 @@
+﻿Ernesto, ¿sabes cómo calcular cuánto le cuestas a tu empresa por minuto?
+Pues no tengo ni idea. Muy caro, supongo...
+Es muy sencillo: tienes que dividir por 60 el coste por hora.
+Ah, sí. Y, ¿cómo saco el coste por hora?
+Pues multiplicas tu salario anual por 1,5 e logo lo divides por el número de horas trabajadas al año. Dime, ¿cuál es tu salario?
+Es un secreto. No te lo puedo decir.
+Sabes que ganamos igual.
+Pues, entonces, haz tú mismo el cálculo.
+Si multiplico tu salario anual de 60 000€ por 1,5... eso me da... Déjame pensar, me da... 90 000. Y, dime, ¿tú trabajas siempre 8 horas al día o haces horas extras?
+No, ya no hago horas extras. No me conviene.
+Bueno. Entonces, si trabajas 8 horas al día, eso significa que haces 40 horas a la semana. Si multiplico 40 por 4, obtengo 160 horas por mes, y si multiplico esto por 12 meses, me da un total de... de 1920 horas. ¿Correcto?
+Si tú lo dices...
+Sigamos... 90 000€ dividido entre 1920 horas es igual a... casi 47. 47€ es lo que le cuestas a la empresa por hora.
+¿Tan poco?
+Como 1 hora tiene 60 minutos, 47 dividido 60 me da, redondeando, 0,8€ por minuto.
+¡Casi 1€ por minuto! Ahora entiendo por qué mi jefe no me quiere dar un aumento

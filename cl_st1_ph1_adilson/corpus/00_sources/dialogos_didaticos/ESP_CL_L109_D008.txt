@@ -1,0 +1,11 @@
+﻿Miguel: Camarero. La cuenta, por favor.
+Camarero: Un momento. Aquí está.
+Robert: No, no. Pagamos todos.
+Yvette: Sí, claro. Nosotras también.
+Miguel: No. Hoy pago yo.
+Yvette: No, MB es posible así. amigos.
+Miguel: Sí, pero hoy es mi cumpleaños
+Todos: ¡Ah, bueno! Entonces sí. ¡Felicidades, Miguel! Y muchas gracias.
+Miguel: De nada. Son sólo 19 años...
+Todos: ¡Pues vamos a celebrarlo otra vez!
+

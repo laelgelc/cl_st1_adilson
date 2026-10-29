@@ -1,0 +1,12 @@
+﻿A: Ah, tú ya fuiste a México una vez ¿verdad? [[distortion]]
+B: Sí, ya estado allá, ajá exactamente pero pues antes porque fui yo acompañada ¿te acuerdas?
+A: ¿Fuiste con Jessie y con quién?, con ésta, Patricia
+B: ¡Andale! y con Rosa
+A: ¡Eee! Ya me acordé la historia ¿verdad? {laugh}
+B: {laugh} ¿Te acuerdas?
+A: {laugh}
+B: güera.
+A: ¿Cómo no?
+B: Ándale, exactamente
+A: Claro que si me acuerdo ¡Eee! no pues
+B: Fíjate, pero cuanto hace güera ya un chorro

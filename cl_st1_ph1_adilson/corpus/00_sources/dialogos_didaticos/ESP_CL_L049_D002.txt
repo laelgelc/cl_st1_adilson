@@ -1,0 +1,10 @@
+﻿¿Su nombre por favor?
+José
+¿Apellidos?
+Sánchez Alonso.
+¿Domicilio?
+Plaza de la Dehesa, 30, segundo piso, en Teruel.
+¿Nacionalidad?
+Soy español.
+¿Cuántos idiomas hablas?
+Español, francés, inglés y un poco de portugués.

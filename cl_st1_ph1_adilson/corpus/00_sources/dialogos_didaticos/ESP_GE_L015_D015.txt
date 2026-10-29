@@ -1,0 +1,20 @@
+﻿Vendedor: ¡Hola! ¿En qué puedo ayudarte hoy?
+Cliente: Hola, estoy buscando un vestido para una fiesta de cumpleaños. ¿Tienes alguna sugerencia?
+Vendedor: Por supuesto, tenemos una gran selección de vestidos para fiestas. ¿Qué estilo te gusta más?
+Cliente: Me gusta algo elegante pero cómodo. ¿Tienes algo así?
+Vendedor: Si, tenemos algunos vestidos elegantes que son muy cómodos. ¿Qué tal este vestido negro de encaje?
+Cliente: Oh, me gusta mucho. ¿Tienes mi talla?
+Vendedor: Déjame ver... sí, tenemos tu talla en la parte trasera. ¿Quieres que te lo muestre?
+Cliente: Sí, por favor.
+Vendedor: ¡Aquí lo tienes! ¿Quieres probártelo?
+Cliente: Sí, gracias. ¿Dónde están los probadores?
+Vendedor: Los probadores están al fondo de la tienda, a la izquierda. Si necesitas ayuda, házmelo saber.
+Cliente: ¡Perfecto! Muchas gracias.
+Después de un rato...
+Cliente: Me queda muy bien. Me lo llevo.
+Vendedor: Excelente elección. ¿Te gustaría pagar en efectivo o con tarjeta?
+Cliente: Puedo pagar con tarjeta.
+Vendedor: Claro, solo acércate al mostrador y te ayudaré con el pago.
+Cliente: Muchas gracias por tu ayuda.
+Vendedor: ¡De nada! Espero que disfrutes tu vestido en la fiesta.
+

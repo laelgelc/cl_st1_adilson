@@ -1,0 +1,15 @@
+﻿Juan: Hola, Marta. ¿Cómo estás?
+Marta: Hola, Juan. Estoy bien, gracias. ¿Y tú?
+Juan: Estoy bien también. Oye, me gustaría saber un poco más sobre tu familia. ¿Tienes hermanos?
+Marta: Si, tengo una hermana menor. Se llama Ana y tiene 16 años. ¿Y tú, Juan? ¿Tienes hermanos también?
+Juan: Sí, tengo un hermano mayor. Se llama Carlos y tiene 30 años. ¿Qué hace tu hermana?
+Marta: Está estudiando en el colegio todavía. Quiere ser veterinaria, le gustan mucho los animales.
+Juan: ¡Qué interesante! A mí también me gustan los animales. En mi familia tenemos una perra llamada Lola.
+Marta: ¡Qué lindo! En mi casa también tenemos una mascota, pero es un gato. Se llama Pelusa y es muy cariñoso.
+Juan: Me encantan los gatos, son muy divertidos. ¿Y tus padres, Marta? ¿Qué hacen?
+Marta: Mi mamá es profesora de historia en la universidad y mi papá es abogado. ¿Y los tuyos?
+Juan: Mi papá es arquitecto y mi mamá es enfermera. Trabajan mucho, pero siempre sacan tiempo para estar juntos.
+Marta: Eso es muy importante, Juan. La familia es lo más importante en la vida.
+Juan: Si, tienes razón. Bueno, Marta, fue un gusto hablar contigo. ¡Hasta luego!
+Marta: Igualmente, Juan. ¡Hasta luego!
+

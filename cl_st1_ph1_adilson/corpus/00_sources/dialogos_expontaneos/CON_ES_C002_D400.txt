@@ -1,0 +1,43 @@
+﻿A: xxx .
+A: y Laura , cómo ha estado ?
+B: pues , bien , dentro de lo que cabe , bien .
+B: bien , bien .
+B: pues , ahí trabajando en el consultorio y siguiendo , echándole ganas al negocio .
+A: &=noise .
+B: y saliendo con Pepe y con sus amigas +...
+A: mmm .
+A: &=noise .
+B: verdad ?
+A: muy bien , sigue todavía trabajando con mi papá ?
+B: pues ahí toda- eh ?
+A: sigue todavía trabajando con mi papá ?
+A: &=line noise .
+B: pues es tu papá el que está trabajando , ahí , con ella .
+A: &=noise sí , pero ahí se están ayudando ellos .
+A: ah , pues , qué bueno .
+B: pues , sí , ahí se están ayudando mucho .
+B: pues ahí siguen los dos , muy bien .
+A: &=noise .
+B: bendito sea Dios .
+A: mmm .
+B: yo y ella no podemos ni siquiera platicar .
+A: &=noise mmm .
+A: de eso .
+B: eh ?
+A: de eso o de cualquier cosa ?
+B: de nada .
+A: mmm .
+A: &=noise .
+B: de nada , de nada .
+B: lo , lo muy limitado , cómo estás , yo bien , tú bien , bueno +...
+A: &=noise .
+B: necesito esto , bueno , ya , me lo hace y ya +...
+B: hasta luego , bye@s:eng .
+A: &=noise .
+B: empezamos a , a , a tomar una plática y no , no , no , no se puede +...
+A: &=noise .
+B: no se puede , no sé qué tan envenenada esté esta muchachita , no sé qué , qué criterio tenga , quien sabe , xxx si ella , pero a ver , ya recapacitará , ya +...
+A: &=noise .
+B: ya agarrarán las aguas su cauce y ya , verdad ?
+B: a ver qué pasa +...
+A: &=noise está bien .

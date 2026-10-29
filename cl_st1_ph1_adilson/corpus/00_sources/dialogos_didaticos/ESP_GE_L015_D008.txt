@@ -1,0 +1,16 @@
+﻿Carlos: Oye, ¿tienes algún plan para el fin de semana?
+Martín: No, no tengo nada planeado todavía. ¿Tú?
+Carlos: Pues, estoy pensando en ir a la playa el sábado. ¿Te gustaría venir?
+Martín: ¡Claro! Suena divertido. ¿Qué día es hoy?
+Carlos: Hoy es martes. ¿Por qué lo preguntas?
+Martin: Es que a veces pierdo la noción del tiempo en el trabajo y no sé en qué día de la semana estamos.
+Carlos: Sí, eso me pasa a mí también. Pero afortunadamente, hoy es martes. Ya hemos pasado el lunes.
+Martin: Sí, es verdad. Pero todavía quedan tres días para el fin de semana.
+Carlos: Bueno, al menos ya estamos en la mitad de la semana. El miércoles es un buen día, ¿no te parece?
+Martín: Si, tienes razón. Y después del miércoles, solo quedan dos días más para el fin de semana.
+Carlos: Exactamente. Además, mañana es un día especial en la oficina. Vamos a celebrar el cumpleaños de nuestro jefe.
+Martín: ¡Ah, es verdad! Ya me había olvidado. Espero que haya pastel.
+Carlos: Claro que sí. Y también habrá algunos juegos y premios. Va a ser divertido.
+Martín: Genial. Me alegro de que haya algo divertido para hacer en la oficina. Bueno, Carlos, tengo que seguir trabajando. ¡Hasta luego!
+Carlos: Igualmente, Martín. ¡Hasta luego!
+

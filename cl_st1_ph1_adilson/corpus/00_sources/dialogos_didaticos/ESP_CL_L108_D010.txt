@@ -1,0 +1,11 @@
+﻿Kenta: Buenos días.
+Mary: Buenos días.
+Kenta: Mi nombre es Kenta Ube.
+Mary: Mucho gusto, mi nombre es Mary Smith.
+Kenta: ¿De dónde es usted?
+Mary: Soy de Inglaterra, ¿y, usted?
+Kenta: Soy de Japón.
+Mary: Es casado, ¿verdad?
+Kenta: No, yo soy soltero, ¿y usted es casada?
+Mary: No, yo soy divorciada.
+

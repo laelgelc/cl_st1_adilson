@@ -1,0 +1,4 @@
+﻿Cliente: Disculpe, ¿dónde puedo pagar esta cuenta?
+Vendedor: Diríjase a alguna de las cajas del sector.
+Cliente: ¿Puedo pagar todas las cuentas aquí?
+Vendedor: No sé si todas, pero algunas seguramente.

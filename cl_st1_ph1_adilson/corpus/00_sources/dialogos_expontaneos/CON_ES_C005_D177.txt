@@ -1,0 +1,10 @@
+﻿E: ¿y tú eres buena cocinera?
+I: ¿que si soy buena cocinera? sí
+E: ¿sí? ¿y sabes preparar algún plato típico de aquí de Alcalá?
+I: ¿un plato típico de aquí de Alcalá? pues no no sé hacerlos
+E: ¿no y cuáles son?
+I: pues las rosquillas las almendras garrapiñadas la costrada las migas
+E: ¡ah! las migas ¿tú sabes hacer migas?
+I: no la única vez que inten que intenté hacerlas me salió como como una pasta y ya no lo he intentado más
+E: y de confitería tampoco sabes hacer
+I: tampoco no no

@@ -1,0 +1,12 @@
+﻿Buenas tardes, ¿qué desea?
+Quería comprar unas naranjas de zumo.
+¿Cuántas quiere?
+Dos kilos.
+Aquí las tiene, ¿algo más?
+Sí, también quiero una lechuga.
+Lo siento, no me queda ninguna. ¿quiere unas judías verdes?
+No, gracias. No quiero nada más. ¿Cuánto es?
+5,25 €
+Tome, ¿puede darme una bolsa, por favor?
+Sí, claro… Y aquí tiene sus vueltas. Muchas gracias.
+Adiós, muchas gracias.

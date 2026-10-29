@@ -1,0 +1,22 @@
+﻿
+Buenas tardes, Â¿tienen mesa reservada? 
+
+SÃ­, tenemos una mesa reservada a nombre de Lola LÃ³pez. 
+
+SÃ­, es Ã©sta. 
+
+Tenemos carta o menÃº. 
+
+Preferimos el menÃº. 
+
+Â¿QuÃ© tienen de menÃº del dÃ­a? 
+
+De primero: sopa de fideos, judÃ­as verdes o gazpacho. De segundo: filete a la plancha o merluza en salsa. 
+
+Â¿QuÃ© es el gazpacho? 
+
+Es una sopa frÃ­a tÃ­pica de AndalucÃ­a. 
+
+De segundo, Â¿quÃ© nos recomienda? 
+
+La merluza estÃ¡ hoy muy buena, es fresca.

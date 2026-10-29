@@ -1,0 +1,10 @@
+﻿
+Consultorio: Consultorio del doctor Herrera, buenos días.
+Sra. Ferrero: Buenos días, ¿sería tan amable de pasarme al doctor?
+Consultorio: ¿De parte de quién?
+Sra. Ferrero: Soy la Sra. Ferrero, el doctor es nuestro médico familiar hace 10 años.
+Consultorio: Ahora no puede ponerse, está en una cirugía.
+Sra. Ferrero: ¿Le pediría al doctor que me llamase más tarde, por favor?
+Consultora: Por supuesto señora, se lo diré.
+Sra. Ferrero: Muchas gracias.
+

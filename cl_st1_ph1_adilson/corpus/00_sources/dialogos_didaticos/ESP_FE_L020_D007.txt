@@ -1,0 +1,8 @@
+﻿Turista: Me gustó mucho el postre que me recomendó.
+Camarero: ¡Qué bueno, señor! ¿Quiere un café?
+Turista: Sí, me gustaría... y, por favor, tráigame la cuenta.
+(Algunos minutos después.)
+Camarero: Aquí está su café y la cuenta, señor.
+Turista: ¿Ustedes aceptan todas las tarjetas de crédito?
+Camarero: Sí, todas, señor.
+Turista: ¡Aquí está!

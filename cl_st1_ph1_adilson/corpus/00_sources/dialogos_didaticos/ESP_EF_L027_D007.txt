@@ -1,0 +1,6 @@
+﻿Peatón: Por favor, ¿sabe usted dónde está la estación de metro?
+Señor: Hay una en la Calle Central, Plaza Central
+Peatón: ¿Y dónde está la Calle Central Plaza Central
+Señor: No está muy lejos. Siga por esta avenida, atraviese San José y en el tercer semáforo gire a la derecha, en la Avenida de la Independencia. primer
+Peatón: Muchas gracias, señor.
+Señor: De nada, hasta luego.

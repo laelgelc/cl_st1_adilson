@@ -1,0 +1,3 @@
+﻿¿Han visto ya esta película?
+Sí, yo ya la he visto.
+No, yo todavía no la he visto.

@@ -1,0 +1,17 @@
+﻿¿Cómo se siente, señor Jiménez?
+Paciente: Cuando toso me duele el pecho.
+Tecnólogo de radiografía: ¿Podemos hacerle una radiografía de tórax?
+Paciente: Sí.
+Tecnólogo de radiografía: ¿
+Puede usted, por favor, quitarse todos los objetos metálicos?
+Paciente: ¡Claro!
+Tecnólogo de radiografía: Párese aquí y manténgase derecho. Deje los brazos hacia abajo y no se mueva. Contenga la respiración.
+(Algunos segundos después.)
+Ahora, gire hacia la derecha y contenga la respiración otra vez.
+Tecnólogo de radiografía:
+Paciente: ¿Es solo eso?
+Tecnólogo de radiografía:
+Sí, solo eso.
+Paciente: ¡Muchas gracias!
+Tecnólogo de radiografía:
+¡De nada!

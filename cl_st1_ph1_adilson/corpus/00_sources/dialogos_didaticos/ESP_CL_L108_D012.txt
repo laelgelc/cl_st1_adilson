@@ -1,0 +1,5 @@
+﻿A: ¿Qué características positivas tienes?
+B: Soy sociable y optimista.
+A: ¿Qué características negativas tienes?
+B: Soy flojo y aburrido.
+

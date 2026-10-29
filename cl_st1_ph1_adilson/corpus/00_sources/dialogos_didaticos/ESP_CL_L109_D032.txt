@@ -1,0 +1,9 @@
+﻿Rafael: ¿Qué has hecho este verano?
+Inés: He estado en Kenia. Es un país maravilloso. ¿Has estado tú también en Kenia?
+Rafael: No, nunca, pero estuve en Marruecos hace dos años.
+Inés: ¿Y dónde has estado este verano?
+Rafael: He visitado el norte de España. Es precioso. Tienes que visitarlo.
+Inés: El año pasado estuve en Santander. Visité las Cuevas de Altamira.
+Rafael: Son maravillosas. ¿Estuviste en la Universidad de Verano?
+Inés: Sí, asistí a un curso de lengua y cultura inglesa. Fue muy interesante y divertido.
+

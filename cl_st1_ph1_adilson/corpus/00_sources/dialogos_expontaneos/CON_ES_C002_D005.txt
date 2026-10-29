@@ -1,0 +1,9 @@
+﻿B1: aló , aló .
+B1: &=background:speech .
+A: qué tal papi , cómo está papi .
+A: papi ?
+B1: que Dios te bendiga .
+B1: ajá .
+A: a usted también .
+A: es que le estaba contando a mi mami que esta llamada la están grabando para un proyecto y me permitieron llamar con el permiso de que la graben para poderla estudiar después , como habla la gente , me entiende , cual es el tiempo que la gente tarda y todo lo demás .
+B1: ah , bueno .

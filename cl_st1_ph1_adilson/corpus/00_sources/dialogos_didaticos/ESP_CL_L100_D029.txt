@@ -1,0 +1,12 @@
+﻿Magdalena: ¡Hola!
+Ana: ¿Magdalena? Soy yo, Ana. ¿Cómo estás?
+Magdalena: ¡Qué gusto oírte! ¿Cómo te va?
+Ana: Bien, pero muy enojada.
+Magdalena: Cuéntame. ¿Qué pasa?
+Ana: Es que tengo un secador de pelo nuevo, fantástico, pequeño y muy fuerte, que me costó muy caro. El problema es que, según las instrucciones de uso, se adapta automáticamente a cualquier tipo de corriente eléctrica, 110 o 220. Bueno, hoy lo enchufé en 220 y empezó a salir un olor horrible y mucho humo. No te imaginas el susto.
+Magdalena: Se debe haber quemado el aparato. ¿Ya has llamado a la tienda?
+Ana: Sí, a la tienda, al servicio autorizado, a la fábrica... y nadie asume la responsabilidad. ¡Me tienen harta! Por eso te llamo. ¿Podrías hacerme un favor?
+Magdalena: ¡Cómo no! ¿En qué puedo ayudarte?
+Ana: Tu hermano Carlos trabaja en un organismo de derechos del consumidor, ¿no? ¿Podrías preguntarle qué debo hacer?
+Magdalena: ¡Por supuesto! Ahora mismo lo llamo.
+

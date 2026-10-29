@@ -1,0 +1,10 @@
+﻿Vos, ¿cómo te llamás?
+Me llamo Paolo.
+¿Y tu apellido?
+Rossini.
+¿De dónde sos?
+Soy italiano, de Roma.
+¿Qué haces?
+Estudio idiomas y soy ingeniero agrónomo.
+¿Sos soltero?
+No, no, estoy casado.

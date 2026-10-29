@@ -1,0 +1,4 @@
+﻿E: ¿y usted juega la lotería o hace baloto?
+I: no señorita no ninguna de las dos
+E: ¿y qué piensa cuando sabe que alguien se ganó un chance?
+I: genera alegría genera alegría ¡ay qué chévere se lo ganó! eso creo que es algo muy bonito.

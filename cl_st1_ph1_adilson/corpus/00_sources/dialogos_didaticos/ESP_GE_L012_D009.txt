@@ -1,0 +1,16 @@
+﻿CARMEN: Bueno, y con esto damos por terminado el repaso para el examen de mañana. ¿Te queda todo claro? ¿Tienes dudas?
+ÁLVARO: Lo tengo todo clarísimo. Muchas gracias por haberme ayudado con Historia. Es una asignatura a la que le tengo manía y me cuesta mucho estudiar.
+CARMEN: No te preocupes, verás que mañana va a ir todo estupendamente bien. ¿Le echamos un vistazo al b/og de Cherna, a ver si hay novedades?
+ÁLVARO: Vale, genial. Así nos despejamos un poco.
+CARMEN: Anda, mira, ha colgado las fotos del cumpleaños de Maite ... Y también ha comentado, vamos a ver ... Vaya, aquí estamos todos superbién.
+ÁLVARO: Sí, la verdad es que fue una fiesta muy divertida. Y creo que la tableta que le regalamos le gustó mucho.
+CARMEN: Sí, sí, acertamos con el regalo. Lo que creo que no le hizo mucha ilusión fue lo de la ropa que le regaló el otro grupo, a lo mejor porque no era de su estilo ...
+ALVARO: Puede ser, es que la ropa es algo muy personal. De todas maneras, siempre puede cambiarla en la tienda, no creo que se la haya quedado.
+CARMEN: Oye, ¿aquí qué te pasaba?
+ÁLVARO: Nada, es que me encanta poner caras raras para las fotos. Soy un poco payaso.
+CARMEN: Ya veo, ya ... Mira el comentario de Cherna: "¡Álvaro, despiértate ... !"
+ÁLVARO: ¡Qué bien nos lo pasamos! A propósito, ¿cuándo es tu cumpleaños? ¿No es dentro de poco?
+CARMEN: Sí, sí, dentro de tres semanas. ¿Ya estás pensando en la fiesta?
+ALVARO: Claro, tenemos que celebrarlo como se merece.
+CARMEN: Bueno, pues tú empieza a pensar en la fiesta, que yo empiezo a pensar en mi regalo ...
+

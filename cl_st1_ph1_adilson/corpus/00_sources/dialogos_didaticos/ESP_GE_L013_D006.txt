@@ -1,0 +1,11 @@
+﻿MUJER: Hola, buenos días, ¿en qué puedo ayudarte?
+HOMBRE: Buenos días. Estoy aquí para pedir información sobre el curso de francés.
+MUJER: Muy bien, ¿de qué nivel?
+HOMBRE: Empiezo desde cero, lo necesito para mi trabajo.
+MUJER: El curso de nivel Al es los lunes y los jueves de ocho a nueve y media de la tarde. Empieza el 15 de sep-tiembre y dura 7 meses.
+HOMBRE: Muy bien. ¿Y cuánto cuesta? ¿Cuántas personas hay en el curso?
+MUJER: En el curso hay un mínimo de cuatro personas y un máximo de ocho, nos gusta tener grupos pequeños, para aprender más. En total cuesta 500 euros. En el precio está incluido el seguro y el libro de texto.
+HOMBRE: ¿Y al final hay un examen?
+MUJER: Sí, el profesor todas las semanas da unos ejercicios, que no son obligatorios, pero son recomendables, y hay dos exámenes. Uno a mitad de curso y uno al final. Al final del curso damos un diploma.
+HOMBRE: Perfecto. Me apunto.
+

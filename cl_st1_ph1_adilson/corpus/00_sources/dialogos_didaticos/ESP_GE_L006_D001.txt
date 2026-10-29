@@ -1,0 +1,6 @@
+﻿Hola, buenas tardes. He reservado una habitación para esta noche.
+¿Me dice su nombre, por favor?
+Marta Rodríguez
+Lo siento, no encuentro su reserva.
+¿Puede mirar si está reservada a nombre de Pedro Márquez?  Es mi marido.
+Ah, sí. Aquí está. Es la número 35. ¿Me puede dejar su pasaporte, por favor? Así rellenamos la ficha con sus datos y la puede firmar más tarde. Su habitación está en la tercera planta, los acompaño.

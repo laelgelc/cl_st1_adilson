@@ -1,0 +1,4 @@
+﻿A: Llamó ya
+B1: Llamo ya sí
+A: Bueno di que sí que consientes que la grave
+B1: Sí si consiento que la grabe

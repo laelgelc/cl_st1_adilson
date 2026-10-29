@@ -1,0 +1,12 @@
+﻿Julia: 010. Buenos días. Le atiende Julia. ¿En qué puedo ayudarle?
+Antonio: Buenos días. A ver si me puede usted ayudar. Acabo de alquilar una casa y quiero saber qué tengo que hacer para que los recibos del agua lleguen a mi nombre en vez de llegar a nombre del dueño del piso.
+Julia: Entonces quiere usted cambiar la titularidad, ¿no?
+Antonio: Si, eso es.
+Julia: Pues puede venir personalmente a nuestras oficinas, en horario de nueve a una.
+Antonio: ¿Y no abren por la tarde?
+Julia: No, pero ¿tiene usted acceso a Internet?
+Antonio: Sí.
+Julia: Entonces lo mejor es que lo tramite desde nuestra página web. Alli encontrará un formulario. Solo tiene que cumplimentarlo con sus datos y automáticamente quedará registrado.
+Antonio: Ah, pues muchas gracias. ¿Me da la dirección, por favor?
+Julia: Sí, tome nota. Tres uves dobles, punto...
+

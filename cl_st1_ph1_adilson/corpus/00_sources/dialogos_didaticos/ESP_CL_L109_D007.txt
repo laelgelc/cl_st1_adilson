@@ -1,0 +1,12 @@
+﻿Miguel: Éste es el parque Central. Es tranquilo.
+Carlos: Sí, y muy agradable.
+Miguel: Tú, Robert, ¿dónde trabajas?
+Robert: ¿Dónde trabajo? En la academia Universidad.
+Miguel: ¿En la universidad?
+Robert: No, en la universidad no; en una academia de idiomas. No es la universidad.
+Miguel: ¡Ah, en una academia! Yo también estudio inglés en una academia. Pero no hablo b inglés. Mi inglés no es bueno...
+Robert: Yo tampoco hablo bien español... Y tú, Miguel, ¿qué haces? ¿A qué te dedicas?
+Miguel: Yo trabajo en informática. Necesito saber inglés.
+Robert: Y yo necesito hablar español. Podemos practicar los dos...
+Miguel: Es una buena idea.
+

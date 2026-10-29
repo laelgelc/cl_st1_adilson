@@ -1,0 +1,9 @@
+﻿Taxista: ¡Buenos días, señora! ¡Bienvenida a Brasil!
+Turista: ¡Hola! ¡Muchas gracias!
+Taxista: Mi nombre es Paulo. Mucho gusto.
+Turista: ¡El gusto es mío! Mi nombre es Yolanda Martínez.
+Taxista: Perdón, ¿cómo dijo?
+Turista: Yolanda Martínez. Y-O-L-A-N-D-A M-A-R-T-Í-N-E-Z.
+Taxista: Claro, señora Martínez. ¿Adónde la llevo?
+Turista: Por favor, lléveme al Hotel do Lago.
+Taxista: ¡Con gusto!

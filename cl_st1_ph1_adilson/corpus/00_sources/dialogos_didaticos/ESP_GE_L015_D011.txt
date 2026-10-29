@@ -1,0 +1,15 @@
+﻿Hola, ¿cómo estás hoy?
+Hola, estoy un poco triste hoy. Tuve un día difícil en el trabajo.
+- Lo siento mucho. ¿Quieres hablar sobre lo que te pasó?
+Sí, gracias. Tuve un problema con un compañero de trabajo y me dejó un poco mal.
+- Entiendo cómo te sientes. A veces, las relaciones en el trabajo pueden ser difíciles. ¿Has intentado hablar con tu compañero para solucionar el problema?
+No, aún no lo he hecho. Pero tal vez debería hablar con él para solucionar las cosas.
+- Sí, creo que es importante abordar el problema para poder superarlo.
+¿Hay algo que pueda hacer para ayudarte a sentirte mejor?
+- No, gracias. Solo necesito tiempo para procesar lo que sucedió y luego podré enfrentar el problema de frente.
+- Claro, entiendo. Espero que te sientas mejor pronto. ¿Te gustaría hacer algo para distraerte y relajarte un poco?
+- Sí, suena bien. Tal vez podríamos ir al cine o tomar un café juntos.
+- Perfecto, podemos ir al cine y ver una película divertida para relajarnos un poco. ¿Qué te parece?
+- Me encantaría, gracias por la invitación. Tu compañía me hará sentir mejor.
+- Estoy aquí para apoyarte siempre. Espero que podamos disfrutar del momento juntos y que puedas sentirte mejor pronto.
+

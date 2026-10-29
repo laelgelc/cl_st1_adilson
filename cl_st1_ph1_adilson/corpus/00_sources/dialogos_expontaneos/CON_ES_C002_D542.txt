@@ -1,0 +1,20 @@
+﻿B1: aló .
+A: abuelita .
+B1: aló .
+A: abuelita .
+B1: ah , cómo estás , hijito .
+B1: cómo te conservas .
+A: estoy bien , abuelita .
+A: cómo te sientes , estás bien .
+B1: estás bien .
+B1: bien , yo estoy , estoy voy mejorando , ojalá .
+A1: como está la vista , pregúntale .
+B1: sea cierto todo lo que te ha dicho Raquel .
+A: cómo está tu vista .
+B1: ah ?
+B1: ahí la tengo , pues , qué voy a hacer , como sabes .
+A1: Le molesta , tiene dolor ?
+A: te molesta ?
+A: abuelita , tienes dolor de cabeza ?
+B1: a veces me duele , me duele , que hasta la cabeza me duele , pues .
+B1: toda la cabeza me duele , es decir , la frente sobre todo , al lado del ojo .

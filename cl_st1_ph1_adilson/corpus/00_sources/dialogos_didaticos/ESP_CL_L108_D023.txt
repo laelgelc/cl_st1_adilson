@@ -1,0 +1,9 @@
+﻿Paciente: ¡Buenas tardes!, doctor
+Doctor: ¡Buenas tardes! ¿Qué problema tiene?
+Paciente: Tengo dolor de cabeza y no puedo dormir.
+Doctor: ¿Tiene tos?
+Paciente: Una poca.
+Doctor: Mire, tiene que tomar este jarabe para la tos y estas pastillas para el dolor de cabeza.
+Paciente: ¿Cuánto es de la consulta?
+Doctor: Son $500.00.
+

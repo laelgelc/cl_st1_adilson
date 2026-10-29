@@ -1,0 +1,12 @@
+﻿I: ¿Cuáles son tus hobbys?
+E: ¿Eh?
+I: ¿Tus hobbys cuáles son?
+E: Bueno, pues yo ahora mi hobby estoy centrado totalmente en mi profesión y en el estudio. No tengo hobbys así como... tuve, tuve, tuve tiempo.
+I: Eso más que hobby es una obligación.
+E: Tuve tiempo. Tanto como hobby, de jugar a las cartas. Concretamente al mus.
+I: ¿Al subastado?
+E: Al mus.
+I: Yo no sé jugar ni al tute.
+E: Y lo mismo que hubo un momento en que me apasionó jugar a las cartas. Era mi hobby, que era mi...
+I: Sí, sí, sí.
+E: Mi pasión. Si el día que no jugaba la partidita al mus...

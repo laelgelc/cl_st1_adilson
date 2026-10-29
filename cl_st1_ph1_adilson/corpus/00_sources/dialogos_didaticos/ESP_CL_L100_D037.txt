@@ -1,0 +1,20 @@
+﻿Damián: ¡Hola! ¿Chela?
+Chela: Sí. ¡Damián! ¿Cómo estás?
+Damián: Contentísimo, porque acabo de encontrar un anuncio que es exactamente lo que estoy buscando desde hace tiempo: ¡chef repostero en una confitería de lujo!
+Chela: ¡Qué buena noticia!
+Damián: Justamente te llamo para pedirte una mano. Estoy haciendo mi currículo y quería que te fijaras si voy bien, si la secuencia de información está adecuada, si no me olvidé de nada importante.
+Es que como trabajas con eso...
+Chela: ¡Claro, cómo nol ¿Cómo empezaste?
+Damián: Por los datos personales, pero no sé si ponerlos como encabezamiento centrado o al mismo nivel que el resto.
+Chela: En realidad, la elección es totalmente personal, las dos opciones son adecuadas.
+Damián: Bien. Después puse una sección de Formación Educacional. Mi duda es si empiezo por lo más antiguo o por lo más reciente.
+Chela: Piensa en el lector. ¿Quién es?
+Damián: El seleccionador.
+Chela: Exactamente. Y qué crees que le importa más, ¿dónde cursaste el secundario o cuál es tu título universitario?
+Damián: ¡Ah! Entendi. Entonces, en la próxima sección, que voy a llamar Experiencia Laboral, empiezo por mi trabajo actual y voy para atrás. ¿Correcto?
+Chela: Perfecto. Y ¿especificaste a qué puesto te estás postulando?
+Damián: No. ¿Dónde lo pongo?
+Chela: Al comienzo, antes de la sección Datos Personales. Te sugiero que coloques también una sección intitulada Informática y otra, Idiomas.
+Damián: Muchísimas gracias, Chela. Si me llaman para una entrevista, vas a ser la primera en enterarte.
+Chela: Y además, vas a tener que hacerme una torta de regalo.
+

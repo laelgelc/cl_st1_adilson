@@ -1,0 +1,11 @@
+﻿Cristina: Alfredo, tú que estudias literatura latinoamericana, ¿me podrías hablar sobre el escritor colombiano Gabriel García Márquez?
+Alfredo: ¡Con gusto!, ¿qué quieres saber sobre él?
+Cristina: Pues, dónde nació, sus primeros pasos, algunas de sus obras, en fin, lo que sepas.
+Alfredo: Bueno, Gabo, como se le llama cariñosamente a Gabriel García Márquez, nació en 1928, en Aracataca, un pequeño pueblo de Colombia. En 1940 cursó sus estudios secundarios en el colegio San José de Barranquilla y en 1946 finalizó su bachillerato en el Colegio Liceo de Zipaquira.
+Cristina: ¿El trabajó en otra cosa antes de ser escritor o se dedicó siempre a la literatura?
+Alfredo: Bueno, el inició su carrera profesional como periodista; trabajando para periódicos locales. Su amistad con el médico y escritor Manuel Zapata Olivella le abrió las puertas del periódico liberal El Universal de Cartagena y así fue hasta su consagración mundial.
+Cristina: ¿Podrías nombrarme algunas de sus novelas?
+Alfredo: A ver, él comenzó con una novela llamada La Hojarasca; eso fue en 1955; en 1967 escribió Cien años de soledad. En 1961 publicó El coronel no tiene quien le escriba y en 1981 Crónica de una muerte anunciada. Además, en 1982, ganó el Premio Nobel de Literatura.
+Cristina: Bueno, Alfredo, muchas gracias por tus informaciones.
+Alfredo: De nada.
+

@@ -1,0 +1,8 @@
+﻿Hola, ¿cómo te llamas?
+Me llamo Paco, ¿y tú?
+Bruce.
+¿De dónde eres?
+Soy inglés, de Londres, ¿y tú?
+Yo soy español, de Sevilla. ¿Cómo te apellidas?
+Johnston, ¿y tú?
+Rodríguez.

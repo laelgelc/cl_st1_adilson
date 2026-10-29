@@ -1,0 +1,4 @@
+﻿¿Qué quieres beber, un café o un zumo?
+Un zumo.
+Lo siento, Carlos se bebió todo el zumo que quedaba. ¿No te importa beber leche?
+No, está bien.

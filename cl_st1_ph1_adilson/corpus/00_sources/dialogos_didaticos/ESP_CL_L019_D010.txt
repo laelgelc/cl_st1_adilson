@@ -1,0 +1,9 @@
+﻿Oye, mañana desayunamos en la cafetería Suiza.
+¿Cuál es la dirección?
+Está en la calle Delicias.
+¿En qué número?
+En el número cinco.
+¿Dónde está?
+Está al lado de una oficina de correos y enfrente del Hotel Ginebra.
+¿Me envías un plano?
+Sí, te envío un plano por fax.

@@ -1,0 +1,9 @@
+﻿Buenos días, ¿qué desea?
+Buenos días, ¿tienen zapatillas de deporte?
+Sí, tenemos todas estas. ¿Qué número tiene?
+El 42.
+¿Qué le parecen?
+¿Cuánto cuestan estas?
+Están cuestan 60 € y estas 55 €.
+Perfecto, pues quiero estas. ¿Aceptan tarjetas de crédito?
+Sí, claro, ningún problema.

@@ -1,0 +1,28 @@
+﻿¿Nos metemos por la  @nombre lugar?
+Sí.
+Que se abra el atasco.
+El atasco es aquí, es pa' cogerla, es que- bueno como tú quieras eh.
+No, si me da igual, (()) tanto.
+A lo mejor está mejor por dentro.
+No- no es una hora muy mala.
+A las siete o así yo sí que me voy por dentro.
+Porque la  @nombre lugar está fundida.
+Tengo un color de pelo rarísimo, a estas horas no me gusta nada.
+(())  @nombre lugar' está muy (()), no me gusta  @nombre lugar.
+Está muy naranja, ¿verdad?
+Sí.
+Será de la (()).
+Está de varios colores.
+Dependiendo de la zona.
+Sí claro (()) fíjate
+Está sonando un teléfono.
+Sonidos_de_trasfondo   	(Sonido de un teléfono, muy bajo)
+¿Sí?
+Ay que no iba el fuego.
+No no si lo que menos va, pero es que he preferido que   (()).
+Sonidos_de_trasfondo   	(Sonido de un teléfono)
+Mamá.
+¿Qué mi niño?
+Tienes que darle ahí pa' coger el fuego.
+Ahí abajo.
+Sonidos_de_trasfondo   	(Sonido de un teléfono)

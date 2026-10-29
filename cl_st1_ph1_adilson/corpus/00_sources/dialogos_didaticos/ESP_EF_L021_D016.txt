@@ -1,0 +1,10 @@
+﻿BCD: Isabel, habla algo sobre ti.
+Isabel: Tengo 15 años, curso el quinto de secundaria, juego al tenis, me divierto con mis amigos, en fin, lo que hace una chica de mi edad.
+BCD:¿Te gustan otros deportes?
+Isabel: - Me gustan todos, pero prefiero el tenis. Me siento más a gusto jugando al tenis. Una vez intenté el fútbol.
+BCD: - ¿Y qué pasó?
+Isabel: - Pues... que no consigo hacer buenas jugadas, es decir, no convierto un gol. Mi padre se ríe cuando me ve jugando al fútbol.
+BCD: - Tu padre es tu entrenador de tenis, ¿no?
+Isabel: - Sí y me gusta mucho, porque él me corrige, no me miente cuando no juego bien. Yo siempre repito la misma jugada un montón de veces, pero eso no me cansa, porque creo que estoy cada vez mejor.
+BCD: - ¿Qué le dirías a un o una joven que quiere practicar un deporte?
+Isabel: - Que primero le tiene que gustar y después que el éxito está en la concentración y en el entrenamiento.

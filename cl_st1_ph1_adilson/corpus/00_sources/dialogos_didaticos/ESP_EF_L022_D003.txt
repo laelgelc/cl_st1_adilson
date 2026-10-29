@@ -1,0 +1,9 @@
+﻿Lola: -Julio, soy Lola. Te llamo porque estoy en la cafetería y no he visto a nadie.
+Julio: - ¿Cómo? Pero si estamos todos aquí, esperándote… Estamos en la terraza.
+Lola: - ¡Qué raro! Julio, conozco muy bien esta cafetería y no tiene terraza.
+Julio: - Lola, ¿cómo se llama esa cafetería?
+Lola: Cafetería Buenos Amigos
+Julie: No, no, Lola, estamos en la cafetería Los Amigos, en la plaza central
+Lola: Hombre, ¡qué despiste! Me he equivocado.
+Julio: Venga, quédate ahí que voy a buscarte
+Lola: Bueno, aquí estoy. Te espero.

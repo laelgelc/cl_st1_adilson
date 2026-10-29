@@ -1,0 +1,20 @@
+﻿Señorita Peterson: Sí, diga.
+Señora Méndez: Buenos días, habla la señora Méndez. ¿Qué tal la reunión de ayer?
+Señorita Peterson: Todo muy bien, señora.
+Señora Méndez: Quiero enterarme de todos los detalles, por eso agende un almuerzo para mañana, miércoles, a las 12:30.
+Señorita Peterson: ¿En el restaurante Buen Paladar?
+Señora Méndez: No, puede ser en otro... Vea otra opción en la misma región. Como ambas vamos a tener reuniones todo el día fuera de la empresa, la espero en el restaurante. Páseme la dirección exacta y el nombre del restaurante antes del fin de la jornada de hoy. Prepare los informes y lléveme todos los documentos al restaurante, los analizaremos allá mismo.
+Señorita Peterson: ¿Algo más?
+Señora Méndez: No, por ahora, no. Gracias.
+Señora Méndez: Méndez, diga.
+Señorita Peterson: Buenas tardes, señora Méndez.
+Habla Peterson.
+Señora Méndez: ¡Ah, síl ¿Está todo resuelto para el almuerzo de mañana?
+Señorita Peterson: Sí, claro. Por favor, tome nota: el restaurante se llama Pasta y Cía y queda en la calle Cervantes 536.
+Señora Méndez: ¿526?
+Señorita Peterson: No, 536.
+Señora Méndez: ¿506?
+Señorita Peterson: No, 5-3-6.
+Señora Méndez: ¡Ah! Sí, 536. Perfecto. No se olvide de confirmar la reserva mañana por la mañana.
+Señorita Peterson: Muy bien, señora. Nos encontramos en el restaurante a las 12:30 h.
+

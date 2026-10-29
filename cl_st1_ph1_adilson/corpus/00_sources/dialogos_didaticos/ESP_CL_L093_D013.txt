@@ -1,0 +1,10 @@
+﻿Gerardo: Buenos días. Venía a consultar las ofertas de empleo, a ver si hay alguna que...
+Funcionario: ¿Se ha inscrito usted como demandante de empleo?
+Gerardo: ¿Cómo?
+Funcionario: Que si se ha inscrito. Tiene que tener una tarjeta con sus datos.
+Gerardo: Pues no...
+Funcionario: Entonces, tiene que ir
+al mostrador donde pone Inscripciones y solicitar la tarjeta. Luego, puede venir aqui para que le tomemos los datos para las posibles ofertas.
+Gerardo: ¿Y no puedo pasar a recogerla después?
+Funcionario: No, lo siento. Debe pasar antes por el mostrador de inscripción.
+Gerardo: Es increíble. Llevo hora y media haciendo cola y nadie me ha informado de nada. ¡No hay derecho!

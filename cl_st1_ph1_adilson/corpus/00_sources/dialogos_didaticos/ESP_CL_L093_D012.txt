@@ -1,0 +1,12 @@
+﻿Azafata: Me temo que va a tener usted que esperar, para este vuelo ya no quedan plazas.
+Susana: ¿Cómo que no quedan plazas? Pero si yo hice la reserva hace casi un mes.
+Azafata: Lo siento, pero el vuelo está
+completo.
+Susana: Pero yo no tengo la culpa. Si a mí me han vendido un billete, tengo derecho a viajar.
+Azafata: Si yo no le digo que no, pero en este vuelo es imposible. Tendrá que esperar al siguiente.
+Susana: ¿Y cuándo sale?
+Azafata: A ver... Esta noche, a las diez y media.
+Susana: ¡A las diez y media! Imposible, tengo que estar urgentemente en Paris esta tarde.
+Azafata: Lo siento, señora, pero no podemos hacer nada.
+Susana: Me parece fatal que la compañía no se haga cargo. Ahora mismo voy a presentar una reclamación.
+Azafata: Como quiera.

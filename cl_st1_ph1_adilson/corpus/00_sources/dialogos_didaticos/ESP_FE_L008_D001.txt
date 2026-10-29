@@ -1,0 +1,12 @@
+﻿Hola, buenos días. 
+Buenos días, señora. Dígame, ¿qué deseaba? 
+Quería un billete de tren a Sevilla para mañana por la mañana. 
+¿Lo quería solo de ida o de ida y vuelta? 
+Solo de ida, por favor, y en clase turista. 
+De acuerdo. Tiene un tren AVE con destino a Sevilla que sale de la estación de Puerta de Atocha a las 8 horas y 35 minutos. ,
+Perfecto. ¿Y a qué hora llega a Sevilla? 
+Llega a las 10 horas y 30 minutos. La duración del viaje son 2 horas y 30 minutos. 
+Vale. ¿Cuánto es? 
+Son 80 euros. 
+Muchas gracias. 
+A usted. ¡Buen viaje!

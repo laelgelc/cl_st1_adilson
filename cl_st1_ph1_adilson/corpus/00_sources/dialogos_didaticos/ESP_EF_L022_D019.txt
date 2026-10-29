@@ -1,0 +1,8 @@
+﻿Julia: ¿En que piensas?
+Roberto: - Estoy pensando en ir a la playa, pero no me gusta ir solo.
+Julia: - Si quieres, voy contigo, mas sólo puedo ir mañana, después del almuerzo.
+Roberto: - Si, claro, por mí no hay problema.
+Julia: ¡Ah!, ¿puedo llevar a mi perro?
+Roberto: - No se, voy a llamar al conserje y preguntar si permiten perros en el edificio.
+Julia: - Bueno, ahora tengo que irme. Llámame por la noche.
+Roberto: - De acuerdo.

@@ -1,0 +1,14 @@
+﻿
+Hola, estoy haciendo una encuesta sobre las vacaciones. Â¿Puedes responderme algunas preguntas? 
+
+Claro. 
+
+Â¿Me puedes decir tu nombre y si ya has salido de vacaciones este aÃ±o? 
+
+Carolina, Carolina ÃÃ±iguez. Mis vacaciones las pasÃ© en Costa Rica. Acabo de volver. Â¡Una maravilla! Â¡Lo pasÃ© muy bien! 
+
+Â¿CuÃ¡nto tiempo estuviste? 
+
+Tres semanas. Muy poco tiempo para un paÃ­s tan interesante, pero solo tenÃ­a tres semanas. Ya sueÃ±o con volver a Costa Rica el aÃ±o que viene. 
+
+Muchas gracias, Carolina.

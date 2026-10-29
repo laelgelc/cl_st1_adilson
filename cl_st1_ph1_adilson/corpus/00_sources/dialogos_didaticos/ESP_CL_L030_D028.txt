@@ -1,0 +1,7 @@
+﻿Albergue Sevilla, buenos días. ¿Dígame?
+Buenos días, quiero una habitación.
+¿Es para un grupo?
+No, es para dos personas. Quiero una habitación doble.
+Lo siento, en este albergue la habitación más pequeña es para seis personas.
+¡Qué pena! Muchas gracias, adiós.
+Adiós.

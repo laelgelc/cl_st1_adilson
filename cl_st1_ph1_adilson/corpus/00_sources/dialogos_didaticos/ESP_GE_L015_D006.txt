@@ -1,0 +1,15 @@
+﻿Lucía: Hola, Juan. ¿Cómo estás?
+Juan: Hola, Lucía. Estoy bien, gracias. Oye, me he dado cuenta de que tienes el pelo más largo desde la última vez que nos vimos.
+Lucía: Si, me lo corté hace un tiempo y lo dejé crecer de nuevo. Me gusta tenerlo largo.
+Juan: Te queda muy bien. Y tienes los ojos muy bonitos, son de un color verde intenso. ¿Son de tu familia?
+Lucía: Sí, son de mi mamá. A mí me gustan mucho también. ¿Y tú, Juan? Tienes una barba muy bien cuidada.
+Juan: Si, me gusta tener barba. Me hace sentir más maduro, jeje. Además, es fácil de cuidar.
+Lucía: Si, se ve muy bien en ti. Y tienes unos músculos bien definidos. ¿Haces ejercicio?
+Juan: Si, me gusta hacer deporte y mantenerme en forma. Hago ejercicios de pesas y cardio principalmente.
+Lucía: Se nota que te gusta cuidar tu cuerpo. Y tienes una altura bastante alta, ¿no es así?
+Juan: Sí, mido 1,90 metros. A veces me gusta hacer la broma de que puedo ver el futuro desde arriba, jeje.
+Lucía: ¡Qué divertido! En cambio, yo soy un poco más baja. Mido 1,65 metros.
+Juan: Pero eso no importa, Lucía. Lo importante es sentirse bien con uno mismo, ¿no crees?
+Lucía: Tienes toda la razón, Juan. Lo importante es estar sano y sentirse bien. Gracias por hablar conmigo sobre nuestras características físicas.
+Juan: Gracias a ti, Lucía. ¡Fue un placer conversar contigo!
+

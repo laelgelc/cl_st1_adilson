@@ -1,0 +1,24 @@
+﻿Marisa: ¡Corre, Josél Que perdemos el avión!
+José: Pero, Marisa, mira que cargado voy, entre valijas, bolsas y bolsitas son más de 10 bultos. Imposible correr en estas condiciones.
+Marisa: Bueno, no importa, creo que tenemos suerte, no hay fila para despachar el equipaje.
+Buenas noches, vuelo 639 a México.
+Atendiente: Lo siento, el preembarque ya está encerrado.
+Marisa: ¿Qué dice? No es posible. Si el vuelo sale a las 22:00.
+Atendiente: Y los pasajeros deben llegar dos horas antes, ahora son las 21:15. Infelizmente no puedo hacer nada.
+Marisa: ¿Y cuándo sale el próximo avión?
+Atendiente: Tenemos un vuelo directo mañana a las 13:15, pero está completo.
+Marisa: ¿Y qué nos sugiere?
+Atendiente: Hay lugar en el avión de las 17:40, pero es un vuelo con escala.
+Marisa: Bueno, tendrá que ser ese entonces.
+Atendiente: Para poder efectuar el cambio necesito sus pasaportes,
+Marisa: ¿Cómo pasaporte? Yo pensé que bastaba con la cédula de identidad.
+Atendiente: No, señora, este es un vuelo internacional, por lo tanto debe viajar con un pasaporte válido.
+Marisa: Bueno, por lo menos ahora tenemos tiempo de sobra para ir a casa a buscarlos.
+Atendiente: Para que no tengan más sorpresas
+mañana, déjeme ver el equipaje.
+Marisa: Son esas 6 valijas y estos 4 bolsones.
+Atendiente: Me parece que llevan más que los 23 kg permitidos por pasajero. Van a tener que pagar exceso de equipaje. ¿Llevan también equipaje de mano?
+Marisa: Sí, estas dos valljitas.
+Atendiente: No, señora, eso va a tener que
+despacharlo porque exceden el peso y el tamaño permitido para llevar dentro de la cabina.
+José: Marisa, esta es la primera y última vez que tú organizas un viaje.

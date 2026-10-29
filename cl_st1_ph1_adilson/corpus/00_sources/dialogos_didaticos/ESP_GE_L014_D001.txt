@@ -1,0 +1,11 @@
+﻿Antonio: Hola, ¿me puedes ayudar? No sé dónde está la sala C
+María: ¡Pues claro! Yo me llamo María, y tú ¿Cómo te llamas?
+Antonio: Me llamo Antonio, muchas gracias por ayudarme. Estoy perdido y no sé dónde están mis amigos.
+María: No pasa nada, ¡la sala C es esta!
+Juan: ¡Antonio! ¡Te estamos buscando!
+Antonio: Hola Juan, qué gusto verte. Mira te presento a María. Ella me está ayudando.
+Juan: Mucho gusto, maría ¿cómo estás?
+María: Hola, encantada. Estoy bien, gracias. Bueno, ya está con tu amigo. Necesito irme, adiós.
+Antonio: Adiós María, muchas gracias
+María: ¡De nada!
+

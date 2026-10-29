@@ -1,0 +1,9 @@
+﻿Camarera(o): Buenos días, ¿puedo limpiar la habitación ahora?
+Huésped: No, es que todavía nos estamos arreglando para salir.
+Camarera(o): Disculpen.
+Huésped: No hay problema. ¿Puede regresar más tarde?
+Camarera(o): ¡Claro! Por favor, coloquen el aviso de 'limpiar' en la puerta.
+Huésped: ¿Nos va a cambiar, también, las toallas, por favor?
+Camarera(o): Sí, ¿algo más?
+Huésped: No, sólo eso. ¡Muchas gracias!
+Camarera(o): De nada.

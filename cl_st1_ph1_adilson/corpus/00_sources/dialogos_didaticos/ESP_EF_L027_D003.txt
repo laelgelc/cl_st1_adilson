@@ -1,0 +1,9 @@
+﻿Fernando: Buenas tardes, don Manolo.
+Don Manolo: Hola, Fernando. ¿Qué deseas?
+Fernando: Quiero dos botellas de leche y medio kilo de jamón
+Don Manolo: Aquí está todo. Son cinco euros con setenta y cinco.
+Fernando: ¿Cuánto cuestan los caramelos?
+Don Manolo: Cinco centavos cada uno.
+Fernando: Entonces quiero dos de leche y tres de naranja. Aquí está el dinero.
+Don Manolo: Muchas gracias, Fernando.
+Fernando: Hasta luego, don Manolo.

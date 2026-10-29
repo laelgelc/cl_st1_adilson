@@ -1,0 +1,12 @@
+﻿-Vienes de @nombre lugar aquí.
+—Los demás nada, que se joda.
+—Tú eres de @nombre lugar, estos de @nombre lugar.
+—¿Qué, de dónde eres, coño?
+—Yo, de @nombre lugar.
+—¿Dónde naciste?
+—En la calle @nombre lugar.
+—El único defecto que tengo yo es que nací desnudo.
+—¿Qué, qué?
+—Que nací desnudo.
+—Como todos.
+

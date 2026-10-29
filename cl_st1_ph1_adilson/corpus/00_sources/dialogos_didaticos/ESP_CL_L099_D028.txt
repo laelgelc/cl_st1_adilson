@@ -1,0 +1,3 @@
+﻿A: Hola, ¿tienes hora?
+B: Es la una en punto.
+A: ¡Gracias!

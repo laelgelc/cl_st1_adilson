@@ -1,0 +1,9 @@
+﻿Miguel: 010. Buenos días. Le atiende Miguel. ¿En qué puedo ayudarle?
+Amparo: Buenos días. Mire, es que me he cambiado de domicilio y quería saber qué tengo que hacer para cambiar los datos en el padrón.
+Miguel: Si le basta con un justificante, puede entrar en nuestra página web, rellenar el formulario y nosotros se lo enviamos por correo postal a su domicilio.
+Amparo: Ya, pero es que lo que necesito es un certificado de empadronamiento.
+Miguel: En ese caso, tiene usted que dirigirse a la junta de distrito.
+Amparo: ¿Y me puede decir qué documentos tengo que presentar?
+Miguel: Pues tiene que llevar su Documento Nacional de Identidad y algún documento que acredite su nuevo domicilio.
+Amparo: De acuerdo, muchas gracias.
+Miguel: De nada. Gracias a usted por llamar.

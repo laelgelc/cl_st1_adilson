@@ -1,0 +1,7 @@
+﻿Sr. Villegas: Buenos días. La reunión de hoy será internacional. Están presentes representantes de accionistas de varios países. Por favor, antes de empezar, presentémonos. Mi nombre es Manuel Villegas y soy boliviano. Y ustedes, ¿cómo se llaman? ¿De dónde son?
+Sr. Andersen: Me llamo Christian Andersen y soy danés. Represento al grupo de accionistas de Copenhague.
+Sr. Quesada: Soy Miguel Ángel Quesada y soy hondureño.
+Sr. Silva: Mi nombre es João da Silva y soy brasileño.
+Sr. Smith: Mi nombre es John Smith y soy estadounidense.
+Sr. Rekab: Soy Mohamed Rekab y soy marroquí.
+Sr. Villegas: Muy bien. Es un gusto tenerlos a todos aquí. Podemos comenzar.

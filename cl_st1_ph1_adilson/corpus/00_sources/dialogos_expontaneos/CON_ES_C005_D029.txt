@@ -1,0 +1,20 @@
+﻿A1: Siéntate J. ¿Queréis un café? ¿Un café?
+E: Yo café no, gracias.
+A1: ¿Qué quieres?
+I: Porque el... el... el ruido de sillas el otro día te lo reclamé.
+A1: El otro día me acordé cuando bajé.
+I: ¡Ah! Claro, es que te lo recordé.
+E: Digo no... no puede salir bien, digo.
+A1: Y yo: "¿Qué hago? ¿Le pido un café? ¿No le pido un café?". No sabía qué hacer, digo: "Bueno, pues nada".
+E: No, no, pero no, no te preocupes. Era simplemente...
+A1: ¿Te importa que fume?
+E: ¡Ah! No, por supuesto que no.
+A1: ¿Qué quieres? Bueno.
+E: Yo desde luego no fumo, pero tampoco me molesta que... que vamos.
+I: No sé un... una Fanta mismo, o lo que sea.
+A1: ¿Una Fanta de limón o de naranja?
+I: De naranja.
+A1: ¿Y tú? ¿Te importa en botella? La botella, ¿no te importa que sea la botella?
+E: Mmm, yo prefiero un café... un café con leche bien calentito. Bueno, bien calentito no va a venir, pero vamos, como sea, con... con leche.
+A1: Vale. ¡Hasta luego!
+I: Vale. ¡Hasta luego!

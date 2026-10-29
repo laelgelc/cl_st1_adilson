@@ -1,0 +1,9 @@
+﻿¡Listo! ¿Qué desea?
+Me gustaría saber... ¿cuál es la línea de ómnibus que va al centro de la ciudad?
+El transporte público, aunque sea el más barato, demora bastante. Recomiendo escoger una empresa privada. Existen dos: Viazul y Astro.
+¿Dónde está la parada más cerca?
+La Astro había instalado una parada bien cerca de aquí, pero no estoy muy seguro si está funcionando.
+¿Y sabes cuánto se paga en la Viazul?
+Espere un minuto, lo verifico. ¡Aquí está! Son 7,56.
+¿7,56? ¿Y dónde compro esos pasajes?
+Los puedes comprar directamente en el ómnibus.

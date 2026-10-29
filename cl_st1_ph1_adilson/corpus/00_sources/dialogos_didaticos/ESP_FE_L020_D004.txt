@@ -1,0 +1,12 @@
+﻿Camarero: ¿Quiere que le tome su pedido?
+Turista: ¿Qué es lo que me recomienda?
+Camarero: Le recomiendo la feijoada. Es muy sabrosa y la orden es para una persona.
+Turista: ¿Qué es la feijoada?
+Camarero: Es un plato típico brasileño, preparado con frijoles negros, longaniza y carnes de cerdo.
+Se sirve con arroz y col.
+Turista: Me parece una buena opción. ¡Vamos a probarla!
+Camarero: ¡Excelente!, una feijoada. ¿Algo más?
+Turista: No, nada más.
+Camarero: Bueno, ya regreso con su comida, señor.
+Turista: Muchas gracias.
+Camarero: De nada.

@@ -1,0 +1,9 @@
+﻿A: mmm .
+B: mmm , oye +...
+A: ah , ah ?
+B: este , sabes quien falleció .
+A: quien .
+B: el papá de Cecilia .
+A: ay , pobre señor xxx , cuándo se murió .
+A: cuándo .
+B: sí , el siete , el siete u el ocho de este mes &=background:speech el siete , el siete de este mes .

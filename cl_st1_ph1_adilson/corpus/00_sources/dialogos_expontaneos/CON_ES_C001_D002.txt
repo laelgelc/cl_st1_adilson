@@ -1,0 +1,158 @@
+﻿A: sí , eso es para eso , de seguro . 
+A: no importa .
+B: no importa . 
+B: bueno aquí , la Zaida está estudiando también en la universidad con la Liana . 
+A: y qué estudia , mama , qué están estudiando . 
+A: &=background:speech .
+B: están estudiando Sociales . 
+B: ciencias Sociales . 
+A: ah , para maes- para maestra de Sociales . 
+B: sí . 
+B: Una llamada de . [+ bch]
+B: quieres hablar un poquito con tu papá ? 
+A: ah .
+A: siempre quieren ser maestras .
+A: póngamelo pues , aprovechemos que esto es regalado . 
+A: &=laugh .
+B: es que ésta es una llamada regalada &=noise . [+ bch] 
+A: que la están grabando , explíquele . 
+B1: aló , aló .
+B1: &=background:speech .
+A: qué tal papi , cómo está papi . 
+A: papi ? 
+B1: que Dios te bendiga . 
+B1: ajá .
+A: a usted también . 
+A: es que le estaba contando a mi mami que esta llamada la están grabando para un proyecto y me permitieron llamar con el permiso de que la graben para poderla estudiar después , como habla la gente , me entiende , cual es el tiempo que la gente tarda y todo lo demás . 
+B1: ah , bueno .
+A: cuénteme de su trabajo , cómo está , papi . 
+B1: el trabajo aquí en la casa está ba- . 
+A: malo ? 
+B1: bastante bajo , bastante mal . 
+A: ah . 
+B1: bueno , mejor dicho toda la economía de Nicaragua está decaída . 
+A: Esta decaída .
+B1: sí , no hay cir- poco circulante , no , como se llama , las empresas han quebrado . 
+A: ay , que barbaridad . 
+B1: inclusive algunos bancos están corriendo gente porque no hay suficiente dinero background noise . 
+A: no hay ? 
+B1: como han surgido otros bancos nuevos , privados , hay como cuatro bancos nuevos +... 
+A: ah .
+A: claro . 
+B1: entonces la gente ha sacado sus reales de los nacionales y los ha pasado a los privados . 
+A: a los internacionales a donde hay más seguridad . 
+B1: sí . 
+B1: &=noise .
+A: mmm .
+B1: la gente no quiere depositar los reales porque tiene miedo de que , perderlos . 
+B1: &=laughter los poquitos centavos que tienen allí . 
+B1: &=background:speech .
+A: ay , xxx .
+A: mire , le dijo a mi mamá que tal ve +... 
+B1: ajá .
+A: se debería quedar más tiempo , en vez de quedarse un mes , que se venga por , tal vez compramos una casa , estamos en ese proceso ya . 
+B1: ajá . 
+A: tal vez en unas dos semanas más nos pasa- bueno, no nos pasamos , arreglamos para ver si nos vamos a otra casa . 
+B1: ajá . 
+B1: tal vez llamás a la Delia y decile que ya recibimos una caja con ropa +... 
+A: okey . 
+B1: y le preguntás por el niño que estaba bien enfermo . 
+A: sí . 
+A: lo tenían . 
+A: yo también voy este fin de semana a verlos , papá . 
+B1: ay , qué bueno .
+A: voy a ir , me voy a ir a pasar el +... 
+B1: me gustaría ir con vos . 
+A: que quiere ir conmigo . 
+A: &=laughter .
+B1: &=laughter claro .
+A: &=laughter sólo , que se vengan para acá y podemos ir juntos . 
+B1: estamos planeando también , para ir a verte un día de estos . 
+A: deberían de venirse +... 
+B1: a ver cuando , junio . 
+B1: &=bg .
+B1: Julio Julio .
+A: que lástima . 
+A: que lástima que no se +... 
+B1: Julio , oiga , porque tiene que esperar la cuajada y todas esas cosas . 
+A: ay , sí +...
+B1: el pinol , el xxx &=laughter .
+A: que no vaya a traer crema , dígale , de nada de eso , que , eso no- . 
+B1: de nada quiere de comida , dice . 
+A: de crema , no . 
+A: pero cuajada tal vez sí , seca . 
+B1: cuajada seca , rica de pita +... 
+A: y cajetas y esas +... 
+B1: dulces +...
+A: y esas cosas . 
+A: pero que no se preocupe . 
+B1: bueno .
+A: dígale .
+B1: bueno , pues .
+A: ya llegó la Lucía . 
+A: ya llegó la Lucía ? 
+B1: no aquí , aquí no ha venido , no sé , a lo mejor +...
+A: no colguemos porque todavía me están dando los más minutos . 
+B1: &=bg .
+B1: speech: cuando venía , preguntale Cuando venía . 
+B1: ayer ?
+A: no fue , venía ahorita , a finales de mayo , a pasarse el Día de las Madres . 
+B1: ah , bueno , pues no sé si habrá venido porque a la Fátima no la hemos visto y como cada quien , nunca viene . 
+A: ah , no les han vi- no les hacen partícipe a ustedes de la venida de ella . 
+B1: no , no me ha dicho nada . 
+B1: aquí te pongo a tu mama que me está quitando el teléfono . 
+A: okey . 
+B1: dios te bendiga . 
+A: a usted también , papa . 
+B: oíme .
+A: ah , mamá . 
+B: es que la Fátima no viene casi . 
+A: y por qué . 
+B: porque ahora ya no tiene empleada y entonces dice que pasa ocupadísima . 
+A: pobre la Fátima . 
+A: pobre +...
+B: y entonces , este , no viene , me di cuenta por- porque vinieron hablar aquí por teléfono , porque a ella no le han puesto el teléfono . 
+A: todavía no ? 
+B: y vino la Yelba a , a hablar con la Lucía . 
+A: ajá . 
+A: la Lucía +...
+B: pero la Lucía qué te dijo a vos . 
+A: no , nada . 
+A: nosotros , yo le escribí a usted , y que , es como para el veintiocho de mayo iba a llegar , o antes , tal vez , no sé . 
+B: para el veint- Ah , pues , como yo no he ido a donde la Fátima- . 
+A: debería de averiguar , mamá . 
+B: voy a ir , a este- . 
+A: bueno , ella la va a buscar de todas maneras , mamá . 
+A: Ella la va a buscar . 
+A: background noise .
+B: vam- .
+A: usted oyó la grabación que dijeron ahí , verdad ? 
+B: sí , sí , la oí +... 
+A: la oyó . 
+A: ah , bueno .
+B: que dice que esto es para una investigación científica +... 
+A: sí , científica .
+A: correcto . 
+A: y necesitan saber como hablamos la gente , que ritmo usamos , y cuanto tardamos . 
+B: la gente de Nicaragua . 
+B: &=laugh .
+A: no sólo la gente de Nicaragua , sino ya de todo el mundo , me entiende ? 
+A: de Latinoamérica , la gente que habla español . 
+B: bueno , mamita , este , también aquí la situación económica del país está bien crítica . 
+A: regada , siempre . 
+A: ay +...
+B: sí . 
+B: porque todos los negocios pequeños background noise pues , mejor dicho fracasan porque no , los grandes empresarios son , ahora por ejemplo , todas las cosas de , de respecto a carros , que era lo que hacíamos nosotros +... 
+A: ajá . 
+B: vienen nuevos y la gente no quiere los , los +... 
+A: claro , claro . 
+B: lo , los nacionales , sólo los extranjeros +... 
+A: claro , tienen más , tienen más confianza +... 
+B: los originales . 
+A: claro . 
+A: y es pagado eso , mamá , realmente cuando +... 
+B: nosotros lo que hemos hecho son taponcitos para pupitres , eso si que hemos vendido bastantes . 
+A: los tacones para pupitres , ah qué bueno- . 
+B: sí , que se les ponen a , a las patas de los pupitres . 
+A: ajá , ajá , ajá , qué bueno- . 
+B: de esos vendemos para la Standard_Steel , para , para varias empresas , para el beneficio que le está dando este , a varias personas que hacen pupitres- .

@@ -1,0 +1,12 @@
+﻿Buenos días, quiero solicitar la tarjeta de identidad de extranjero.
+Muy bien, ¿cuáles son sus apellidos?
+Vargas Esteban y mi nombre es José Manuel.
+¿Cuáles es su fecha de nacimiento?
+El 2 de mayo de 1979.
+¿Cuál es su estado civil?
+Estoy casado y tengo dos hijos.
+¿Cuál es su nacionalidad?
+Soy chileno.
+Muy bien, por favor, ¿cuál es su teléfono?
+El 666 87 87 85
+Muy bien, sus datos ya están en el ordenador.

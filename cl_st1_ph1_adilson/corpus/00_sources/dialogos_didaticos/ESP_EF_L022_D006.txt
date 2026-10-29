@@ -1,0 +1,4 @@
+﻿Señor: - ¡Diga!
+Susana: - Por favor, quiero hablar con José, el gerente de la empresa.
+Señor: - Lo siento, se ha equivocado, aquí es una residencia.
+Susana: ¡Ah!, perdone.

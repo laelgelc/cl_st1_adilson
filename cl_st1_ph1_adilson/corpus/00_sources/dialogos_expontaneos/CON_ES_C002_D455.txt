@@ -1,0 +1,16 @@
+﻿A: acá todavía tenemos ocho minutos .
+B1: ay , ya , ay qué bien , oye .
+A: ya acá te la paso .
+B1: ya papito xxx &=distortion .
+A1: aló , aló ?
+B1: Marita cómo estás ?
+A1: bien cómo está usted ?
+B1: como te ha ido , oyes estaba este , estaba reiterando mis felicitaciones por el día de mañana el aniversario .
+A1: &=laugh .
+A1: el ocho ?
+A1: no mañana ya es ocho ve ?
+B1: siempre mañana es como +...
+A1: ay , sabe que ha pasado &=background laugh que nos hemos , hemos pasado una semana de perros con Rocío enferma .
+A1: que le dio como un virus al estómago .
+B1: ay !
+A1: y recién hoy estamos más descansados .

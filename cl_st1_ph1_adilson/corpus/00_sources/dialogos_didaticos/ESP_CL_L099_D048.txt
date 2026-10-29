@@ -1,0 +1,19 @@
+﻿Luis: Mario, acabo de decidir a dónde va a ser mi próximo viaje.
+Mario: Ya era hora, hace meses que le estás dando vuelta al tema.
+Luis: Me voy a los valles Calchaquíes.
+Mario: ¿A dónde te vas, Luis?
+Luis: Me voy a conocer los valles Calchaquíes, al noroeste de Argentina, en la provincia de Salta.
+Mario: ¿Y qué es lo que hay ahí que te atrae tanto?
+Luis: El vino. En esa región crecen muy bien las uvas y hay muchas bodegas.
+Mario: O sea, es un lugar para quien aprecia el vino.
+Luis: No, para nada. En la región hay cosas para todos los gustos. Mira, en este mapa está mi itinerario.
+Mario: Bueno, explícame qué vas a hacer además de emborracharte.
+Luis: Voy a viajar a Salta en avión y después de Salta a Cafayate pienso hacer parte en auto y parte en bicicleta.
+Mario: No te conocía esa veta de deportista.
+Luis: De Salta voy a subir la cuesta del Obispo en auto. En Piedra del Molino dejo el auto y de allí a Cachi voy en bicicleta. El Parque Nacional de los Cardones, donde solo hay cactus gigantes, lo quiero cruzar en bici. Dicen que es una experiencia alucinante.
+Mario: Aha, ¿Y después?
+Luis: Voy a dormir en Cachi. A la mañana siguiente voy a recorrer el pueblo que es chiquito, pero muy pintoresco y después tomo un ómnibus a Cafayate, donde pienso descansar y degustar vinos.
+Mario: ¿Ya reservaste hotel?
+Luis: Sí, esa es la mejor parte. Me voy a hospedar en un hotel colonial en el medio de los viñedos y al lado de una excelente bodega.
+Mario: ¿Con quién vas a viajar?
+Luis: ¿No quieres acompañarme?

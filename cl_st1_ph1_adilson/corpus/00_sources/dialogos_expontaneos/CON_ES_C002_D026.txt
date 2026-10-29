@@ -1,0 +1,14 @@
+﻿A: pero está bueno todavía ese auto.
+A: necesitaba un poco de reparación, así que se la voy a hacer y me va a poder sacar de apuros por lo menos un par de años +...
+B: tú se lo puedes hacer, pues, Claudio.
+A: no, no porque es reparación al motor , papi , es una reparación interna +...
+B: ya.
+A: yo no, no entiendo de eso, pero me lo van a dejar bien.
+B: ya  qué bueno .
+A: ha , hay cosas que yo puedo hacer pero hay muchas cosas que no porque necesito instrumentos de precisión y yo no tengo .
+B: y no te convendría dedicarte a eso también?
+A: no , papi , ya estoy viejo para estar aprendiendo otra cosa nueva , prefiero quedarme con lo que tengo y +...
+B: &=noise ya .
+A: tratar de levantarlo en vez de empezar algo nuevo .
+B: ajá .
+B: bueno .

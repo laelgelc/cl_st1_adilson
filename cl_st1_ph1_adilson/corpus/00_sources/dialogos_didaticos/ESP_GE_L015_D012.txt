@@ -1,0 +1,15 @@
+﻿Lola: ¡Hola María! ¿Cómo estás?
+María: Hola Lola, estoy bien, gracias. ¿Y tú?
+Lola: Bien, gracias. Oye, ¿tú eres fan de algún alimento en particular?
+María: Sí, la verdad es que me encanta el aguacate. Lo pongo en todo: ensaladas, tostadas, guacamole, ¡todo!
+Lola: ¡Qué rico! A mí también me gusta mucho el aguacate. Pero mi alimento favorito es el chocolate.
+María: ¡Oh, a mí también me gusta mucho el chocolate! ¿Lo prefieres con leche o negro?
+Lola: Me gusta más el chocolate negro, con un alto porcentaje de cacao. Es un poco amargo, pero es delicioso.
+María: Sí, el chocolate negro es muy bueno. Pero yo prefiero el chocolate con leche, es más dulce.
+Lola: Entiendo. ¿Y qué otros alimentos te gustan?
+María: Me gustan mucho las frutas en general, especialmente las fresas y la sandía. Y tú, ¿qué otros alimentos te gustan además del chocolate?
+Lola: Me encantan las frutas también, especialmente la piña y el mango. Y me gusta mucho la paella y el ceviche.
+María: ¡Qué interesante! Nunca he probado el ceviche, ¿me recomendarías algún lugar donde pueda probarlo?
+Lola: Sí, hay un restaurante muy bueno en el centro que hace un ceviche espectacular. Podemos ir juntas si quieres.
+María: ¡Genial, me encantaría!
+

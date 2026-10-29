@@ -1,0 +1,10 @@
+﻿Srita. Smith: Buenos días, soy la señorita Sarah Smith.
+Sr. Rosas: Buenos días, yo soy el señor Víctor Rosas.
+Srita. Smith: ¿De dónde es usted, señor Rosas?
+Sr. Rosas: Soy de España, ¿y, usted?
+Srita. Smith: Soy de Irlanda.
+Sr. Rosas:
+Mucho gusto, señorita Smith. Hasta el lunes.
+Srita. Smith:
+Igualmente, señor Rosas. Hasta el lunes.
+

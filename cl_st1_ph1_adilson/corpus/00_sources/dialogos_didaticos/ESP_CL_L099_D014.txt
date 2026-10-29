@@ -1,0 +1,7 @@
+﻿Sra. Ramírez: Buenas tardes, Srta. Romero. Yo soy la gerente de personal de la empresa. Me llamo Silvia Ramirez
+Srta. Romero: Buenas tardes, Sra. Ramírez. Mucho gusto.
+Sra. Ramirez: ¿Cuál es su nombre completo?
+Srta. Romero: María del Pilar Romero.
+Sra. Ramirez: ¿Cuál es su e-mail?
+Srta. Romero: pilarromero@net.com
+Sra. Ramírez: Un segundo, por favor. Hola, sí, dígame.

@@ -1,0 +1,11 @@
+﻿¡Hola! ¿Cómo te llamas? ¿Cuántos años tienes?
+¡Hola! Me llamo Carmen. Tengo trece años. ¿Y tú?
+Me llamo Paulo, pero aquí en México me llaman Pablo.
+¿De dónde eres?
+Soy brasilero. ¿Tú eres mexicana?
+Sí. Soy mexicana, de Guadalajara. ¿De qué ciudad eres tú?
+Yo soy de Brasilia. ¿Dónde vives?
+Vivo en la calle correo, nº 22. ¿Y tú?
+Yo vivo en la calle Mayor, nº 17.
+¿Tú en Brasil dónde vives?
+Vivo en la avenida Aguas Claras, nº 3.

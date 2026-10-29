@@ -1,0 +1,7 @@
+﻿Servicio de habitaciones: Buenas noches, servicio de habitaciones. ¿Dígame?
+Huésped: Por favor, necesito una maquinilla de afeitar.
+Servicio de habitaciones: Sí, ¿cuál es el número de habitación?
+Huésped: Es la 706.
+Servicio de habitaciones: Muy bien. Le pediré a la camarera que se la entregue en la 706.
+Huésped: ¡Muchas gracias!
+Servicio de habitaciones: De nada.

@@ -1,0 +1,6 @@
+﻿Perdona, ¿dónde está el ayuntamiento?
+Está muy cerca, es el edificio al lado de la comisaría de policía.
+Lo siento, no sé donde está la comisaría.
+No te preocupes, yo puedo acompañarte. Podemos ir en autobús.
+Vale, muchas gracias.
+De nada.

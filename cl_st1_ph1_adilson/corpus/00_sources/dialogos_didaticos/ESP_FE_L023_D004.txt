@@ -1,0 +1,7 @@
+﻿Médico: ¡Buenas tardes, señorita Jiménez! Soy el doctor Arnaldo. ¿Qué le pasa?
+Paciente: Me duele el estómago.
+Médico: ¿Siente náuseas?
+Paciente: Sí, sobre todo después de comer.
+Médico: Probablemente usted tiene una intoxicación alimentaria.
+Paciente: ¿Es grave?
+Médico: No, probablemente, no.

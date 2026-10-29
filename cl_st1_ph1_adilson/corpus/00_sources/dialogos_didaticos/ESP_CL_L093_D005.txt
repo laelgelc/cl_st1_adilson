@@ -1,0 +1,5 @@
+﻿Sergio: ¡Hola! Eres nuevo, ¿verdad? 
+Javier: Sí, acabo de llegar. Llevo solo un día aquí.
+Sergio: Yo soy Sergio.
+Javier: Hola, encantado. Soy Javier.
+Sergio: Ven conmigo, que te voy a presentar a una gente.

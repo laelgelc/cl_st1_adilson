@@ -1,0 +1,3 @@
+﻿Oye, ¿cómo te apellidas?
+Smith. Y tú, ¿qué idiomas hablas?
+Hablo ruso, inglés y un poco de español.

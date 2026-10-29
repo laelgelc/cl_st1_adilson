@@ -1,0 +1,14 @@
+﻿Juan: Hola, María. ¿Cómo estás?
+María: Hola, Juan. Estoy bien, gracias. ¿Y tú?
+Juan: Estoy bien también. Oye, ¿cómo llegaste aquí? ¿Tomaste el bus?
+María: No, vine en bicicleta. Me encanta andar en bicicleta y el clima es perfecto hoy.
+Juan: Ah, sí, la bicicleta es un medio de transporte genial para ir a lugares cercanos. Yo vine en coche, ¿y tú tienes coche?
+María: Sí, tengo un coche, pero trato de no usarlo tanto. Prefiero caminar o andar en bicicleta cuando puedo.
+Juan: Eso es genial. Yo uso el coche mucho para ir al trabajo y para viajes largos. ¿Y has usado alguna vez el metro?
+María: Sí, uso el metro a menudo cuando voy al centro de la ciudad. Es muy conveniente y rápido.
+Juan: Sí, el metro es una buena opción para evitar el tráfico en el centro de la ciudad. Yo también lo uso a menudo. ¿Y has viajado en avión alguna vez?
+María: Sí, he viajado en avión varias veces. Me encanta viajar y el avión es un medio de transporte muy emocionante.
+Juan: Sí, el avión es un medio de transporte increíble para viajes largos.
+Yo también he viajado en avión y es una experiencia emocionante. Bueno, gracias por hablar sobre los medios de transporte, María. ¡Fue interesante!
+María: Gracias a ti, Juan. ¡Fue un placer hablar contigo!
+

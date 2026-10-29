@@ -1,0 +1,13 @@
+﻿Pablo: Hola, Juan. ¿Cómo estás?
+Juan: Hola, Pablo, Estoy bien, gracias. ¿Y tú?
+Pablo: Estoy bien también. Oye, ¿cómo es tu casa?
+Juan: Es pequeña pero acogedora. Tiene dos habitaciones, una sala, una cocina y un baño.
+Pablo: Ah, suena bien. ¿Tienes algún jardín o patio?
+Juan: Si, tengo un pequeño patio trasero. Es muy tranquilo y me gusta pasar tiempo allí.
+Pablo: Genial. Yo también tengo un patio, pero el mío es bastante grande. Tengo un jardín con muchas flores y plantas.
+Juan: Qué lindo. Me encanta la naturaleza, pero no tengo mucho espacio para cultivar plantas en mi casa.
+Pablo: Si, eso es algo que realmente disfruto de mi casa. Además, tengo una habitación extra que uso como estudio y taller para mi trabajo.
+Juan: Eso suena genial. Yo también tengo un espacio para trabajar, pero lo hago en la sala de estar. Me gusta tener un ambiente cómodo para trabajar.
+Pablo: Sí, es importante tener un espacio adecuado para trabajar. Bueno, ¡gracias por hablar de tu casa, Juan! Me ha gustado saber más sobre ella.
+Juan: Gracias a ti, Pablo. Ha sido agradable hablar contigo también.
+

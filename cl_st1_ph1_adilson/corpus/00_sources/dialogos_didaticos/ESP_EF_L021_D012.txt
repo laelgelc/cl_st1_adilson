@@ -1,0 +1,7 @@
+﻿A: ¡Buenos días! Queremos reservar unas habitaciones en este hotel.
+B: - Un momento, por favor. Enseguida les atenderá un colega mío.
+C: ¡Hola! Buenos días. ¿Cuántas habitaciones quieren reservar?
+A: -Dos habitaciones. Una para mi mujer y yo y otra para mis hijas.
+C: -Tenemos dos en el primer piso. Estas son sus llaves. ¿Puede mostrarme su documento de identidad?
+A: ¿Quiere sólo el mío o también el de mi mujer?
+C: El suyo (suyo/su) es suficiente.

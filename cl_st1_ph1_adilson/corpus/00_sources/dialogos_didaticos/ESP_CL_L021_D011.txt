@@ -1,0 +1,20 @@
+﻿
+Â¿Me puede decir quÃ© vuelos hay para RÃ­o de Janeiro? 
+
+A las cero horas treinta minutos y a la una y diez de la madrugada. 
+
+Â¿Y me puede decir quÃ© compaÃ±Ã­as vuelan a RÃ­o? 
+
+Varig, a las cero horas treinta minutos, e Iberia, a la una y diez de la madrugada. 
+
+Â¿Me puede decir cuÃ¡nto cuesta el vuelo mÃ¡s barato? 
+
+Mil cien euros. 
+
+Â¿Es el precio del billete cerrado? 
+
+SÃ­, el billete cerrado es mÃ¡s barato, pero no admite cambio. 
+
+Entonces, Â¿hay problemas para cambiar el vuelo? 
+
+No es posible cambiar el vuelo con un billete cerrado.

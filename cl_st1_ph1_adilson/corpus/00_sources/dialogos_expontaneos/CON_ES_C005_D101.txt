@@ -1,0 +1,11 @@
+﻿I: ¿El qué?
+A1: Que me duelen las piernas del ordenador.
+E: Que dice que le duelen las piernas del ordenador.
+I: Las piernas del ordenador. ¡Ah! Está bien esto. ¿Qué pasa, que lo llevas a cuestas?
+A1: No, que la mesa es superincómoda. Venga, ¿qué queréis tomar?
+I: ¡Ah!
+E: No, que cada vez que le sale un dato con error, pega una patada en el suelo.
+I: Yo ahí una coca-cola, que te la dé sin botella y sin nada. O sea, sin vaso, ¿no? Con botella.
+E: Sí, una coca-cola.
+A1: Con botella, ¿tú también?
+I: Sí, una coca.

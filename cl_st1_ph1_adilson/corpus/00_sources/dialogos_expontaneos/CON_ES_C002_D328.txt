@@ -1,0 +1,19 @@
+﻿A: xxx .
+B: bueno , no , me alegro que estén bien , que vengas pronto .
+A: &=laughter .
+A1: muchas gracias .
+A1: Un abrazo .
+A: no que ve- que vengan ustedes es otra cosa .
+B: ah bueno pero , quien sabe cuándo iremos a ir nosotros &=laughter .
+A: &=laughter .
+A1: Un abrazo mija para tu papá , tu mamá y tus hermanos .
+B: &=noise .
+B: bueno gracias ellos siempre me están preguntando por usted .
+A1: Les das por allá un saludos especial .
+A1: gracias .
+B: bueno , pues .
+A1: okey .
+B: bien .
+A1: chao , pues .
+B: chao , chao Diani .
+A: chao , amor , hablamos .

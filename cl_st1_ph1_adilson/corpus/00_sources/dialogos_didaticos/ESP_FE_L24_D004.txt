@@ -1,0 +1,5 @@
+﻿Turista: Perdón, señor.
+Vigilante de seguridad: Sí. ¿Le puedo ayudar?
+Turista: ¿Se puede sacar fotos aquí?
+Vigilante de seguridad: Lo siento, pero no se puede sacar fotos en esta área.
+Turista: Muy bien. Gracias.

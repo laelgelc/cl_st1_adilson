@@ -1,0 +1,18 @@
+﻿Telefonista: Valesca Tour, buenas tardes.
+Cliente: Buenas tardes, señorita. ¿Podría comunicarme con algún agente de viajes?
+Telefonista: Sí. Un momento, por favor.
+Agente: Valesca Tour, Adriana, buenas tardes.
+Cliente: Buenas tardes... Llamo por el paquete Buenos Aires Mágica, que vi en un folleto. ¿Me podría dar más informaciones sobre las actividades, paseos y sobre el paquete en general?
+Agente: Sí, claro... ¡Cómo nol
+Como usted puede ver en el folleto, son cinco días en Buenos Aires. El primer día, después del almuerzo, se hace un paseo por los puntos turísticos más importantes de la ciudad: la Recoleta, la Plaza de Mayo y sus monumentos, el barrio de San Telmo, el barrio de La Boca, donde está la pintoresca y colorida calle Caminito. El recorrido termina con un paseo de compras por la tradicional calle Florida. El segundo día, después del desayuno, haremos un auténtico día de campo visitando una estancia argentina.
+Cliente: ¿Queda muy lejos de la ciudad?
+Agente: Son tres horas en autobús. Allí, después de una recepción con empanadas y degustación de vinos va a asistir a una doma de caballos, y al mediodía podrá saborear un verdadero asado criollo.
+De regreso al hotel, habrá un tiempo para descanso y, por la noche, asistiremos a una función de ballet en el Teatro Colón. A la salida, la cena es en un sofisticado restaurante de la zona de Puerto Madero.
+Cliente: Digame, pero... ¿todas esas comidas, la entrada al teatro... están incluidas en el precio del paquete o son gastos aparte?
+Agente: Todas las comidas, traslados y paseos están incluidos... Durante el viaje usted no tiene que desembolsar nada, a no ser para sus compras personales. El tercer día, por la mañana se hace un recorrido por los lugares vinculados a Eva Perón, una de las mujeres más influyentes en la historia argentina. Vamos a visitar el museo dedicado a ella, su tumba en el tradicional Cementerio de la Recoleta y la que fue su oficina de trabajo.
+Por la tarde tendrá la oportunidad de aprender a bailar el tango en un club típico de la ciudad y con profesores expertos.
+Cliente: Pero... después de tanta actividad, la agencia nos va a tener que pagar una semana extra de vacaciones.
+Agente: Y eso no es nada. Al día siguiente, vamos a conocer la histórica Ciudad de La Plata, donde visitaremos la catedral, el Museo de Ciencias Naturales y haremos un recorrido por la ciudad, que es un modelo de planificación urbana.
+Finalmente, el último día vamos a recorrer el Delta del Tigre. Hasta allí se va en un pintoresco tren que bordea la costa del Río de la Plata. Una vez en el Tigre se hace un bellísimo paseo en catamarán navegando los principales ríos y canales del delta.
+Cliente: El paseo es realmente hermoso. Pero una preguntita: ¿cuál es el precio del paquete?
+Agente: ¿Por qué no se acerca a la agencia, y así hablamos del precio?

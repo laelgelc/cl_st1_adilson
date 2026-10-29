@@ -1,0 +1,6 @@
+﻿A: ¿Señor García? Buenas tardes. ¿Puedo hablar un momento con usted?
+B: Sí, claro, siéntese... señorita...
+A: Me llamo Elena Moreno y trabajo en el departamento de compras de Tour Ibérica. Nos conocemos de hablar por teléfono.
+B: Sí, es verdad. Ahora reconozco su voz. Bien, ¿qué puedo hacer por usted?
+A: Ayer recibimos un pedido que estábamos esperando y que, como de costumbre, trajo uno de sus camiones. Pero, al abrir algunas de las cajas, vimos que parte de las mercancías estaban en muy mal estado.
+B: ¡No puede ser! Nosotros siempre tenemos mucho cuidado con todo. Etc.

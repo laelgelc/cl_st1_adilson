@@ -1,0 +1,28 @@
+﻿Recepcionista: Hotel Costa Dorada, buenos días.
+Miriam: Buenos días, quisiera hacer una reserva.
+Recepcionista: Cómo no, ¿para qué día?
+Miriam: Del 15 al 20 de abril.
+Recepcionista: ¿Para cuántas personas?
+Miriam: 4 adultos y dos niños.
+Recepcionista: ¿Qué edad tienen los niños?
+Miriam: Un bebé y un niño de 4 años.
+Recepcionista: En ese caso, puedo ofrecerle un chalé para grupo familiar o dos habitaciones dobles.
+Miriam: ¿El precio es el mismo?
+Recepcionista: No, el chalé cuesta 450 euros por noche y la habitación doble, 200.
+Miriam: ¿Y para los niños?
+Recepcionista: Podemos colocarle una cuna y una cama supletoria tanto en la habitación como en el chalé, sin cargo.
+Miriam: Bueno, en ese caso, me quedo con las habitaciones. Ah, y dígame, ¿el desayuno está incluido?
+Recepcionista: La tarifa que le pasé es una oferta especial de media pensión que incluye desayuno y cena.
+Miriam: Perfecto. Entonces voy a hacer la reserva.
+Recepcionista: En ese caso tiene que abonar 50% del valor.
+Miriam: ¿Puedo pagar con tarjeta?
+Recepcionista: Por supuesto. ¿A nombre de quién le hago la reserva?
+Miriam: Miriam Garaycochea.
+Recepcionista: ¿Puede deletrearme su apellido, por favor?
+Miriam: Ge-a-erre-a-ye-ce-o-che-e-a. Otra cosita. Necesito una habitación con cama de dos plazas y otra con dos camas individuales.
+Recepcionista: No hay ningún problema. Voy a necesitar que me pase los datos para pago. ¿Qué tarjeta va a usar?
+Miriam: Visa.
+Recepcionista: ¿Número?
+Miriam: 5432 3165 492 350.
+Recepcionista: Mes y año de caducidad, por favor.
+Miriam: 07/2013.

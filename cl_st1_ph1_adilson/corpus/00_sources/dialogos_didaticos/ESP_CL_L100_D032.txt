@@ -1,0 +1,22 @@
+﻿Camarero: Buenas noches.
+Ricardo: Buenas noches. Tenemos una reserva para dos personas a nombre de Ricardo Bambrilla.
+Camarero: Sí, aquí está. Dos lugares en el sector de fumadores.
+Ricardo: No es posible. Pedí dos lugares en el sector de no fumadores.
+Camarero: Ah... hubo un error, pero no se preocupen. Enseguida los acomodamos.
+Celia: Qué bien, por suerte nos cambiaron rápidamente la mesa. Es hermoso el lugar.
+Camarero: Aquí les dejo la carta de vinos. ¿Van a tomar agua mineral?
+Ricardo: Sí, dos aguas con gas. Podemos tomar un vino tinto, ¿qué te parece, Celia?
+Celia: Perfecto, pero elígelo tú, que yo de vinos no entiendo nada, ya lo sabes.
+Ricardo: Camarero, tráiganos este Malbec de Finca Las Camelias.
+Camarero: Enseguida. ¿Quieren pedir la comida ahora?
+Repaso
+Celia: Mejor. De entrada vamos a compartir una porción de jamón crudo con melón.
+Camarero: ¿Y de plato principal?
+Ricardo: Yo quiero el abadejo con papas al natural.
+Celia: ¿Qué son los callos a la madrileña?
+Camarero: Es el estómago de la vaca, y viene con un caldo con verduras, jamón, chorizo. Es la especialidad de la casa. Pruébelo, que no se va a arrepentir.
+Celia: ¿Comen dos personas?
+Camarero: Tranquilamente.
+Celia: Entonces, tráiganos los callos para los dos y deje el abadejo.
+Camarero: Muy bien.
+

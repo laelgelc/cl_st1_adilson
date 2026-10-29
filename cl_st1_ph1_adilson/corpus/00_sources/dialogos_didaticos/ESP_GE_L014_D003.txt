@@ -1,0 +1,13 @@
+﻿Pilar: Hola, esta cola está muy larga ¿verdad? ¿tendrá trabajo para todos nosotros?
+Antonio: De verdad no lo creo.
+Pilar: Me llamo Pilar, encantada.
+Antonio: ¿qué haces Pilar? ¿Estás en paro hace mucho?
+Pilar: Bueno, soy abogada y estoy en paro desde que volví de Francia. Fui a hacer una especialización en derecho de las mujeres y cuando regresé no tenía más trabajo. Y tú ¿a qué haces? ¿Hace mucho que estás sin trabajo?
+Antonio: No, llegué de Brasil hace una semana. Viví allí por cinco años y ahora regresé a casa. Fui a hacer un curso de maestría en São Paulo.
+Pilar: Eres músico ¡Qué guay! Mi hermana menor, es maestra en Brasil. Lucía Corte Real.
+Antonio: ¡No lo puedo creer! ¿Lucía es tu hermana?
+Pilar: Pero ¿Cómo la conoces?
+Antonio: Nos conocimos en la Universidad. Hicimos un curso de canciones para el cine.
+Pilar: António, nos llaman, ¡vamos!
+
+

@@ -1,0 +1,11 @@
+﻿B: &=noise .
+A: aló .
+B1: &=noise aló .
+A: aló , sí , aló , papá ?
+B1: aló .
+B1: hola .
+B1: hola , Jorge , cómo estás .
+A: bien , papi , xxx .
+B1: qué tal Coquito , cómo te conservas .
+A: bien , bien , quería desearte cumpleaños .
+B1: gracias , hijo , muy amable , ah .

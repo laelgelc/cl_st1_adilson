@@ -1,0 +1,5 @@
+﻿A: ¡Mira, está lloviendo!
+B: ¡Oh, no! No vamos a poder ir al cine.
+A: ¿Cómo es el clima en tu país?
+B: Hace mucho calor en verano y en invierno siempre hay nieve.
+

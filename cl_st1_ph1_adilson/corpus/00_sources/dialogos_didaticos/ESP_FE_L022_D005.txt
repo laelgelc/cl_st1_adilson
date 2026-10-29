@@ -1,0 +1,8 @@
+﻿Taxista: ¡Llegamos!
+Turista: ¡Perfecto! ¿Cuánto es?
+Taxista: Son R$ 15,70.
+Turista: ¿Tiene usted cambio para uno de R$ 50,00?
+Taxista: Disculpe, no, no tengo.
+Turista: No hay problema. Tengo un billete de R$ 20,00. ¡Quédese con el cambio!
+Taxista: Muchas gracias. ¡Qué tenga una buena tarde!
+Turista: Usted también.

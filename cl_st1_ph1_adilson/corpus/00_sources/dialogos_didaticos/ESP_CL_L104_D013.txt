@@ -1,0 +1,15 @@
+﻿Javier: Buen día a todos, los que están en casa y a los que nos escuchan en sus vehículos. Reinaldo, hablando de vehículos, tenemos novedades, ¿no?
+Reinaldo: Buen día, Javier, sí, efectivamente, y aunque ya no sea novedad para muchos, el nuevo reglamento de tránsito es la noticia de hoy.
+Javier: Y lo estricto que es, ¿no? Desde que empiece a
+funcionar... ja cuidarse!
+Reinaldo: Sí, de verdad.
+Javier: ¿Cuál dirías que es su principal novedad?
+Reinaldo: El sistema de puntos, sin duda. Habrá un registro en que se sumarán puntos a cada conductor por infracción cometida. Al llegar a doce puntos, se le cancela la licencia por tres años.
+Javier: ¿Y qué puntaje tienen las infracciones?
+Reinaldo: Varían. Las más graves llegan a seis puntos: circular en sentido contrario, circular por carriles reservados para transporte público, por ciclovías, por la banqueta, y participar en arrancones y carreras.
+Javier: Graves, claro. ¿Y las demás?
+Reinaldo: Se castiga con tres puntos al que lleva menores en el asiento delantero, y al que desobedece señales. Todas las otras infracciones acumulan un punto.
+Javier: ¿Y se puede apelar?
+Reinaldo: Siempre existe ese recurso, pero ahora hay que hacerlo en cuanto se recibe la nota de infracción, porque los puntos se contabilizan muy rápidamente.
+Javier: Y si alguien llega a doce puntos por una combinación de factores, pero tiene antecedentes buenos, sin infracciones registradas...
+Reinaldo: Ni modo. Por mejor que haya sido hasta entonces, pierde la licencia por tres años.

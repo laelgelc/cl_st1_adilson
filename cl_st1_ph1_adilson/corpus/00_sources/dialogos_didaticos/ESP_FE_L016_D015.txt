@@ -1,0 +1,10 @@
+﻿Hotel Atlanta. Buenos días.
+Buenos días. Quiero hacer una reserva para los días del 15 al 18 de febrero.
+¿Para cuántas personas, por favor?
+Tres personas. Tres habitaciones individuales.
+Un momento. Muy bien, se lo confirmo. ¿A qué nombre por favor?
+Martínez, Velázquez y Puig. La factura a nombre de la empresa Teleprint S.A. de Madrid.
+¿Podría darme su número de fax para que pueda confirmarle la reserva, por favor?
+El prefijo para España es el 34, después el 91 para Madrid y el número 365 78 16. Mi nombre es Benítez, Pedro Benítez.
+Muy bien, señor Benítez. Le envío la confirmación hoy mismo.
+Muchas gracias. Adiós.

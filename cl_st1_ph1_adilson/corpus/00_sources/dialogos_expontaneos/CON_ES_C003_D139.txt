@@ -1,0 +1,23 @@
+﻿¿Por dónde me meto? ¿Todo recto?
+No, a la izquierda, para salir a la  @nombre lugar.
+Ah, es verda'.
+¿Vamos por  @nombre lugar?
+Sí.
+¿A dónde vamos ahora?
+Cuando hay atasco se tarda la mitad.
+Toma reina mora.
+ (())
+Sonidos_de_trasfondo   	(Coches pitando)
+Mamá.
+ (())
+Mamá.
+¿Qué mi niño?
+¿A dónde vamos?
+A ver a los abuelos.
+Sonidos_de_trasfondo   	(Coches pitando)
+¿Todos?
+¿Vamos todos a ver a loh abueloh?
+Vamos todos en unión.
+Vale.
+Ay ahora mejor, cojo aire frío y me lo pongo en la cara.
+Hmm.

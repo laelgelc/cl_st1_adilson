@@ -1,0 +1,7 @@
+﻿Laura: Victor y José, cuéntenme cómo va el trabajo en la empresa.
+Victor: La mía va muy bien, estamos expandiendo los negocios.
+José: En la mía las cosas no van tan bien como me gustaría. Y ¿en la tuya?
+Laura: Está todo muy bien, la próxima semana tendré un viaje de negocios. Mis jefes son muy competentes.
+José: Los míos también, pero tienen ideas muy conservadoras todavía.
+Victor: Los míos son muy innovadores.
+

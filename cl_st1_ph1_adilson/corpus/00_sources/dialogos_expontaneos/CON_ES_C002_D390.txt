@@ -1,0 +1,5 @@
+﻿A: se encuentra este , Sonia ?
+B1: ah , ya , xxx un ratito .
+A: ya .
+B: &=noise .
+B1: &=noise gracias , papito , aquí te paso a Sonia &=noise .

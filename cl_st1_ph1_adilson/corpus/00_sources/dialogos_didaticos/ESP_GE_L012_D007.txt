@@ -1,0 +1,10 @@
+﻿CHICO: Sandra, ¿quieres una raqueta de tenis?
+CHICA: No, no me gusta jugar al tenis, ¿por qué me lo preguntas?
+CHICO: Mi tío tiene una tienda de deportes y cierra dentro de dos semanas y todos los artículos están rebajados. Te digo lo de la raqueta porque me ha regalado unos esquís y dos raquetas de tenis.
+CHICA: No me gusta el tenis, prefiero los deportes de equipo y, ahora que lo dices, ¿no tiene patines?
+CHICO: Creo que sí, ¿te gusta el patinaje?
+CHICA: El hockey sobre patines, hace tres años que juego en el
+equipo del instituto y necesito unos patines nuevos.
+CHICO: ¿Qué te parece si quedamos este fin de semana y vamos a la tienda?
+CHICA: Muy bien, podemos ir el sábado por la mañana.
+

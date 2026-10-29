@@ -1,0 +1,8 @@
+﻿B: oye , y la Estela cómo está ?
+A: bien , papi , bien .
+A: estamos gordos , no más , pero aparte de eso , estamos bien .
+B: ah .
+B: &=noise .
+B: gordos ?
+A: sí .
+B: mmm .

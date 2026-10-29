@@ -1,0 +1,14 @@
+﻿Pilar: Buenas tardes, llamo por el anuncio que publicaron en Internet. ¿El piso sigue para alquilar?
+Propietario: Si, hay algunas ofertas, pero todavía nada en concreto.
+Pilar: ¿Cuántos dormitorios tiene?
+Propietario: Tres bastante grandes y con armarios empotrados. Hay otra habitación más chica, sin armarios, que usamos como despacho.
+Pilar: ¿Cuánto mide el departamento?
+Propietario: 150 metros cuadrados, sin contar la terraza.
+Pilar: Y los baños, ¿cuántos hay?
+Propietario: El apartamento tiene tres baños y, además, la cocina está totalmente amueblada.
+Pilar: ¿Cuánto piden de alquiler?
+Propietario: 1500 pesos por mes.
+Pilar: ¿Es un primer piso?
+Propietario: No, no, está en el tercero.
+Pilar: Bueno, voy a consultarlo con mi marido y lo llamo más tarde. Muchas gracias.
+

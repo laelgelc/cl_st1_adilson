@@ -1,0 +1,21 @@
+﻿Julián: Buenos días, señora directora. ¿Puedo pasar?
+Directora: Sí, pasa y cierra la puerta, por favor.
+Julián: La coordinadora me dijo que usted quiere hablar conmigo.
+Directora: Sí, cuéntame qué pasó ayer entre Silvio y tú en la cancha.
+Julián: De lo único que me acuerdo ahora es de que estábamos jugando y Silvio me dio una patada en la espinilla, ¡justo ese día que estaba sin espinilleras!
+Directora: ¿Y después?
+Julián: Después no pasó nada.
+Directora: ¿Cómo no? Silvio me dijo que le humillaste, llamándole "pobre muerto de hambre". ¿Eso es verdad?
+Julián: Sí, pero, señora directora, lo dije sin pensar. No quise humillarlo.
+Directora: Escucha, Julián. Sé que es muy corriente que cuando los chicos están jugando digan palabrotas y se insulten...
+Julián: Sí, señora, a mí también a veces me insultan.
+Directora: Lo que quiero decirte es que no es correcto darle una patada a un compañero, tampoco es correcto insultarse en un partido de fútbol, pero el problema que me hizo llamarte aquí es otro.
+Julián: Lo sé, señora. Me llamó porque ha prejuicioso al insultar a Silvio.
+Directora: Sí, eso es. No sé y no quiero saber si eres más o menos rico que él, pues eso a mí no me interesa. Lo que quiero que sepas es que todos vosotros estáis aquí para aprender, principalmente, respetar las diferencias, sean ellas económicas, raciales, religiosas...
+Julián: Tiene razón, señora. ¿Va a expúlsame?
+Directora: No, en vez de eso voy a pedirte que hables con Silvio y le pidas disculpas
+Julián: De acuerdo, señora.
+Directora: Hasta luego, Julián. Espero que ese tipo de problema no se repita.
+
+
+

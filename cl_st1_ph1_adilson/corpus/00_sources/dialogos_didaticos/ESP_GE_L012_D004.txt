@@ -1,0 +1,11 @@
+﻿CHICA: Carlos, ¿quieres venir al cine con nosotros esta tarde?
+CHICO: Ah, genial, ¿a qué hora quedamos?
+CHICA: ¿Te va bien a las seis delante del Ayuntamiento?
+CHICO: A las seis no puedo, tengo que acompañar a mi hermano al dentista. ¿A qué hora empieza fa película?
+CHICA: A las siete y media, pero antes queríamos ir a dar una vuelta por el centro.
+CHICO: No puedo ir tan pronto, como mucho puedo estar allí un poco antes de las siete.
+CHICA: Ya, pero a esa hora no sé por dónde andaremos.
+CHICO: Ya lo tengo: os espero delante del cine un poco antes de que empiece la película, ¿qué te parece?
+CHICA: Entonces, nos vemos fuego.
+CHICO: Hasta luego.
+

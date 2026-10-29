@@ -1,0 +1,15 @@
+﻿Buenas tardes, señorita. ¿En qué la puedo ayudar?
+Buenas tardes, señor. Mire, quiero abrir una caja de ahorro.
+No hay ningún problema. Pero antes debo pedirle algunos datos personales para completar su ficha.
+Muy bien.
+¿Cuál es su nombre?
+Nora
+¿Cuál es su apellido paterno?
+Arana. Mi nombre completo es Nora Beatriz Arana Gutiérrez. Gutiérrez es el apellido de mi madre.
+¿Usted no es chilena, verdad? ¿De dónde es?
+No, en verdad soy peruana.
+¿Y dónde vive actualmente?
+Vivo aquí, en Santiago de Chile.
+¿A qué se dedica?
+Soy empleada en una tienda.
+¿Cuál es su…?

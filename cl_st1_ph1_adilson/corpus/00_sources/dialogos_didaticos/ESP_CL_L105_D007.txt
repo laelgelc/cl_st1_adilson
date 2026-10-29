@@ -1,0 +1,9 @@
+﻿? Te acuerdas de que hoy es el cumpleaños de Sonia, ¿verdad?
+? Sí y tenemos que comprarle un regalo.
+? ¿A qué hora sales de trabajar?
+? Como siempre, a las cinco y media.
+? Y Sonia nos invita a cenar, ¿no? A las nueve y media.
+? Pues sí.
+? Pues tenemos tiempo. ¿Quedamos a las seis de la tarde en el centro comercial? Merendamos algo en la cafetería y le compramos algo.
+? Vale, perfecto.
+

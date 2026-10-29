@@ -1,0 +1,12 @@
+﻿Gonzalo: ¡Adelante!
+Juan Manuel: Buenos dias.
+Gonzalo y Agustin: Buenos días.
+Agustín: Hola, Juan Manuel. Siéntese, por favor. ¿De qué quería hablarnos?
+Juan Manuel: Pues quería hablar con ustedes acerca de los rumores que hay en la empresa sobre una posible regulación. He oido que va a haber varios despidos y...
+Agustin: No, hombre, no. En absoluto. Nada de eso.
+Juan Manuel: Entonces, ¿podemos estar tranquilos? ¿La empresa no está pasando por una crisis?
+Gonzalo: A ver, es cierto que el sector no está pasando por un buen momento. Pero en caso de tomar medidas, intentaríamos buscar otras soluciones antes de recurrir a los despidos. De todos modos, no entiendo su postura...
+Juan Manuel: Simplemente quiero saber qué está pasando para actuar en consecuencia, estoy en mi derecho.
+Agustín: ¿Quiere decir que está pensando en dejar la empresa?
+Juan Manuel: No, si es cierto que todo va bien.
+Gonzalo: Sinceramente, su reacción me decepciona, Juan Manuel. No me esperaba algo así de usted.

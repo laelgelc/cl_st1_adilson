@@ -1,0 +1,18 @@
+﻿Señora: Buenos días, jovencito. Aquí han colocado los Agüero Pérez Ordóñez una lista de casamiento de su hija María Pía, ¿no es cierto?
+Vendedor: Sí, señora, así es. ¿Quiere verla?
+Señora: Se me han olvidado las gafas de lectura. ¿Le importaría leérmela?
+Vendedor: Es un poco extensa... A usted, ¿qué l gustaría regalarles?
+Señora: Bueno, mire, son unos parientes muy lejanos, así que no quiero gastar mucho. ¿Todavía le queda algo barato?
+Vendedor: A decir verdad, no mucho. Usted sabe, las piezas más económicas son las que salen primero y como solo falta una semana para la boda... ¿Usted cuánto está dispuesta a gastar?
+Señora: ¿Qué quiere que le diga? Lo menos posible... Yo con ellos no tengo obligaciones, no preciso quedar muy bien... Y..., digamos, que no más de cincuenta pesos.
+Vendedor: A ver qué nos queda en ese precio... Tenemos unas copas de cristal para vino muy elegantes.
+Señora: ¿Y cuánto cuestan?
+Vendedor: Hoy justo las pusimos en oferta... están a veinte pesos.
+Señora: ¿La docena?
+Vendedor: No, señora, ese valor es por unidad.
+Señora: Pero, no, jovencito, si le dije hasta cincuenta pesos. ¡Más que eso es un despilfarro! Si llevo seis, ya son ciento veinte pesos. ¿No tiene unas de vidrio?
+Vendedor: No, señora, aquí solo trabajamos con productos finos... A ver, espere un minuto, creo que me queda un florero bastante barato, me parece que no llega a los treinta pesos. ¿Quiere que se lo muestre?
+Señora: Sí, por supuesto.
+[...]
+Vendedor: Aquí lo tiene.
+Señora: Feo no es, pero ¿no le parece poca cosa? Pero, dígame, si lo llevo, ¿me hace un descuentito?

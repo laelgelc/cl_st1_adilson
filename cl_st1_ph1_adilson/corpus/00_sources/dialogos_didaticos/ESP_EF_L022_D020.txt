@@ -1,0 +1,6 @@
+﻿Julia: ¿Dígame?
+Roberto: Julia, soy Roberto, he hablado con el conserje y él me ha dicho que podemos llevar a tu perro.
+Julia: ¡Qué bien! ¿Y a qué hora salimos?
+Roberto: - A las tres de la tarde, ¿te parece bien?
+Julia: ¿Podemos ir mas tarde, sobre las cuatro?
+Roberto: ¡Vale!

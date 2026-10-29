@@ -1,0 +1,23 @@
+﻿A: oye , ya tú te desmontaste de tus velises y después cogiste para donde tu mamá .
+B: ahá &=noise .
+A: y los niños , llegaron junto contigo ?
+B: sí &=noise .
+A: ellos estaban en el mismo vuelo .
+B: en el mismo vuelo , pues .
+A: oh , pues tú te juntaste con ellos ahí .
+B: ahá , cuando yo estaba en la fila , ahí ya ellos habían chequeado , ellos se habían chequeado &=noise .
+A: ah , pues yo ni tenía , ni tenía conciencia de eso .
+B: qué ?
+A: que yo ni tenía consciencia de eso .
+B: &=noise oh no , pero eso fue lo que yo te dije , que yo iba a tratar de , .
+B: de reservar en el mismo vuelo que ellos o a las diez &=noise .
+A: &=noise que si llamó este .
+B: de la noche &=noise .
+A: y qué dicen los niños .
+B: bien , ahí llegaron , xxx &=noise .
+A: &=background:speech &=noise mmm .
+B: bien , ningún problema , yo no he podido llamar a tu casa ni nada porque yo no he tenido , tú ves .
+A: ahá .
+B: eh , ningún &=noise .
+B: ninguna &=noise .
+B: paciencia de nada , llegué , eh , saqué las maletas , eh &=noise .

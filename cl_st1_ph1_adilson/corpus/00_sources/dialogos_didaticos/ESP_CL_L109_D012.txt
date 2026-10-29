@@ -1,0 +1,8 @@
+﻿Loli: ¡Hola, María! ¿Cómo estás?
+María: ¡Hola, Loli! Mira, éstos son mis amigos. Éste es José María. Es de Cádiz y vive en Italia.
+José María: Mucho gusto, Loli.
+María: Ésta es Arlette. Es francesa. Es profesora de español.
+Loli: Hola, Arlette.
+María: Y éstas son Elisabeth y Ann. Son inglesas y estudian español. Viven en casa conmigo.
+Loli: Encantada.
+

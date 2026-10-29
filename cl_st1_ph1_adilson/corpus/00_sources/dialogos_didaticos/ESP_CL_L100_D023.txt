@@ -1,0 +1,10 @@
+﻿Valverde: ¡Entre! ¡Adelante!
+Rojas: Buenos días, señor Valverde.
+Valverde: Buenos días. Quiero pedirle un favor: hágase cargo del almuerzo de negocios con el señor Gutiérrez.
+Rojas: Cómo no.
+Valverde: Mándele un e-mail y dígale que lo invitamos para un almuerzo el día de la reunión.
+Rojas: ¿El próximo lunes, 23?
+Valverde: Exacto. Hágase cargo de todos los detalles. Invite a un componente de la gerencia comercial. Reserve una mesa en el restaurante Buen Paladar, del centro. Pida un cheque de la empresa, aquí está la autorización, pague la cuenta y traiga una factura para registrar en viáticos.
+Rojas: ¿Algo más?
+Valverde: No, por ahora, no. Gracias. ¡Ah! Le voy a poner un límite para el gasto de 250 pesos, pero no va a haber problemas si se excede un poco. Igualmente, por favor, tome cuidado para que ni la comida ni la cuenta estén saladas.
+

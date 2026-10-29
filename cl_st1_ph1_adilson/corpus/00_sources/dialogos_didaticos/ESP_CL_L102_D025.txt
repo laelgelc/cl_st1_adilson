@@ -1,0 +1,16 @@
+﻿Gabriela: ¿Puedes explicarme cómo se calcula el impuesto que te retienen en la fuente?
+Rodolfo: No te reconozco: una filósofa como tú de repente interesada en cosas tan terrenas.
+Gabriela: Lo que pasa es que estoy dando clases en una universidad y me pagaron el primer sueldo. En realidad esperaba recibir más y quiero entender el motivo de esa diferencia.
+Rodolfo: ¿Tienes a mano el recibo de sueldo?
+Gabriela: Sí, pero no entiendo nada, es complicadísimo.
+Rodolfo: Bueno, para empezar fíjate en la columna de la derecha. ¿La suma coincide con lo que te iban a pagar?
+Gabriela: Sí, aproximadamente.
+Rodolfo: Bien, ese es tu sueldo bruto y lo que efectivamente depositan en tu cuenta es el sueldo neto.
+Gabriela: ¿Y cómo llegan a ese valor?
+Rodolfo: Se toma la ganancia bruta que está en el recibo de sueldo y se le resta el total de descuentos.
+Gabriela: ¿Y el impuesto que te retienen?
+Rodolfo: Eso funciona así: se toma el sueldo neto y se le resta el mínimo no imponible, que hoy es de R$ 1460,00. Al número que se obtiene se le aplica el 9% y ese es el impuesto a pagar.
+Gabriela: O sea, si quiero saber si me están engañando tengo que hacer todas esas cuentas.
+Rodolfo: Exactamente.
+Gabriela: ¿No quieres hacérmelas tú?
+Rodolfo: Por algo te dicen "la pedigüeña".

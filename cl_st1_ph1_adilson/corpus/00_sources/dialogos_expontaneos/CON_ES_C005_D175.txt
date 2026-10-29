@@ -1,0 +1,16 @@
+﻿E: ahá muy bien y por ejemplo ahora mismo eeh ¿tu familia qué estará haciendo?
+I: mi familia ¿qué familia?
+E: tu fami palabra_cortada > tu
+I: ¿mi madre?
+E: no tus hijos ¿qué estarán haciendo ahora mismo?
+I: pues mi marido trabajando y mis hijos también bueno la mayor no trabaja tiene una niña chiquitita
+E: ¡ah! la mayor vive en Madrid
+I: en Tres Cantos
+E: en Tres Cantos es verdad Tres Cantos ¿y ahora en vacaciones? ¿tienes algún plan?
+I: sí pues voy a ir a Tenerife a conocer al nuevo nietecito que va a nacer estos días
+E: ¡ah! ¿sí? ¡qué bien!
+I: en julio una semana voy a ir a Tenerife a conocer al nue al nuevo nietecito
+E: ¡ay qué bien!
+I: que va a nacer estos días porque mi nuera ya está fuera de cuentas con que
+E: ¿y tienes más?
+I: ¿más qué?

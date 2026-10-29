@@ -1,0 +1,16 @@
+﻿Camarero: ¡Buenos días! ¿Le gustaría algo de beber para empezar?
+Cliente: Hola, sí, por favor. Quiero un jugo de naranja recién exprimido.
+Camarero: Claro, lo tendré enseguida. ¿Ya decidió qué quiere comer hoy?
+Cliente: No, todavía estoy mirando el menú. ¿Qué me recomienda?
+Camarero: Tenemos un menú del día con varias opciones, todas muy deliciosas. Pero si le gusta la carne, le sugiero nuestro filete de ternera con puré de patatas.
+Cliente: Suena muy bien. Lo tomaré.
+Camarero: Muy bien. ¿Cómo le gustaría la carne cocida?
+Cliente: Me gusta al punto.
+Camarero: Perfecto. ¿Algo más que le gustaría pedir?
+Cliente: Sí, por favor. ¿Podría traerme una ensalada como entrada?
+Camarero: Claro, ¿qué tipo de ensalada le gustaría?
+Cliente: Me gustaría una ensalada con lechuga, tomate y aguacate.
+Camarero: ¡Excelente elección! Lo tendré todo listo en unos minutos. ¿Algo más que pueda hacer por usted?
+Cliente: No, gracias. Eso es todo por ahora.
+Camarero: Perfecto. Disfrute de su comida.
+

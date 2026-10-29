@@ -1,0 +1,15 @@
+﻿Roberto: ¡Buenos días, señorita!
+Secretaria: ¡Buenos días!
+Roberto: Quiero inscribirme a un curso de historia.
+Secretaria: ¿Cómo te llamas?
+Roberto: Me llamo Roberto González.
+Secretaria: ¿De dónde eres?
+Roberto: Soy de Aguascalientes.
+Secretaria: ¿Cuál es tu dirección aquí en la Ciudad de México?
+Roberto: Vivo en Av. Universidad 89, departamento 4 B.
+Secretaria: ¿Cuál es tu número telefónico?
+Roberto: Es el 51-58-37-69.
+Secretaria: ¿Qué curso prefieres: intensivo o semestral?
+Roberto: Prefiero el intensivo. Es de seis semanas, ¿verdad?
+Secretaria: Sí. Debes pagar 500.00 dólares en la caja.
+

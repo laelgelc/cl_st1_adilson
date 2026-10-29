@@ -1,0 +1,13 @@
+﻿Pedagoga: Entonces, los nombres de los niños, ¿cuáles son?
+Madre: El de nueve años es Felipe; el de seis, Mauricio.
+Pedagoga: ¿El más chico ya ha entrado al colegio?
+Madre: Sí, porque cumple años ahora en junio...
+Pedagoga: ¿De qué nacionalidad son ustedes?
+Madre: El padre y yo somos de Dinamarca, pero los niños nacieron aquí, en Venezuela.
+Pedagoga: ¿Su dirección...?
+Madre: Martí 1362, departamento F.
+Pedagoga: Tengo el teléfono de la casa, pero ¿me da un número de móvil para encontrarlos si no están?
+Madre: El mío es 6836-0137 y el del padre es 6520-0241.
+Pedagoga: Bueno, cuénteme un poco de los niños; algunos rasgos del comportamiento que a usted le parezcan importantes.
+Madre: Bueno, son inquietos pero bastante serios: se comportan bien, no dan trabajo. El mayor tiene mejor carácter: siempre está tranquilito. El menor se enoja un poco a veces, pero se calma fácil. Son buenos chicos, pero, claro, yo soy la madre...
+Pedagoga: Entiendo....

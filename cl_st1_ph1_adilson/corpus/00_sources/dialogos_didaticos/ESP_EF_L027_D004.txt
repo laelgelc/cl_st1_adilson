@@ -1,0 +1,15 @@
+﻿Maruja se encuentra con Carlos, un viejo amigo, en la cola de un cine en Madrid:
+Maruja: Hola, Carlos, ¡qué casualidad!
+Carlos: ¿Cómo te va, Maruja? Hace mucho tiempo que no nos vemos.
+Maruja: Tirando, y tú, ¿cómo estás?
+Carlos: Bien, hace casi un año que estoy viviendo en Lisboa.
+Maruja: ¿Y qué tal Lisboa? Me encantaría conocer esa ciudad.
+Carlos: Lisboa es magnífica. Es una ciudad grande pero muy acogedora. Los portugueses son muy simpáticos. Seguro que te divertirías mucho. Tienes que visitarme.
+Maruja: Sí, ¿cómo no! ¿Vives cerca del centro?
+Carlos: No, vivo pero es muy fácil trasladarse allí. No tengo coche y siempre viajo en metro o en autobús.
+Maruja: ¿Y por qué estás viviendo allá?
+Carlos: Porque estoy estudiando portugués en la Universidad.
+Maruja: Sabes que a mí también me gustaría aprender portugués. ¿Me explicarías cómo puedo matricularme en uno de esos cursos?
+Carlos: ¡Claro! Ahora no tenemos tiempo para eso, pero podríamos vernos mañana por la noche. ¿Qué te parece?
+Maruja: Estupendo. ¿Quedamos a las ocho en el Café Central? 
+Carlos: Vale.

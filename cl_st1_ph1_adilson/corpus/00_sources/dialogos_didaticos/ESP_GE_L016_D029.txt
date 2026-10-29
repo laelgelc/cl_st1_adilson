@@ -1,0 +1,5 @@
+﻿Cecilia: ¡Buenas, Ignacio! Oye, ¿en tu barrio hacen reciclaje de basura?
+Ignacio: Sí, por supuesto. En casa recogemos nuestra basura selectivamente. La alcaldía nos proporcionó los contenedores específicos para cada producto.
+Cecilia: En mi barrio no tenemos esos contenedores.
+Ignacio: Pues debes solicitarlos, la alcaldía está obligada a proporcionarlos, así nuestra ciudad será más limpia e higiénica y conservaremos mejor el medio ambiente.
+

@@ -1,0 +1,42 @@
+﻿A: cómo anda Mónica con su pie ?
+B: bueno este hoy fue a quitarse los puntos y le bajó la tensión .
+A: sí .
+B: aaa ?
+B: Le bajó cuando le estaban quitando los puntos &=noise .
+A: a y ésas ?
+A: ya .
+B: ya le baja por todo .
+A: sí ya está medio debilucha .
+A: bueno siempre anda debilucha .
+B: ajá &=distortion .
+B: sí entonces ahí va poco a poco , aaa , Ramón la llevó ayer con el doc- lo acompañó Antonio &=noise .
+A: ya .
+B: la llevó para Caracas &=distortion .
+A: mmm .
+B: para hacerte la diligencia a ti para .
+B: y esta mañana el ascensor no funcionaba &=line noise y se puso desesperada a llamar para que se lo vinieran a arreglar .
+A: ajá .
+B: tenía que bajar y ella no podía bajar .
+A: ya .
+B: y entonces después fue para allá , así es +...
+A: ay y qué está trabajando ?
+A: está yendo a a la oficina ?
+B: Ella ?
+B: no a ella le quitaron todos los corotos el día de las fotos .
+A: pero ella no tiene un mes o algo así ?
+B: bueno , pero ella no va a la oficina , ella tiene que estar en reposo .
+A: aaa ya .
+B: pero ya ellos le quitaron las cosas de de de la oficina de ella , la , la se la desalojaron sin que ella estuviera .
+A: mmm está bien .
+B: entendiste ?
+B: Ella se enteró te &=distortion .
+A: ajá , está bien .
+B: y ellos no le han participado nada .
+A: ya .
+B: ya , está en reposo .
+A: mmm sí eso pasa aquí en Estados Unidos acá pa- casi demandan a la empresa .
+B: bueno ella en reposo se debería de pedir negociar .
+B: eso hace que la persona llegue , le desalojaron la oficina le .
+A: ya .
+B: o sea que xxx &=distortion todas las cosas de ella .
+B: así que , bueno .

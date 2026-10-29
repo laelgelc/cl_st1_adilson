@@ -1,0 +1,13 @@
+﻿HOMBRE: ¡Buenos días, señora! ¿Necesita ayuda?
+MUJER: ¡Buenos días! Quiero regalar a mi novio un libro de terror. Es una sorpresa, yo no conozco mucho este género y no sé qué comprar. ¿Me aconseja algún título?
+HOMBRE: Sí, sí, señora. ¿Qué le parece Stephen King? Es el maestro americano del terror. Todos los años es-cribe muchos libros. Seguro que le gusta a su novio.
+MUJER: iVale! ¿Cuál me aconseja?
+HOMBRE: Es muy difícil... iSon todos muy buenos! ¿Qué piensa del Cementerio de animales?
+MUJER: ¿De qué trata?
+HOMBRE: A ver... El protagonista se llama Louis Creed. Un día encuentra un cementerio de animales en los bosques cerca de su casa y desde ese momento su familia tiene muchos problemas y vive tragedias.
+MUJER: Bueno, no me gusta mucho... ¿Hay otros títulos?
+HOMBRE: Otro... por ejemplo, mi favorito, es It. Trata de un monstruo que tiene forma de payaso y se come a los niños.
+MUJER: ¡Esto sí que me da miedo! iLo compro!
+HOMBRE: iMuy bien! Aquí tiene.
+MUJER: iMuchas gracias!
+

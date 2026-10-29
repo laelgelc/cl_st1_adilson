@@ -1,0 +1,23 @@
+﻿Cliente: Juan, quiero comprar un pantalón. ¿Te importa acompañarme al piso de arriba? En este shopping hay un negocio que tiene unos pantalones con un corte bonísimo
+Juan: Como no. Vamos.
+Vendedor: Buenas tardes, quería ver ese pantalón de la vidriera
+Vendedor: ¿Qué talla usa?
+Cliente: Creo que 42. ¿Me lo puedo probar?
+Vendedor: Si, por supuesto. […] ¿Cómo be queda
+Cliente: No sé. No me veo muy bien aquí dentro.
+Vendedor: ¿Le molestaría sal del probador? Hay un espejo más grande aquí afuera.
+Cliente: Ah, ahora sí. ¿Ustedes podrían hacerle el dobladillo?
+Vendedor: Sí, cómo no. ¿Le importa que se lo mida ahora?
+Cliente: Cómo no. Juan, ¿Qué le parece este pantalón?
+Juan: Yo no entiendo mucho de ropa, pero creo que te queda bien.
+Cliente: ¿Cuánto cuesta?
+Vendedor: $185.
+Cliente: ¿Le importaría mostrarme esa camisa blanca?
+Vendedor: Aquí está ¿Quiere probársela?
+Cliente: No sé... ¿Cuánto cuesta?
+Vendedor: $120.
+Cliente: No, entonces solo me llevo el pantalón. ¿Le importaría que pague con cheque?
+Vendedor: No, de ninguna manera. No hay ningún problema.
+Cliente: Perfecto. ¿Cuándo estará listo?
+Vendedor: Mañana por la tarde.
+Cliente: Entonces mañana vengo a buscarlo.

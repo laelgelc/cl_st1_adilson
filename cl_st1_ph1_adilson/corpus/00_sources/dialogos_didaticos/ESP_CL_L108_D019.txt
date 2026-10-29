@@ -1,0 +1,14 @@
+﻿A: ¡Hola!
+B: ¡Qué tall ¿Cómo estás?
+A: Muy bien, gracias. ¿Y, tú?
+B: También bien. Oye, ¿sabes de la comida de Vera?
+A: No.
+B: Bueno, el próximo domingo Vera tiene una comida en su casa y nos invita.
+A: ¿A qué hora es la comida?
+B: Es a las 3:00 de la tarde.
+A: Pues vamos ¿No? Disculpa, ¿qué hora es?
+B: Son las 10:30.
+A: Luego platicamos porque tengo clase de español.
+B: Nos vemos después de tu clase.
+C: De acuerdo.
+

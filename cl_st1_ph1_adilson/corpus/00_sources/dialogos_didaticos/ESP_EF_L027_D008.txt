@@ -1,0 +1,4 @@
+﻿Turista: Perdone, señora, ¿sabe si hay algún hotel cerca de aquí?
+Señora: Lo siento. No sé. No soy de aquí
+Turista: Muchas gracias.
+Señora: De nada.

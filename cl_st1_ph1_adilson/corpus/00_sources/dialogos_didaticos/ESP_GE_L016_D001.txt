@@ -1,0 +1,10 @@
+﻿Luisa: ¡Hola! Hoy voy al museo del Prado, ¿te gustaría venir conmigo?
+Carlos: ¡Por supuesto! Tú sabes que me encanta el arte. Pero sólo puedo ir después de las cinco ya que trabajo hasta esa hora.
+Luisa: ¡No te preocupes! Esa hora me va bien.
+Carlos: Sabes, quiero ver los lienzos de Goya. Es que leí un artículo sobre él y me interesó mucho.
+Luisa: ¿Qué leíste?
+Carlos: Que en el siglo XVIII, Goya ya era un pintor respetado y admirado por la corte española.
+Luisa: Sí, es verdad. Dicen que puso a la venta sus estampas taurinas a través de un anuncio en el Diario de Madrid.
+Carlos: Bueno, me parece que vamos a disfrutar del museo.
+Luisa: ¡Ah! Eso, sin duda.
+

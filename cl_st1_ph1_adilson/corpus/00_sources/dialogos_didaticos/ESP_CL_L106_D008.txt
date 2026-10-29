@@ -1,0 +1,6 @@
+﻿? Son 50 euros.
+? Con tarjeta, por favor.
+? Lo siento, solo admitimos pagos en efectivo.
+? Entonces, tengo que dejarlo. No tengo en efectivo.
+? Disculpe, señor. Lo sentimos mucho.
+

@@ -1,0 +1,9 @@
+﻿Gustavo: ¡Hola! Me llamo Gustavo y soy paraguayo. Y ustedes, ¿cómo se llaman?
+Felipe: Yo soy Felipe, ¿qué tal?
+Augusto: Y yo Augusto.
+Gustavo: ¿De dónde son?
+Felipe: Somos guatemaltecos, pero vivimos en Asunción.
+Gustavo: ¡Yo también!
+Augusto: ¿Cuál es tu teléfono? Cuando volvamos, te llamamos así nos encontramos para salir.
+Gustavo: Sí, claro. Mi teléfono es el 2648-9714.
+Felipe: Y el nuestro es el 3698-8475.

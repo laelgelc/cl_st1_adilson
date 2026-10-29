@@ -1,0 +1,6 @@
+﻿PATI: ¡Hola!
+CARLITOS: Hola, buenos días, Pati, ¿cómo te sientes?
+PATI: ¿Qué volá, Carlitos? ¿Cómo está la cosa?
+PATI: Todo bien. Y tú, ¿qué?
+CARLITOS: Bien, bien, la escuela me va bien. ¿Y tú? en la escuela, ¿cómo… cómo te va?
+PATI: Bien… ya casi terminamos la técnica esa de higiene, pero bueno, vamos a ver en qué para. Quiero seguir estudiando… ya veremos.

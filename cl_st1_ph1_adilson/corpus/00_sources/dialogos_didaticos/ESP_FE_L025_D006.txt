@@ -1,0 +1,12 @@
+﻿Guía de turistas: ¡Buenas noches a todos!
+Turistas: ¡Buenas noches!
+Guía de turistas: Mañana vamos a ir a la Praia de Copacabana.
+Turista 1: ¿A qué hora salimos?
+Guía de turistas: A las 8:30 de la mañana. Por favor, no se retrasen.
+Turista 2: ¿Nos vamos en autobús o en furgonetas?
+Guía de turistas: En autobús. A las 2:30, a la tarde visitaremos el Palácio do Catete.
+Turista 3: ¿Se puede sacar fotos allá?
+Guía de turistas: Sí, claro.
+Turista 1: ¿A qué hora regresamos al hotel?
+Guía de turistas: A las 6:00 de la tarde. Nos vemos mañana por la mañana en la recepción del hotel a las 8:30.
+Turistas: ¡Hasta mañana!

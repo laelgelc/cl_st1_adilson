@@ -1,0 +1,20 @@
+﻿
+Â¿CuÃ¡nto cuesta una habitaciÃ³n? 
+
+En agosto. Â¿Es temporada alta o baja? 
+
+Doble. Â¿Son camas separadas o de matrimonio? 
+
+Vale, una habitaciÃ³n doble con cama de matrimonio. 
+
+Â¿IVA incluido? 
+
+No seÃ±or, 250 euros mÃ¡s un 7% de IVA. 
+
+Depende, Â¿en temporada alta o baja? 
+
+250 euros con desayuno incluido, es decir, alojamiento y desayuno. 
+
+Agosto es temporada alta. Â¿HabitaciÃ³n simple o doble? 
+
+Todas las habitaciones tienen cama de matrimonio.

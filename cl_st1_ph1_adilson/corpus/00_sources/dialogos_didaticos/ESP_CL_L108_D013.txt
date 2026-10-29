@@ -1,0 +1,17 @@
+﻿A: ¡Buenas tardes!
+B: ¡Buenas tardes! Necesito comprar un vestido. ¿Tienen vestidos?
+A: Si claro. Tenemos vestidos formales e informales. ¿Cuál desea?
+B: Formal. ¿De qué materiales tiene?
+A: Tenemos de seda, terciopelo y gasa.
+B: De gasa está bien. ¿De qué colores tiene?
+A: Tenemos azul, verde, negro y rojo.
+B: Negro, por favor.
+A: Bien. ¿Qué talla necesita: chica, mediana, grande o extra gran-de?
+B: Mediana, por favor. ¿Cuánto vale el vestido?
+A: Vale $800.00
+B: ¿Aceptan tarjetas de crédito?
+A: Por supuesto.
+B Muy bien. Aquí tiene mi tarjeta.
+A: Gracias por su compra. Aquí tiene su vestido.
+B: Muchas gracias.
+

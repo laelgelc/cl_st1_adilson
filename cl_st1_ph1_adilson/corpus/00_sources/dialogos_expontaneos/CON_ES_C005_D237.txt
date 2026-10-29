@@ -1,0 +1,8 @@
+﻿E: ¿y usted cómo se la lleva con su familia sus padres hermanos primos?
+I: eeh muy bien eeh somos tratamos de ser una familia unida en todos los aspectos
+E: ¿y usted está casado?
+I: no
+E: ¿y tiene novia?
+I: no
+E: ¿y tiene hijos?
+I: no

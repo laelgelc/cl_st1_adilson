@@ -1,0 +1,8 @@
+﻿Servicio de entregas. ¿En qué puedo servirle?
+Necesito enviar unos documentos.
+Su nombre y apellido, por favor.
+Diego Crespo.
+Dirección de la entrega.
+Bulevar España 65, departamento 2.° A, en Pocitos.
+¿Quién lo recibe?
+Lo recibe Amelia López.

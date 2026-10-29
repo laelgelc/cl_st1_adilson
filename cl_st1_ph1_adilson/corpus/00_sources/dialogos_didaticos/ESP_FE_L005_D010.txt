@@ -1,0 +1,6 @@
+﻿¿Esta es una marca de zapatos?
+No, es una marca de ropa.
+¿Es italiana?
+No, es española.
+¿Es Zara?
+Sí, muy bien.

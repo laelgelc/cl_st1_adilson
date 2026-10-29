@@ -1,0 +1,6 @@
+﻿¿Cómo se llama tu personaje?
+Se llama María de nombre, y Dukakis de apellido.
+¿Es griega?
+Sí.
+¿Es tu novia?
+No, es una amiga.

@@ -1,0 +1,8 @@
+﻿? Buenos días, me gustaría hacer una devolución.
+? De acuerdo, el tique por favor.
+? Sí aquí tiene.
+? ¿Le gustaría otra talla de pantalones o la devolución del dinero?
+? La devolución del dinero, por favor.
+? Sin problema, aquí tiene.
+? Muchas gracias.
+

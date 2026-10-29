@@ -1,0 +1,10 @@
+﻿Agente de Turismo: ¡Buenos días! ¿En qué puedo ayudarlo?
+Turista: Buenos días. Me gustaría ir al Farol da Barra. ¿Cómo hago para llegar allá?
+Agente de Turismo: Es fácil. Tome el autobús en dirección a Barra, que pasa aquí.
+Turista: Quiero quedarme en Salvador hasta mañana. ¿Qué es lo que me recomienda conocer?
+Agente de Turismo: En nuestra ciudad hay muchos sitios turísticos. Usted puede ir al Pelourinho
+y después comprar algunos recuerdos típicos en el Mercado Modelo.
+Turista:
+¡Qué buena sugerencia! ¡Gracias!
+Agente de Turismo:
+De nada.

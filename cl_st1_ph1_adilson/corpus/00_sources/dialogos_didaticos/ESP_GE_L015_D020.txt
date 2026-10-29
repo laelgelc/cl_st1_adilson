@@ -1,0 +1,16 @@
+﻿Laura: Oye, ¿te gusta la música?
+Carlos: Si, me encanta la música. ¿Y a ti?
+Laura: Sí, también me gusta mucho la música. ¿Cuál es tu género musical favorito?
+Carlos: Mi género favorito es el rock. Me encanta la energía y la pasión que tiene este género.
+Laura: Sí, el rock es un género muy poderoso y emocional. A mí me gusta mucho la música latina, especialmente la salsa y el merengue.
+Carlos: Si, la música latina es muy alegre y contagiosa. ¿Tocas algún instrumento musical?
+Laura: Sí, toco la guitarra desde hace unos años. Me gusta mucho tocar y
+componer mis propias canciones. Carlos: ¡Qué bien! Yo también toco un poco la guitarra, pero no soy tan bueno como tú. ¿Has ido a muchos conciertos?
+Laura: Sí, he ido a varios conciertos. Es una experiencia increíble ver a tus artistas favoritos en vivo y sentir toda la energía de la música.
+Carlos: Totalmente de acuerdo. ¿Crees que la música puede afectar nuestro estado de ánimo?
+Laura: Sí, definitivamente. La música tiene el poder de hacernos sentir diferentes emociones, ya sea alegría, tristeza o nostalgia. Es por eso que es importante escuchar música que nos haga sentir bien y nos traiga buenos recuerdos.
+Carlos: Sí, es verdad. La música es una parte importante de nuestra vida y puede influir en nuestro estado de ánimo y en nuestra forma de ver el mundo.
+Laura: Sí, estoy de acuerdo. Ha sido muy interesante hablar contigo sobre la música.
+Carlos: Me gusta mucho hablar sobre la música y cómo nos hace sentir.
+
+

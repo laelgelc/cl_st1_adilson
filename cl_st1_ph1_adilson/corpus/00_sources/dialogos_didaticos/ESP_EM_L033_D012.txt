@@ -1,0 +1,20 @@
+﻿Cristina: Dígame.
+Juan: Cristina, ¡hola! Habla Juan.
+Cristina: ¡Hola, Juan! ¿Qué dices?
+Juan: Guapa, ¿te apetece ir al cine esta noche?
+Cristina: ¡Ah! Me encantaría. ¿Y qué ponen?
+Juan: Pues... Hay una peli de un director argentino. Se llama Derecho de familia y es una coproducción argentino-española. ¿Qué te parece?
+Cristina: Mmm... creo que he leído algo por ahí. Espera que busco en Internet...
+Juan: Fíjate de qué se trata...
+Cristina: A ver... Ya la he encontrado... Es una comedia dramática...
+Juan: ¿Y qué dice?
+Cristina: Te leo: "Ariel Perelman es abogado
+como su padre, pero a los dos los separa una gran diferencia. Mientras que el padre es el representante legal de un pintoresco grupo de delincuentes, Ariel está más volcado a los espiritus... En otras palabras, trabaja para un bufete que representa a clientes que están ausentes, con lo que su vida resulta bastante aburrida".
+Juan: Mmm...
+Cristina: Hay más: "Las cosas, sin embargo,
+empiezan a mejorar. Ariel se casa con una hermosa mujer que anteriormente le había parecido inaccesible. Con ella tiene un hijo y su confianza en sí mismo empieza a crecer. En medio de todos estos cambios, su padre se le aparece con un asunto urgente. Ariel se ve obligado a tomar una decisión que cambiará su vida por completo. ¿Será capaz de obrar con independencia o permanecerá para siempre a la sombra de su anciano padre?".
+Juan: Bueno... Me parece interesante, ¿y a ti?
+Cristina: ¿A qué hora la ponen?
+Juan: A las siete y media. ¿Qué tal si paso por tu oficina a las siete?
+Cristina: Hombre, estupendo. Te espero.
+

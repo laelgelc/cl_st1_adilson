@@ -1,0 +1,44 @@
+﻿A: oye y tú tienes la dirección para escribirle a Eddie ?
+B: sí , si la mandó en el sobre , sí .
+A: ya .
+B: si la mandó en el sobre , sí .
+B: yo les voy a escribir a ustedes mañana .
+A: por .
+A: ya .
+B: no , porque ahora ya se hizo oscuro , está lloviendo fuer- .
+A: oscur- .
+B: te aquí .
+A: oh .
+B: y ustedes tienen mucho ca- sí .
+A: porque sabes que nosotros tenemos que escribirle a Eddie y mandar las cartas al Lago Salado y de ahí se las .
+B: sí , ahí trae su dirección y todo , sí ahí .
+A: pero ahí te dio la dirección de Chile él ?
+B: sí .
+A: ah .
+B: la dirección de Chile pero va primero al Lago Salado , no ?
+A: no , no , si te la dio así , yo te voy a dar la dirección .
+A: tienes un lápiz ahí ?
+B: a ver , un segundito , eh ?
+B: &=noise .
+B: sí ?
+A: tienes que , tienes que ponerle elder@s:eng .
+B: sí .
+A: Edward Morelli .
+B: sí .
+A: es eh .
+A: misión Chile .
+B: cómo ?
+A: misión .
+B: ah .
+A: chile , Santiago Norte .
+B: sí .
+A: casilla ciento setenta y dos .
+B: casilla .
+A: ciento setenta y dos .
+B: sí .
+A: Santiago veintinueve .
+B: sí .
+A: chile .
+B: sí .
+A: esa es la la dirección .
+B: ah , ya , gracias , sí , Santiago nor- .

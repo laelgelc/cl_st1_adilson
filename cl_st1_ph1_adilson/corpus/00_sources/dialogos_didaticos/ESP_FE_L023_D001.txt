@@ -1,0 +1,12 @@
+﻿Recepcionista: ¡Buenos días, señora! Por favor, ¿cómo se llama usted?
+Paciente: Carmen Gómez.
+Recepcionista: ¿Cómo?
+Paciente: Carmen Gómez. G-O-M-E-Z.
+Recepcionista: ¿Tiene usted seguro internacional de salud?
+Paciente: Sí. ¡Aquí tiene!
+(Algunos minutos después.)
+Recepcionista: Por favor, ¿podría firmar este formulario?
+Paciente: Sí, ¡claro!
+Recepcionista: Con su permiso, voy a ponerle esta pulsera de identificación en la muñeca. Por favor, aguarde aquí que pronto le vamos a llamar.
+Paciente: ¡Gracias!
+Recepcionista: ¡De nada!

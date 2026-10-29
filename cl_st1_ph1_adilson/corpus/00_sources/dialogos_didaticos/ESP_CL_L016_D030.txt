@@ -1,0 +1,14 @@
+﻿
+Buenas noches. Soy Ana Morales y tengo una reserva a mi nombre. 
+
+Buenas noches, seÃ±ora. Ana Morales me ha dicho, Â¿verdad? 
+
+SÃ­, aquÃ­ tiene la confirmaciÃ³n de la reserva, una habitaciÃ³n doble. 
+
+Hmm... Lo siento, pero no tengo registrada su reserva. Â¿CuÃ¡ndo la hizo? 
+
+Â¿CÃ³mo? Â¡No puede ser! La hice hace mÃ¡s de un mes. Â¿No puede controlar otra vez? 
+
+SÃ­, sÃ­, lo estoy haciendo, pero no estÃ¡ registrada. Pero no se preocupe, porque tenemos habitaciones libres. Seguro que ha sido un problema del sistema de reservas. Lo siento mucho. Â¿Puede completar el formulario? 
+
+De acuerdo.

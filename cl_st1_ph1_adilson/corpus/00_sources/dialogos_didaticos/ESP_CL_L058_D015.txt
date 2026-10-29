@@ -1,0 +1,5 @@
+﻿El café solo.
+¿Te gusta mucho tomar café solo?
+No, lo contrario.
+¡Ah!, es una bebida que no te gusta nada.
+Sí, exacto.

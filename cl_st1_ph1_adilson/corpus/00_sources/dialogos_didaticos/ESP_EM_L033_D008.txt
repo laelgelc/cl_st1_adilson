@@ -1,0 +1,16 @@
+﻿Dependienta: ¡Hola! ¿Están buscando algo en especial?
+Ana: ¡Hola! Tenemos la fiesta de fin de curso y no sabemos qué tipo de vestido usar.
+Renata: ¿No será mejor un vestido de fiesta oscuro?
+Dependienta: Bueno, la ropa oscura le queda bien a todo el mundo.
+Ligia: Pero yo quería algo claro...
+Dependienta: Ustedes son muy jóvenes. Creo que los colores claros les quedarían mejor. Yo no se los recomiendo a las mujeres que son más bien gorditas...
+Ana: A ver, ¿qué nos puede mostrar?
+Dependienta: Bueno, acompáñenme. Miren qué lindo este vestido beige con rayitas finitas bordadas en dorado. Además, las rayas verticales estilizan la figura... Es ideal para ti que no eres tan alta, pero no para ella que es muy alta y delgada...
+Renata: Y entonces, para mí, ¿no tiene algo que tenga el mismo tipo de rayitas bordadas pero en horizontal?
+Dependienta: Fíjate en este modelo gris clarito con algunos bordados horizontales en plateado..
+Renata: ¡Qué lindo! ¿Me lo puedo probar?
+Ligia: Esperen, chicas, que falto yo.
+Dependienta: Para ti, te sugeriría algo en celeste para destacar tu pelo rubio y tus ojos azules. A ver... ¿qué tal este, sin breteles y también con detalles bordados, que están muy de moda?
+Ligia: ¡Me encantó!
+Dependienta: Bueno, ¿vamos a los probadores?
+

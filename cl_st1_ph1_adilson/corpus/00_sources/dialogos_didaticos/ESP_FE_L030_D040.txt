@@ -1,0 +1,22 @@
+﻿Diego: Sí, dígame.
+Diego: ¡Hola, Charo! Soy Diego, ¿qué tal por ahí?
+Charo: Bien, muy bien, ¿y tú, qué tal?
+Diego: Bueno... estoy agotado, no he parado en todos estos días, tengo unas ganas de llegar al hotel...
+Charo: Pues por aquí también andamos muy liados, tenemos muchísimo trabajo, pero todo va bien.
+Diego: Muy bien, entonces le digo que los contratos son urgentes.
+Charo: Exacto. Por cierto, ¿has visto a Begoña?
+Diego: Sí, la he visto esta mañana. Me ha preguntado si necesitas para el viernes los programas de todos los cursos o sólo de algunos. Dice que ha tenido mucho trabajo esta semana...
+Charo: Ya, ya lo sé. Dile que no, que todos no, pero que necesito los programas para los cursos de marketing.
+Diego: Entonces, sólo para los cursos de marketing, muy bien.
+Charo: Me alegro, me alegro. Oye, ¿has recibido mi mensaje, verdad?
+Diego: Sí, claro. Ya he hablado con los del Ministerio, con Enrique Punzano, y me ha dicho que no hay ningún problema y que podéis tener la reunión el martes 24 a las 10 de la mañana.
+Charo: Ah, sí, he hablado con Pedro del Departamento de Personal. Me ha preguntado cuándo comienza la campaña. Dice que no es necesario contratar a nadie antes de la promoción, pero que necesita saber algo pronto.
+Diego: Dile que la promoción empieza el mes que viene. Así que ya puede empezar a hacer los contratos.
+Charo: Oye... ¿y lo de los contratos cómo va?
+Diego: Muy bien, entonces le digo que los contratos son urgentes.
+Charo: Exacto.
+Diego: Muchas gracias, Charo, eres un sol. Ahora te dejo, que me están esperando. Te veo el viernes, ¿vale?
+Charo: Vale, venga, que te vaya bien.
+Diego: A ti también, ¡hasta luego!
+Charo: Adiós, ¡hasta luego!
+

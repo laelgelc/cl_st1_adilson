@@ -1,0 +1,11 @@
+﻿Lola: ¡Diga!
+Julia: ¿Lola?
+Lola:-Sí,  ¿quién es?
+Julia: Soy Julio
+Lola: Julio… Julio… espera… ¡Ah!, ahora caigo. ¿Eres el hermano de Carmen?
+Julio: - Sí, sí, y me pidió que te mandara recuerdos.
+Lola: - Ya hace algún tiempo que no nos vemos. ¿Y Carmen, cómo está?
+Julio: - Bien, muy bien. Bueno, te llamo para invitarte a un encuentro entre amigos, el jueves, a las ocho, en la cafetería Los Amigos. Sabes dónde es, ¿no?
+Lola: - Sí, es una de mis favoritas.
+Julio: - Será una alegría verte. Te esperamos, ¿vale?
+Lola: - Claro que sí, hasta el jueves.

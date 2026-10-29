@@ -1,0 +1,4 @@
+﻿¿Has enviado el presupuesto al Sr. Peris?
+No, he estado ocupado toda la mañana.
+Pues envíaselo hoy mismo...
+No se lo envíes todavía, quiero revisarlo.

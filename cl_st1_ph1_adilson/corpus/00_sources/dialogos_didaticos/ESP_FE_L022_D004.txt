@@ -1,0 +1,11 @@
+﻿Turista: Disculpe, ¿podría encender el aire acondicionado?
+Conductor: Sí, claro.
+Turista: Hace mucho calor hoy, ¿no?
+Conductor: Realmente, estos días han sido muy calurosos. ¿Le gusta el calor?
+Turista: Sí, me gusta. ¡Me gusta mucho el verano!
+Conductor: A mí también. Los días son muy calurosos y por las noches refresca un poco.
+Turista: ¿También podría poner algo de música?
+Conductor: ¿Algún tipo de música preferida?
+Turista: Sí, quiero oír música popular brasileña.
+Conductor: Tengo un CD con música brasileña aquí.
+Turista: ¡Qué bien!

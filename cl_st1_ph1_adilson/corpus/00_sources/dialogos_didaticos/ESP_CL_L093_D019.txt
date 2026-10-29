@@ -1,0 +1,23 @@
+﻿Pablo: Corre, corre, que no llegamos.
+Mercedes: Voy, voy. Adelántate tú y vete a la ventanilla.
+Pablo: ¿Que vaya adónde?
+Mercedes: Al mostrador de facturación, no te pongas nervioso.
+Pablo: Vale, dame el carné.
+Mercedes: ¡No lo tengo!
+Pablo: ¿Que qué?
+Mercedes: Que no lo tengo. Que lo tenía en la mano y ya no está.
+Pablo: Corre, vamos a explicárselo a la azafata. Mire, perdone, es que mi mujer no encuentra el carné y tenemos que facturar el equipaje y...
+Azafata: Lo siento, no pueden embarcar sin presentar el DNI o el pasaporte.
+Mercedes: Si lo tenía... Voy a volver sobre mis pasos, se me habrá caído.
+Pablo: Se me habrá caído, se me habrá caído. Un día va a perder la cabeza...
+Azafata: Perdonen, pero desgraciadamente disponen ustedes solo de diez minutos antes de que cerremos el mostrador.
+Pablo: ¿Que disponemos de cuánto tiempo?
+Mercedes: Aquí está, aquí está. Ya lo he encontrado. Se me ha debido de caer cuando he dejado el carrito.
+Pablo: Tome, los carnés y la confirmación de compra.
+Azafata: Su tarjeta, por favor.
+Pablo: ¿Mi qué?
+Azafata: La tarjeta de crédito con la que ha pagado los billetes.
+Pablo: Ah, sí, tome.
+Azafata: ¿Sus maletas son estas?
+Pablo: Sí, sí, las dos. Esto lo llevamos como equipaje de mano.
+Azafata: Muy bien, aquí tienen el billete y su documentación. Que tengan un buen viaje.

@@ -1,0 +1,16 @@
+﻿Lucas: Oye, ¿te gustan las series y películas?
+María: Si, me encanta ver series y películas. ¿Y a ti?
+Lucas: Sí, también me gusta mucho. ¿Cuál es tu serie favorita?
+María: Mi serie favorita es "Friends". Me encanta el humor y la química entre los personajes.
+Lucas: Sí, "Friends" es una gran serie. A mí me gusta mucho "Game of Thrones". Me encanta la trama y los personajes.
+María: Si, "Game of Thrones" es una serie muy emocionante. ¿Qué película te ha gustado más últimamente?
+Lucas: Recientemente vi la película "Parasite" y me encantó. La trama es muy interesante y la actuación es excelente..
+María: Sí, también vi "Parasite" y me pareció una gran película. ¿Has visto alguna serie o película en otro idioma que te haya gustado?
+Lucas: Si, vi una serie alemana llamada "Dark" y me pareció increíble. La trama es muy compleja y la producción es excelente.
+María: Sí, he oído hablar de "Dark". También vi una serie española llamada "La Casa de Papel" que me gustó mucho. La trama es muy emocionante y los personajes son interesantes.
+Lucas: Sí, "La Casa de Papel" es una gran serie. ¿Crees que las series y películas pueden influir en nuestra forma de pensar y ver el mundo?
+María: Sí, definitivamente. Las series y películas pueden mostrarnos diferentes perspectivas y hacernos pensar en temas importantes. Es por eso que es importante elegir sabiamente lo que vemos.
+Lucas: Si, es verdad. Bueno, ha sido muy interesante hablar contigo sobre las series y películas, María. Gracias por la conversación.
+María: ¡Gracias a ti, Lucas! Siempre es divertido hablar sobre las cosas que nos gustan y cómo nos afectan en nuestras vidas.
+
+

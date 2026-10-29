@@ -1,0 +1,9 @@
+﻿Señorita Pérez: Señor López, el señor Domínguez dice que no lo puede atender ahora.
+Señor López: ¿Cómo dice?
+Señorita Pérez: Lamentablemente está en una reunión muy importante y...
+Señor López: Dígale ahora mismo que ninguna reunión es más importante que hablar con el nuevo dueño de la empresa.
+Señorita Pérez: Sí, inmediatamente, señor López.
+[...]
+Señorita Pérez: Señor Domínguez, discúlpeme, pero está en la línea el señor López, que dice que es el nuevo dueño de la empresa.
+Señor Domínguez: ¿Cómo no me lo ha dicho desde un principio!? Páseme la llamada ahora mismo.
+

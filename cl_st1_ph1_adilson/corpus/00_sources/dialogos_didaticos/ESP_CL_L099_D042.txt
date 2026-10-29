@@ -1,0 +1,15 @@
+﻿Mónica: ¡Hola! ¿Te pasa algo, Susana?
+Susana: ¡Hola, Mónica!... ¿Por qué lo preguntas?
+Mónica: Es que no te ves muy bien...
+Susana: A decir verdad, estoy pésima.
+Mónica: ¿Pero qué te pasa?
+Susana: Me siento débil, sin fuerzas, como afiebrada.
+Mónica: Y la cabeza, ¿te duele?
+Susana: No, lo que me duele es la nuca. También me duelen las piernas, como si hubiera hecho mucha gimnasia.
+Mónica: ¿Tienes náuseas?
+Susana: Sí, un poco y de a ratos tengo mareos.
+Mónica: ¿También te duelen las articulaciones?
+Susana: Sí, en realidad no hay parte del cuerpo que no me duela.
+Mónica: Mira, no sé qué podrás tener, pero tienes que ir ya mismo al médico.
+Susana: ¿Te parece?
+Mónica: Estoy segurísima. Y no te preocupes que yo te acompaño.

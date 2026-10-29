@@ -1,0 +1,5 @@
+﻿A1: señor Amaniel , feliz cumpleaños .
+B1: cómo está Janecita , que gusto .
+A1: mucho gusto también de conversar con usted , cómo está pasando su cumpleaños .
+B1: &=laugh ya , gracias , muy amable , Janecita linda , siempre te tengo en mi corazón presente .
+A1: muchas gracias .

@@ -1,0 +1,10 @@
+﻿CHICA: Esta noche voy a cenar con Luis y sus padres y no sé qué ponerme.
+MADRE: ¿Adónde vais?
+CHICA: Al italiano que han abierto en la plaza Espronceda.
+MADRE: Pues, creo que debes ir arreglada pero no muy elegante.
+CHICA: ¿Qué te parece el vestido verde que me regaló la abuela?
+MADRE: Demasiado informal. Yo me pondría unos pantalones con una americana.
+CHICA: ¿Quieres que vaya con traje?
+MADRE: No, unos tejanos y una americana que no sea muy formal.
+CHICA: Vale, voy a ducharme, he quedado en una hora.
+

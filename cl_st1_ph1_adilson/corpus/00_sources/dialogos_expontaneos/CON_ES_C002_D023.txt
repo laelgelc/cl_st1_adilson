@@ -1,0 +1,9 @@
+﻿B: qué es de Georgy ?
+A: ahí anda Georgy .
+B: poco lo ves +...
+A: está trabajando en un , en un restaurant , como mesero .
+B: ah .
+B: &=background:speech .
+A: hace tiempo que está ahí .
+B: ah .
+B: mmm .

@@ -1,0 +1,9 @@
+﻿Buenos días, doctor.
+Buenos días, ¿qué le pasa?
+Estoy mareado y tengo dolor de cabeza.
+¿Tienes fiebre?
+Sí, tengo un poco de fiebre y estoy muy cansado.
+¿Tienes tos?
+No, tos, no, pero también duele un poco la garganta.
+Bueno, tiene que estar unos días en casa y descansar. Puede tomar paracetamol para la fiebre, pero nada más.
+Muchas gracias, doctor.

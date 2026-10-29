@@ -1,0 +1,8 @@
+﻿Gianpietro: Disculpe, ¿usted es de Mediterránea?
+Empleada de la compañía aérea: Sí. ¿Qué vuelo tiene usted?
+Gianpietro: 7246, a Roma, 16:30.
+Empleada de la compañía aérea: Fue suspendido. Estamos avisando a todos los pasajeros que en dos horas les informarán sobre la reubicación en otros vuelos.
+Persona 3: ¿Y vamos a viajar hoy mismo?
+Empleada de la compañía aérea: Hoy ya no creo que sea posible...
+Persona 3: ¡Cómo que hoy no!
+Empleada de la compañía aérea: Señor, si tienen que viajar mañana, la compañía los indemniza y les paga la estadía; más no puedo decirles.

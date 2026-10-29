@@ -1,0 +1,24 @@
+﻿Mi PC, servicios de sistemas, informática y telecomunicaciones. Buenas tardes.
+Buenas tardes, señorita. Les llamo porque necesito un servicio de asistencia técnica.
+ Cómo no, señora. ¿Es asesoramiento o reparación?
+Asesoramiento.
+Enseguida le paso con nuestro técnico.
+Muchas gracias.
+Habla Ovidio Camacho. ¿En qué puedo servirle?
+Buenas tardes. Me llamo Olga. Resulta que mi marido instaló nuestro nuevo ordenador y estoy con unos problemas de configuración. Cuando descargo archivos me gusta que el sistema me consulte sobre qué quiero hacer con ellos. De manera involuntaria, desactivé la opción de preguntarme antes de descargar, y ahora, cada vez que descargo archivos "zip", bajan automáticamente a la carpeta de archivos temporales y se abren. ¿Qué tengo que hacer?
+Para corregir eso es necesario que vaya a "Herramientas>Opciones de carpeta Tipos de archivo", seleccione el tipo "zip" y elija "Avanzadas" en "Se abre con" (justo abajo, en el cuadro de diálogo). Allí, con el ratón, póngale una tilde a "Confirmar apertura tras descarga".
+Ya está. Otra cosita: artes de formatear mil disco rigido pase a un CD las carpetas donde Outlook Express almacenaba mi identidad y correos enviados, recibidos, borrador etc. Instalé una nueva versión, sólo que ahora, al intentar copiar los archivos, el programa me indica un error de memoria y se cuelga. ¿Hay alguna forma de recuperar esos correos? 
+Es bastante simple. Probablemente los recupere. Sus archivos quedaron como de "Sólo lectura" al guardarlos en un CD-ROM; vaya a "Propiedades de los archivos DE", pulse para cambiar el atributo de lectura solamente. Tal vez sea mejor hacer una copia en su disco duro.
+¿Puede usted esperar que lo haga?
+A ver.
+Perfecto, ahora funciona. Gracias.
+¿Es todo?
+No, por favor. Quiero grabar un archivo en un disquete, pero me sale un mensaje que dice que no se puede.
+Probablemente esté con problemas el disquete. Es bueno que verifique si está liberada la Lengüeta que impide grabar algo en el disquete.
+ Ah, claro. ¡Qué tonta! Una cosita más: quiero que la Internet entre automáticamente a determinada página.
+¿Quiere que le envíe un guión con herramientas de Internet y cómo accionarlas?
+Enviémelo por favor.
+Sí, por supuesto. Sólo necesito su dirección electrónica.
+ Es dataolga@espanol.com.
+Perfecto. Se lo envío pronto, que tenga un buen día.
+Gracias, hasta Luego.

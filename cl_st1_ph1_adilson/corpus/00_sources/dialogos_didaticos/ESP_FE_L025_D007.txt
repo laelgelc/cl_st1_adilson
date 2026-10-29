@@ -1,0 +1,8 @@
+﻿Turista: Perdón, ¿hay una estación de metro cerca de aquí?
+Peatón: Sí, hay una en la Avenida Paulista, es la Estação Brigadeiro.
+Turista: ¿Cómo hago para ir hasta allá?
+Peatón: Siga usted todo recto, más o menos dos cuadras. La Estação Brigadeiro está a su izquierda, al lado del banco.
+Turista: Sigo todo recto, más o menos dos cuadras y la estación del metro estará a mi izquierda. ¿Entendí bien?
+Peatón: Sí, muy bien.
+Turista: Muchas gracias.
+Peatón: De nada.

@@ -1,0 +1,17 @@
+﻿Cecilia: Música pop.
+Conductora: ¿Lecturas?
+Cecilia: El periódico todos los días y suelo leer novelas policiales y novelas históricas.
+Rafael: Lo que más leo son historietas, pero también libros de administración.
+Conductora: ¿Televisión o Internet?
+Cecilia: Internet: todos los días leo los periódicos y me entero de las noticias del mundo entero.
+Rafael: Los dos. La televisión para ver los partidos. Internet para chatear con amigos.
+Conductora: ¿Actividad física?
+Rafael: Juego al fútbol los lunes y los miércoles y todas las mañanas voy al gimnasio.
+Cecilia: Voy a correr al parque todos los días y a veces juego al tenis con algunos amigos.
+Conductora: ¿lr a exposiciones o hacer compras?
+Rafael: Muy de vez en cuando voy a alguna exposición, pero prefiero hacer compras.
+Cecilia: Hacer compras, obviamente.
+Conductora: Finalmente, si salen de la ciudad...
+Cecilia: Una o dos veces por mes voy al campo, a la casa de mis tíos, a descansar un poco del ruido de la ciudad.
+Rafael: Voy a la playa o a conocer lugares nuevos.
+

@@ -1,0 +1,8 @@
+﻿Ana: Oye, Fernando, ¿puedes ir al colmado a comprar algunas cosas para la merienda?
+Fernando: Sí, mamá. ¿Necesitas muchas cosas?
+Ana: Algunas. Es que a la tarde vienen la tía Pepa y tus primos a merendar con nosotros.
+Fernando: ¡Fantástico! ¿Y qué compro?
+Ana: Bueno, una botella de leche y medio kilo de queso
+Fernando: ¿Y puedo comprarme unos caramelos?
+Ana: Sí, claro. ¿Vas a pie o en bici?
+Fernando: En bici , es más rápido.

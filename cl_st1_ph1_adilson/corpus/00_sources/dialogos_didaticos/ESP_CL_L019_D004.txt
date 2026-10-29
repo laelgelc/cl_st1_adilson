@@ -1,0 +1,6 @@
+﻿Buenos días, ¿cómo se llama?
+Alberto Benito.
+¿"Benito" es nombre o apellido?
+Es el apellido.
+¿De dónde es usted?
+Soy argentino.

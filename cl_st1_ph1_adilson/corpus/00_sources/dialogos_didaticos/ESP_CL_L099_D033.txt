@@ -1,0 +1,14 @@
+﻿Conductora: Radio Clave quiere mostrarte cuáles son las preferencias de los jóvenes hoy para su tiempo libre. Para eso hoy va a entrevistar a dos estudiantes universitarios: Rafael y Cecilia.
+¡Hola, chicos!
+Rafael y Cecilia: ¡Hola!
+Conductora: El cuestionario es corto y bien directo.
+¿Empezamos?
+Rafael y Cecilia: Bueno...
+Conductora: Un fin de semana perfecto...
+Rafael: Salir con amigos, ver los partidos de fútbol por la tele o ir a la cancha...
+Cecilia: Salir de compras con mis amigas, ir a algún recital, ir a bailar...
+Conductora: ¿Y si están en casa?
+Rafael: Escuchar música, leer un buen libro.
+Cecilia: Me encanta cocinar y escuchar música.
+Conductora: ¿Música que escuchan?
+Rafael: Rock, siempre rock. A veces, un poco de jazz no viene nada mal.

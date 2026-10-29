@@ -1,0 +1,35 @@
+﻿B1: tal vez llamás a la Delia y decile que ya recibimos una caja con ropa +...
+A: okey .
+B1: y le preguntás por el niño que estaba bien enfermo .
+A: sí .
+A: lo tenían .
+A: yo también voy este fin de semana a verlos , papá .
+B1: ay , qué bueno .
+A: voy a ir , me voy a ir a pasar el +...
+B1: me gustaría ir con vos .
+A: que quiere ir conmigo .
+A: &=laughter .
+B1: &=laughter claro .
+A: &=laughter sólo , que se vengan para acá y podemos ir juntos .
+B1: estamos planeando también , para ir a verte un día de estos .
+A: deberían de venirse +...
+B1: a ver cuando , junio .
+B1: &=bg .
+B1: Julio Julio .
+A: que lástima .
+A: que lástima que no se +...
+B1: Julio , oiga , porque tiene que esperar la cuajada y todas esas cosas .
+A: ay , sí +...
+B1: el pinol , el xxx &=laughter .
+A: que no vaya a traer crema , dígale , de nada de eso , que , eso no- .
+B1: de nada quiere de comida , dice .
+A: de crema , no .
+A: pero cuajada tal vez sí , seca .
+B1: cuajada seca , rica de pita +...
+A: y cajetas y esas +...
+B1: dulces +...
+A: y esas cosas .
+A: pero que no se preocupe .
+B1: bueno .
+A: dígale .
+B1: bueno , pues .

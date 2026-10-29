@@ -1,0 +1,8 @@
+﻿Gatalina: Hola, Sebastián, ¿qué tal?
+Sebastián: Hola, Catalina. Bien. ¿Y tú?
+Catalina: Muy bien. Este es mi primo Luis
+Sebastián: Mucho gusto.
+Luís: Hola, ¿qué tal?
+Sebastián: ¿Vives aquí?
+Luís: No, vivo en la capital.
+

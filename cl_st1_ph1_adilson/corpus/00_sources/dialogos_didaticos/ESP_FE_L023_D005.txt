@@ -1,0 +1,10 @@
+﻿Enfermera: ¡Buenos días, señora Gómez! Soy la enfermera Helena. Siéntese, por favor.
+¿Es usted alérgica a alguna medicina?
+Paciente: No.
+Enfermera: ¿Puedo ponerle una medicación intravenosa?
+Paciente: ¡Claro!
+Enfermera: Usted sentirá un pinchazo. Intente relajarse.
+Paciente: Sí.
+Enfermera: Enseguida el médico vendrá a verla de nuevo.
+Paciente: ¡Muchísimas gracias!
+Enfermera: ¡De nada!

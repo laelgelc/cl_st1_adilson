@@ -1,0 +1,11 @@
+﻿Cesar: Francisco, ¿Fuiste alguna vez a la Patagonia?
+Francisco: Sí, he estado allí el año pasado.
+Cesar: Este año salgo de vacaciones y me gustaría saber las principales ciudades.
+Francisco: Bueno, es un viaje fantástico pero necesitas por lo menos una semana.
+Cesar: Tengo un mes de vacaciones.
+Francisco: Las principales ciudades son Neuquén en la región precordillerana y Comodoro Rivadavia sobre el mar.
+Cesar: Y de la parte chilena, ¿sabes algo?
+Francisco: Un amigo mío fue a la región de los lagos que es igualmente bellísima
+Cesar: Voy a buscar más informaciones en Internet.
+Francisco: ¡Qué tengas un buen viaje!
+

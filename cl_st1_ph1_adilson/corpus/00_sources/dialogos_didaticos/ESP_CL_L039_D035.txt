@@ -1,0 +1,13 @@
+﻿Perdone, ¿puede decirme dónde está el mostrador de Aerolíneas Pegaso?
+Sí, es aquel del fundo, el de color rojo.
+Buenos días, ¿es este el mostrador para el vuelo a Barcelona?
+Sí, es este. ¿Esas son sus maletas?
+Sí, estas dos son mías, pero voy a facturar sólo la grande.
+¿Prefiere ventana o pasillo?
+Ventana, por favor. ¿A qué hora sale el avión?
+En principio, la hora programada es a las 09:15, pero creemos que hay retraso a causa de la niebla. 
+¿Sabe cuánto tiempo se va a retrasar la salida?
+Una hora más o menos.
+¡Uf! Menos mal. 
+Bueno, pues aquí tiene su billete y la tarjeta de embarque. La puerta de embarque es la 5h y la salida estimada del vuelo, a la 10:40.
+Muchas gracias.

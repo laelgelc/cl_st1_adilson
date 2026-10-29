@@ -1,0 +1,16 @@
+﻿Agente de Viajes: ¡Buenas tardes! ¿En qué puedo ayudarle?
+Turista: Me puede dar algunas informaciones sobre los vuelos de São Paulo a Manaus.
+Agente de Viajes: Un momento, por favor. ¿Cuánto tiempo se va a quedar allá?
+Turista: Dos semanas.
+Agente de Viajes:
+¿Viaje redondo?
+Turista: Sí, por favor.
+Agente de Viajes: Hay vuelos todos los jueves a las 6:00.
+Turista: ¡Perfecto! ¿Cuánto tiempo dura el vuelo?
+Agente de Viajes: Tres horas y media.
+Turista: ¿Es un vuelo con escalas?
+Agente de Viajes:
+No. Es un vuelo directo.
+Turista: ¿Puedo reservarlo ahorita?
+Agente de Viajes: Sí, ¿para cuántas personas?
+Turista: Dos adultos.

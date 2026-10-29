@@ -1,0 +1,13 @@
+﻿Olivia: ¡Qué tall, soy Olivia.
+Alberto: ¡Hola!, yo soy Alberto.
+Olivia: ¡Hola, Alberto. ¿De dónde eres?
+Alberto: Soy de Colombia, ¿y, tú?
+Olivia: Yo soy de Australia.
+Alberto: Olivia, te presento a mi amigo Enrique.
+Enrique: ¡Qué tal, Olivia!
+Olivia: ¡Qué tal, Enrique!, ¿de dónde eres?
+Enrique: Soy de Chile.
+Alberto: Nos vemos mañana, Olivia.
+Enrique: Hasta mañana.
+Olivia: Nos vemos.
+

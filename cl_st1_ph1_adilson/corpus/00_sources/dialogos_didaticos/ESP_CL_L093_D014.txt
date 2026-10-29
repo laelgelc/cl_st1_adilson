@@ -1,0 +1,18 @@
+﻿Funcionaria: Buenos días, ¿en qué puedo ayudarle?
+Raúl: Buenos días. Mire, soy de la asociación de vecinos del barrio de San Lamberto, y vengo a pedir información para organizar una fiesta en el barrio.
+Funcionaria: ¿Una fiesta?
+Raúl: Sí, bueno, realmente lo que queremos es organizar un acto para las fiestas del barrio, que son dentro de un mes.
+Funcionaria: Bueno, pero tendrán que presentar una propuesta para ver si el Ayuntamiento la aprueba.
+Raúl: Sí, claro. Mire, la idea es hacer un concurso-degustación de platos en la plaza Mayor. La comida la prepararán los propios vecinos, que llevarán platos de distintos países y regiones. Y se dará un premio a la mejor receta.
+Funcionaria: ¿Y qué es lo que necesitan?
+Raúl: Pues solo necesitamos que el Ayuntamiento nos proporcione sillas y mesas para organizar la comida. Y también queremos que colabore con un premio en metálico para el ganador y que presente a algunos miembros para formar parte del jurado.
+Funcionaria: Bien, pues entonces lo que tienen que hacer es rellenar una instancia con sus propuestas.
+Raúl: ¿Puedo hacerlo ahora mismo?
+Funcionaria: Sí, claro. Mire, aquí tiene el impreso. Lo puede rellenar cualquiera de los vecinos. Aquí ponen el nombre, y aquí, donde pone Destinatario, tienen que escribir a qué administración se dirigen.
+Raúl: ¿Y qué pongo? ¿Ayuntamiento?
+Funcionaria: Bueno... mejor ponga Comisión de Festejos. Y aquí, donde pone Expone, escriban de forma breve qué es lo que quieren hacer.
+Raúl: Ah, bien.
+Funcionaria: Y aquí, donde pone Solicita, va lo que quieren pedir: lo de las sillas y las mesas, lo del premio y cualquier cosa que necesiten. Esto lo rellenan por duplicado: un ejemplar se lo queda la administración y otro el solicitante, es decir, usted.
+Raúl: Muy bien, gracias, muy amable. Ah, perdone, ¿sabe cuándo nos darán una respuesta?
+Funcionaria: Umm... Yo creo que les dirán algo cualquier día de la semana que viene, porque no se suele tardar más de cuatro o cinco días.
+Raúl: Muy bien, gracias. Pues si me deja un bolígrafo, relleno ahora mismo la instancia.

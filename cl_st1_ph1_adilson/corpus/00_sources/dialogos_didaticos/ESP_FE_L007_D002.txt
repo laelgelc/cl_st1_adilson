@@ -1,0 +1,11 @@
+﻿Quería cambiar dinero, señor.
+Sí, señora, ¿qué divisa quiere cambiar?
+Tengo euros y dólares.
+A ver... Al cambio de hoy, un euro equivale a 10 dirhams... y 1 dólar a 7 dirhams.
+Entonces, cambio los euros. Cambiaré 300.
+Muy bien señora. 300 euros equivalen a 2850 dirhams.
+¿Pero no me dijo que un euro equivale a 10 dirhams?
+Sí, en efecto, señora. Pero el hotel cobra una pequeña comisión. En el banco le saldría mejor el cambio.
+¡Ah, claro! Pero mañana es viernes y está cerrado. Pues 2850, entonces.
+Aquí tiene, señora. Diez billetes de 200; ocho de 100 y uno de 50 dirhams.
+Gracias.

@@ -1,0 +1,9 @@
+﻿A: ¿Dónde vives?
+B: Vivo en Av. Universidad No. 1320
+A: ¿Qué lugares hay cerca de tu casa?
+B: Hay un barco y una lavandería
+A: ¿Dónde está el banco?
+B: El banco está a la derecha de mi casa.
+A: ¿Y dónde está la lavandería?
+B: La lavandería está enfrente de mi casa
+

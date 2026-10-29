@@ -1,0 +1,16 @@
+﻿¿Teleentrada, dígame?
+Hola, buenas tardes. Quería comprar cuatro entradas para el teatro Albéniz, para ver la obra Fuenteovejuna. 
+¿Para cuándo?
+Para el próximo sábado.
+Lo siento, pero para el sábado el aforo está completo
+Vaya, qué pena. ¿Y para el domingo?
+Para el domingo no hay problema. Hay dos funciones: a las 6 y a las 10. ¿Cuál prefiere?
+Mejor para las 10
+De acuerdo. ¿Qué tipo de entrada quiere: butacas de patio, de anfiteatro o sillas de palco?
+¿Qué preciso tienen?
+Las butacas de patio, 25 euros, las de anfiteatro, 20, y las sillas de palco, 15.
+¿Las de butaca de patio que quedan están muy lejos del escenario?
+No hay localidades libres para la fila 6.
+Perfecto.
+Muy bien. ¿me da su número de tarjeta, por favor?
+Sí, es el 0182 1275 1113.

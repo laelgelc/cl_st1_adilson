@@ -1,0 +1,4 @@
+﻿B2: coquín , Coquín .
+A: hola , Sonia , hola .
+B2: qué tal , cómo estás .
+A: bien , bien , todo tranquilo .

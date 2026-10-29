@@ -1,0 +1,19 @@
+﻿Julio: ¡Hola, Luis! ¿Qué tal? Tanto tiempo...
+Luis: ¡Hombre, Julio! ¿Cómo estás?
+Julio: Bien, ¿y tú?
+Luis: Muy bien. Oye, esta es Trini, mi novia.
+Trini: Hola, Julio, ¿qué tal? Pues Luis siempre habla de ti.
+Julio: Hola, Trini. ¿Y también habla de la primera vez que estuve en su casa?
+Trini: No, pues de eso no habla... ¿Qué pasó?
+Luis: Mejor cambiamos de tema... ¿Cómo está tu padre?
+Julio: Está bien. Siempre trabajando mucho...
+Luis: ¿Y tu madre y tus hermanos?
+Julio: Están todos bien. Mi tía Mercedes siempre pregunta por ti, que cuándo nos vas a visitar...
+Trini: Mmm... ¿No tienes una foto de tu familia?
+Julio: Sí, claro... Mira, este señor moreno de ojos negros es mi padre.
+Luis: ¡Huy! Está diferente. Lleva el pelo más corto y está más gordo.
+Julio: Esta es mi madre y estos dos chavales, uno rubio y otro castaño, son mis hermanos. No nos parecemos en nada. Aquí ves a mi hermana Chabeli y este es su marido. Los que aparecen atrás son mis primos...
+Trini: ¿Y esta es tu tía Mercedes?
+Julio: Sí, esta joven alta y delgada que está de vaqueros es mi tía Mercedes. Es la menor de todos los hermanos de mamá.
+Trini: Es muy joven y muy bonita tu tía. Pues, dile que Luis va a ir de visita conmigo...
+

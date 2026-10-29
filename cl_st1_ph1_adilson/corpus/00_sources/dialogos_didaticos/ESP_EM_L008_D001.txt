@@ -1,0 +1,16 @@
+﻿
+Hola, Â¿CÃ³mo estÃ¡s? 
+
+Muy Bien, Â¿y tÃº? 
+
+Bien, gracias. 
+
+Â¿CÃ³mo te llamas? 
+
+Alejandro, Â¿y tÃº? 
+
+Soy Erika. 
+
+Erika, bienvenida a la clase de espaÃ±ol. 
+
+Â¡Gracias!

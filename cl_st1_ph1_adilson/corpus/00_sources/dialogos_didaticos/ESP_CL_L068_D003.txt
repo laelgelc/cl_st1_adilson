@@ -1,0 +1,8 @@
+﻿Quiero un billete para Madrid. ¿A qué hora sale el primer tren?
+A las 6:30 de la mañana, el primero.
+¿Hay que hacer transbordo?
+No, va directo.
+¿De qué andén sale el tren?
+Andén tercero, vía quinta.
+¿Tiene retraso el tren?
+Sí, llegará con unos minutos de retraso.

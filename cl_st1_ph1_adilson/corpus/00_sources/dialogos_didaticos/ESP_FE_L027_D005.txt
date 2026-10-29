@@ -1,0 +1,5 @@
+﻿A: Buenos días. Usted es... Alejandro Lastra, ¿no es así?
+B: Sí.
+A: Y está interesado en el puesto de ejecutivo de ventas. Por su solicitud de empleo veo además que usted ya es ejecutivo de ventas en otra empresa. ¿Por qué quiere cambiar?
+B: En la empresa en la que trabajo ahora hay muchas cosas con las que no estoy de acuerdo. Me refiero a la forma en que tratan a la gente. En su anuncio me atrajo, precisamente, la referencia al ambiente agradable. Para mí, eso es muy importante ya que uno pasa la mayor parte de su tiempo en el trabajo.
+A: Eso es verdad. Y no mentimos al afirmar que el ambiente en Yves Rocher España es agradable. Es algo que todos tratamos de conseguir. Pero sigamos.

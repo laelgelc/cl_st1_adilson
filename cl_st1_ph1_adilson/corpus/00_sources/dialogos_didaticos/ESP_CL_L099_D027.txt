@@ -1,0 +1,9 @@
+﻿María: ¡Hola, Julio!
+Julio: ¡Hola, María! ¿Qué tal? ¿Vamos al cine hoy?
+María: Lo siento, no puedo. Todos los miércoles visito a mi abuela a la salida del trabajo.
+Julio: ¿Y mañana? ¿Quieres salir mañana?
+María: Sí, claro. Pero tiene que ser la última función, porque de siete a ocho hago el curso de marketing.
+Julio: ¡Perfecto! La última función es a las diez menos veinte.
+María: ¿Cómo quedamos?
+Julio: Te paso a buscar por el instituto a las ocho, vamos a comer algo rápido y vamos al cine.
+María: ¡Listo!

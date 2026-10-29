@@ -1,0 +1,12 @@
+﻿Silvia: ¿Dígame?
+María: Hola, Silvia. Soy María, ¿qué tal?
+Silvia: Hola, María. Estoy bien y tú ¿cómo estás?
+María: Bien, gracias. Mira, ¿estás viendo la tele ahora?
+Silvia: No, estoy estudiando porque mañana tengo un examen muy difícil.
+María: Es que, en canal tres, están poniendo un programa muy curioso sobre los animales en extinción, y sé que te gusta mucho ese tema.
+Silvia: ¿Ah, s? ¿Y qué están diciendo?
+María: Están explicando los verdaderos motivos por los que muchos animales están desapareciendo.
+Silvia: Me gustaría mucho ver ese programa, pero la verdad es que ahora no puedo.
+María: No te preocupes. Lo y si quieres después te lo presto. estoy grabando y si quieres después te lo presto.
+Silvia: Sí, por supuesto. Muchísimas gracias, María.
+María: Por nada.

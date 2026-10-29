@@ -1,0 +1,6 @@
+﻿Huésped: Perdón, ¿dónde está la piscina?
+Camarera(o): En el piso superior, señor, al lado del gimnasio.
+Huésped: ¡Muchas gracias! También me gustaría saber si hay una peluquería en el hotel.
+Camarera(o): ¿La peluquería? Está en la planta baja, enfrente del centro de convenciones.
+Huésped: ¡Muchas gracias!
+Camarera(o): ¡De nada!

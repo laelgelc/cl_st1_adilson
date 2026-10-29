@@ -1,0 +1,11 @@
+﻿Laura: Ya llega el vuelo de París. Papá, pon el letrero más alto.
+Danielle: ¿Son ustedes los señores Castillejo?
+Padre: Sí. Y tú ¿eres Danielle?
+Danielle: Sí, soy Danielle. ¿Cómo estáis? Y tú eres mi amiga Laura, ¿no es verdad?
+Laura: Claro. Soy Laura. ¿Cómo estás? Estoy muy contenta de verte y de conocerte.
+Danielle: Yo también me alegro mucho y estoy muy contenta.
+Padre: ¿Cómo estás, Danielle? ¿Estás muy cansada?
+Danielle: No mucho. El viaje desde París es corto.
+Padre: Muy bien. Entonces vamos al aparcamiento. ¿Y tus maletas?
+Danielle: Sólo tengo ésta. Y mi bolso.
+

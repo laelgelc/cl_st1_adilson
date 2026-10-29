@@ -1,0 +1,12 @@
+﻿A: Llorente y Asociados, buenas tardes.
+B: Buenas tardes, señorita. ¿El señor Yrigoyen está, por favor?
+A: ¿De parte de quién?
+B: Del doctor Avellaneda.
+A: Un momento, por favor.
+A: ¡Hola!
+B: Hola. ¿lnés, eres tú?
+A: Sí. ¿Quién habla?
+B: Guillermo ¿Te acuerdas de mí?
+A: ¿Guillermo Villas? ¡Cuánto tiempo! ¿Qué es de tu vida?
+B: hace años que no charlamos, ¿verdad? Yo estoy viviendo en Yugoslavia y trabajo como entrenador. Y tú, ¿qué haces?
+A: Yo no salí del barrio de Villa Catalina, ya llevo diez años casada y tengo dos hijos.

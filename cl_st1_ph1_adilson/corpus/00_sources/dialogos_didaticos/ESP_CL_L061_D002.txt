@@ -1,0 +1,11 @@
+﻿Hola, buenos días.
+Buenos días, ¿en qué puedo ayudarte?
+Quería un abrigo para mi madre.
+¿Qué talla tiene?
+Creo que una 40.
+¿De qué color?
+Un color alegre, verde o rojo.
+¿Este?
+Este me gusta. ¿cuánto cuesta?
+150 euros.
+Perfecto, me lo llevo.

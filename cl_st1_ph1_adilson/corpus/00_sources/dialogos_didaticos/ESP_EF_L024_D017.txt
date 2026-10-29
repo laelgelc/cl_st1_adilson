@@ -1,0 +1,11 @@
+﻿Hola, ¿qué tal?
+Hola.
+¿Cuál es tu nombre?
+Me llamo Gastón. ¿Y tú?
+Mi nombre es Patricia, pero me dicen Pato. ¿De dónde eres?
+Soy de chile. Y tú, ¿eres brasileña?
+Sí, soy de Brasil. ¿vives aquí?
+Sí, vivo en San pablo. Y tú, ¿dónde vives?
+Vivo en Belo Horizonte
+Bueno, hasta luego.
+Chau. Nos vemos.

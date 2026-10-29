@@ -1,0 +1,11 @@
+﻿Cristina: ¿Vas a la fiesta de Roberto?
+Manuel: No sé, no estoy muy seguro. Tal vez vaya o tal vez no. ¿Y tú?
+Cristina: Sí, esa fiesta no me la pierdo por nada. Pero todavía no sé con quién voy. A lo mejor Julieta se decide y vamos juntas.
+Manuel: Julieta, tu prima... En ese caso, tal vez voy.
+Cristina: Bueno, podemos hacer un trato: yo la convenzo a Julieta y tú llevas a tu primo Javier.
+Manuel: Puede ser, puede ser... ¿Alguien del curso de Informática va?
+Cristina: Todos! Imagínate que nunca se perderían una fiesta alrededor de la piscina en la casa de Roberto.
+Manuel: Ojalá no llueva entonces, ¿no?
+Cristina: ¡Ojalá no haga frío!
+Manuel: Muy bien, lo he decidido: si no llueve y hace calor, estaré presente.
+Cristina: ¡Qué bien! Te cuento que el pronóstico ha dicho que tendremos una semana con un clima primaveral lindísimo...

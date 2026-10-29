@@ -1,0 +1,11 @@
+﻿Turista: ¡Buenas tardes! ¿Hay un restaurante cerca de aquí?
+Taxista: Sí. Hay uno muy bueno a cinco minutos de aquí.
+Turista: ¿Podría llevarnos hasta allá?
+Taxista: Claro. Después, si quieren, los recojo y los traigo de regreso al hotel. Nada más llamarme. Aquí está mi tarjeta.
+Turista: Muchas gracias.
+(Llegando al restaurante.)
+Taxista: Llegamos.
+Turista: ¿Cuánto es?
+Taxista: R$ 10,50.
+Turista: Aquí está. ¡Quédese con el cambio!
+Taxista: Gracias. ¡Buen provecho!

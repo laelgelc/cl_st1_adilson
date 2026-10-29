@@ -1,0 +1,13 @@
+﻿Secretaria: ¡Buenas tardes!
+Estudiante: ¡Buenas tardes, señorita!
+Secretaria: ¿Cuál es su nombre?
+Estudiante: Mi nombre es Leslie Adams.
+Secretaria: ¿De dónde es usted?
+Estudiante: Soy de Canadá.
+Secretaria: ¿Cuál es su estado civil?
+Estudiante: Soy soltera.
+Secretaria: Es todo, muchas gracias.
+Estudiante: De nada.
+Secretaria: ¡Hasta mañanal
+Estudiante: ¡Hasta luego!
+

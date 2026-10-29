@@ -1,0 +1,15 @@
+﻿Agencia de viajes Maletour, ¿dígame?
+Buenos días, llamo para reservar un billete. Necesito estar mañana por la tarde en Sevilla.
+¿Un billete de autocar, tren o prefiere el avión?
+No, no. Tengo un poco de miedo al avión. ¿Qué trenes hay para Sevilla?
+Espere un momento, por favor... Tiene un AVE a las 10:00 de la mañana, pero está completo. Un tren rápido a las 10:05 y otro AVE a las 11:00.
+¿A qué hora llegan a Sevilla?
+La hora de llegada del rápido es a las 13:17 y la del AVE es a las 13:25.
+¿Y qué precio tienen?
+¿Clase turista o preferente?
+Turista, por favor.
+El rápido 8 300 pesetas (50 euros) y el AVE 10 100 (60 euros).
+Entonces quiero reservar un billete para el segundo.
+Por supuesto. Recuerde que es un tren que sale con mucha puntualidad.
+Sí, muchas gracias. ¿Me puede decir de qué andén sale?
+Esa información la anunciarán por los altavoces. También hay paneles con todos los datos: horas de salida y llegada, vías, andenes... y algunas veces el retraso

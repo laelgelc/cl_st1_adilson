@@ -1,0 +1,10 @@
+﻿Camarero: ¿Quieren algún postre?
+Turista: ¿Qué es lo que nos recomienda?
+Camarero: Romeu e julieta.
+Turista: ¿Qué es Romeu e Julieta?
+Camarero: Es un postre típico de Minas Gerais. Son rebanadas de queso blanco con algunas rebanadas de dulce de guayaba.
+Turista: ¡Humm! Me parece bueno. Vamos a probarlo.
+Camarero: ¿Algo más?
+Turista: No, nada más.
+Camarero: Está bien, enseguida les traigo su postre.
+Turista: Muchas gracias.

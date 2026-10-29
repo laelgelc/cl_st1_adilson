@@ -1,0 +1,8 @@
+﻿Turista: ¡Buenas tardes, señor!
+Policía: ¡Buenas tardes! Me llamo Alcântara.
+Turista: ¿Perdón?
+Policía: Alcântara. A-L-C-A-N-T-A - R - A. ¿Le puedo ayudar en algo, señor?
+Turista: ¿Qué hora es, por favor?
+Policía: Son las 2:30 de la tarde, señor.
+Turista: Muchas gracias.
+Policía: De nada.

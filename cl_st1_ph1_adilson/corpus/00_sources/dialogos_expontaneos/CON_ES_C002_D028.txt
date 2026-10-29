@@ -1,0 +1,9 @@
+﻿A: kiko una vez se ganó veinte , Pato , también .
+A: &=noise .
+B: xxx &=distortion .
+A: pero son premios chicos , no más .
+B: chicos?
+A: ah?
+B: ah, lo compran ellos o de lo que les sobra , te dejan ?
+A: no, pues, ellos compran su boletito.
+B: ah, qué bueno, no?

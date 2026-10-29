@@ -1,0 +1,16 @@
+﻿Buenas tardes.
+Buenas tardes, señora Goya. Dígame, por favor, su nombre y apellidos completos.
+Mi nombre es Pilar y mis apellidos son Herrera Goya.
+¿Cuál es su profesión?
+Soy abogada.
+¿Habla portugués?
+Sí, portugués e inglés.
+¿Estudia?
+Sí, ahora estudio filosofía en la Universidad de Salamanca.
+¿Cuántos años tiene usted?
+Tengo treinta y dos.
+¿Hace cuánto tiempo trabaja como abogada?
+Desde hace seis años.
+Muy bien. La llamo cuando tenga una decisión.
+Muchas gracias y hasta luego.
+Adiós.

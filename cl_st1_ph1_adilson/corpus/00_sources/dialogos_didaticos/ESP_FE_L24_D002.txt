@@ -1,0 +1,8 @@
+﻿Vigilante de seguridad: ¡Buenos días! ¿Le puedo ayudar en algo, señora?
+Turista: Sí, por favor. ¿A qué hora abre el museo?
+Vigilante de seguridad: A las 10:00 de la mañana.
+Turista: ¿Y cuándo lo abren?
+Vigilante de seguridad:
+De martes a domingo.
+Turista: Gracias.
+Vigilante de seguridad: De nada.

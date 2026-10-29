@@ -1,0 +1,7 @@
+﻿Hola, ¿está Belén?
+No, no está, ha ido a clase. ¿Quién la llama?
+Soy Javier.
+Ah, hola, Javier, soy Marián. ¿Quieres que le deje un mensaje?
+Pues sí, dile que voy a ir al cine esta noche, y que si quiere venir conmigo, que me llame.
+Vale, yo se lo digo, hasta luego.
+Gracias, Marián, hasta luego.

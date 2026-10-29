@@ -1,0 +1,4 @@
+﻿Turista: ¿Dónde está el cuarto de baño?
+Atendiente: En el piso superior, señor.
+Turista: ¡Muchas gracias!
+Atendiente: ¡De nada!

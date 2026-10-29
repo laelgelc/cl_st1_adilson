@@ -1,0 +1,23 @@
+﻿Doctora: ¡Doña Margarita! Pase, pase.
+Doña Margarita: Buenas tardes, doctora, ¿cómo está?
+Doctora: Yo muy bien, y usted, ¿cómo anda? ¿Trajo los estudios?
+Doña Margarita: Sí, acá están.
+Doctora: A ver, a ver... Hummm... Bueno, no están tan mal, pero, vamos a ver, siéntese que voy a tomarle la presión...
+Está un poquito alta la presión... ¿Cómo está comiendo? ¿Está siguiendo la dieta que le di?
+Doña Margarita: Y... más o menos doctora. Lo que pasa es que me gusta mucho la carne y por lo menos tres veces por semana me como un rico bife.
+Doctora: Pero Margarita, le pedí que no comiera tanta carne. Tres veces por semana es mucho. Solamente una vez por semana. ¿Café sigue tomando?
+Doña Margarita: A la mañana una taza y otra a la tarde.
+Doctora: Tiene que evitar el café, en lo posible no tome más. Reemplácelo por el té que hace menos daño. También tiene que suspender las comidas dulces porque en los estudios le sale que tiene el azúcar un poco alto. ¿Y la actividad física? ¿Está haciendo ejercicios?
+Doña Margarita: Bueno, sí, a veces a la tarde salgo a caminar y a hacer compras.
+Doctora: Eso es muy poco. Tiene que ir a un gimnasio tres veces por semana por lo menos. Haga yoga y practique también natación porque ayuda la circulación.
+Doña Margarita: ¿Todo eso? Pero no me gusta hacer gimnasia, me aburre muchísimo.
+Doctora: Pero le gusta caminar, entonces haga largas caminatas diarias y, como sé que también le gusta bailar, en casa ponga música y baile sola o con su marido.
+Doctora: Y a propósito de su marido, ¿Cómo está Vicente?
+Doña Margarita: Ah, él está fantástico. Nunca le duele nada.
+Doctora: ¿Y la vida sexual, anda bien?
+Doña Margarita: De eso no nos podemos quejar. Nos amamos mucho los dos y nos seguimos adorando después de cuarenta años juntos.
+Doctora: Eso es excelente, una vida sexual plena es casi sinónimo de juventud eterna... pero sin descuidar la alimentación y el estado físico. ¿De acuerdo?
+Doña Margarita: Bueeeeno.
+Doctora: Margarita, la veo entonces el mes que viene.
+Doña Margarita: Hasta pronto, doctora.
+Doctora: Hasta pronto, y mándale mis saludos a Vicente, dígale que no muerdo y que me venga a hacer una visita...

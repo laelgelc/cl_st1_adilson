@@ -1,0 +1,14 @@
+﻿Vendedora: Muy bien. Aquí está todo: pasaje, cupones de alojamiento y paseos y un portadocumentos. ¿Alguna duda?
+Joven: La verdad es que sí... ¿Qué pasa si se me pierde la valija? ¿Si se equivocan y se la llevan para otro lugar?
+Vendedora: Después de pasar por Migraciones, te dirigirás a la cinta con el equipaje de tu vuelo.
+Joven: Ese procedimiento lo conozco. Lo que no sé es qué tendría que hacer si no aparece mi equipaje en la cinta.
+Vendedora: En cuanto te percates del extravío de tu equipaje, deberás dirigirte al representante de la compañía aérea para notificar la irregularidad. Lo mismo tendrías que hacer si, por ventura, tu equipaje tiene algún daño, o avería. El representante de la compañía aérea tiene la obligación de hacerte un reporte de irregularidad. Después de requerir información personal: dirección permanente, dirección temporal, contactos telefónicos, así como también la descripción
+y numeración del equipaje, que corresponde al número del talón que se te entregará a la hora de despacharlo antes del embarque.
+Joven: ¿Me tengo que quedar en el aeropuerto hasta que se solucione mi problema?
+Vendedora: No, no es necesario. Lo que no debes olvidarte es de exigir una copia del reporte antes de irte. Debes guardarla, junto con el talón del equipaje, y esperar que la compañía entre en contacto contigo. Y lo harán, no te preocupes. Las compañías aéreas tienen un tiempo estipulado para solucionar problemas de ese tipo. Claro que si notas alguna irregularidad en ese proceso, tienes que exigir mayores informaciones.
+Joven: ¿Y qué pasa si no lo encuentran?
+Vendedora: Si no encuentran tu equipaje en el tiempo estipulado para rastreo, pasa a ser un asunto del departamento de indemnizaciones, que cotizará tu equipaje y su contenido, y te lo abonará en dinero.
+Joven: ¿Y si se trata de una avería?
+Vendedora: Tienen la obligación de repararla o reponer la valija, bolso o mochila dañada.
+Joven: Gracias por las informaciones.
+Vendedora: De nada. ¡Buen viaje!

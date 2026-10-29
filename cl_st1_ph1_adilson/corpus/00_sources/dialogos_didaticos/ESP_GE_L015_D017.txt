@@ -1,0 +1,17 @@
+﻿Luisa: Hola Daniel, ¿cómo estás?
+Daniel: Hola Luisa, estoy bien, gracias. ¿Y tú?
+Luisa: Estoy bien también, gracias. ¿Has visto el clima últimamente?
+Daniel: Si, ha estado bastante variable estos días. ¿Tú has notado lo mismo?
+Luisa: Si, ayer hacia mucho calor y hoy está nublado y fresco.
+Daniel: Si, eso es lo que he notado también. Es extraño que cambie tanto en tan poco tiempo.
+Luisa. Si, es difícil planificar actividades al aire libre cuando el clima es tan impredecible.
+Daniel: Definitivamente. ¿Has revisado el pronóstico del tiempo para los próximos días?
+Luisa: Si, según el pronóstico, se espera que llueva mañana y luego el clima se mantendrá fresco durante el resto de la semana.
+Daniel: Vaya, espero que no llueva demasiado. ¿Qué planes tienes para esta semana?
+Luisa: Bueno, tenía pensado ir al parque el fin de semana, pero tal vez tenga que cambiar mis planes si sigue lloviendo.
+Daniel: Si, sería una pena si no puedes ir al parque. Tal vez puedas encontrar algo divertido que hacer en interiores.
+Luisa: Sí, eso es una buena idea. Tal vez pueda ir al cine o a un museo.
+Daniel: Eso suena bien. Otra opción podría ser ir a un café y disfrutar de un buen café mientras conversamos.
+Luisa: ¡Eso suena muy bien! Definitivamente tenemos que encontrar algo que hacer para disfrutar del tiempo juntos.
+Daniel: Si, seguro que encontramos algo divertido e interesante para hacer, llueva o haga sol.
+

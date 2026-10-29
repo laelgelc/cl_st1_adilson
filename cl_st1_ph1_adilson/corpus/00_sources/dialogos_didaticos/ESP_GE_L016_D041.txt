@@ -1,0 +1,7 @@
+﻿Gustavo: Hola, Victoria. ¿Cómo vas en tu curso de español?
+Victoria: ¡Regio! Cada vez mejor.
+Gustavo: ¡Qué bien! ¿Tu profe es buena?
+Victoria: Si, si, muy buena. ¡Es una profe macanuda! Es nativa y, además de enseñarnos español, nos detalla curiosidades del mundo hispánico; de modo que tenemos, a la vez, español y cultura hispanoamericana.
+Gustavo: Oye, eso es muy importante para nosotros los brasileños.
+Victoria: ¡Por supuesto!
+

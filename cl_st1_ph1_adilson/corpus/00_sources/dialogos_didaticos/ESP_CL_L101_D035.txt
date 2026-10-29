@@ -1,0 +1,9 @@
+﻿Mario: Discúlpeme, don Alfredo. ¿Usted conoce el Bar El Chino?
+Don Alfredo: Sí, claro, es un bar muy conocido. Es un lugar muy simple. No piense que es como los bares de la Recoleta. Los precios son muy baratos. Claro que la construcción es precaria; adentro las paredes están llenas de afiches, y es un lugar donde la gente va a divertirse, a comer parrillada, a cantar tangos, a bailar... en resumen, es un lugar para bohemios. Le va a gustar mucho.
+Mario: ¿Dónde queda? ¿Cómo hago para llegar?
+Don Alfredo: Ah... es bastante lejos del hotel. Queda en el barrio de Pompeya. Para ir le recomiendo que tome un taxi. No es una zona muy segura, sobre todo por la noche.
+Mario: Ah... un taxi... Es que estoy un poco corto de dinero y el que me queda prefiero gastarlo en conocer lugares diferentes.
+Don Alfredo: Bueno, si es así... Siga por la calle del hotel dos cuadras a la derecha, y en la esquina tome el colectivo 188. Pídale al conductor que le avise al llegar a la avenida Sáenz y Amancio Alcorta. Bájese allí y camine a su izquierda tres cuadras. Al llegar a la calle Beazley, doble a la derecha y camine aproximadamente cuatro cuadras más. El bar está allí.
+Mario: Muchas gracias. Usted es un verdadero guía de la ciudad.
+Don Alfredo: Pero tenga cuidado, no lleve mucho dinero en la billetera y ponga los documentos en otro lugar.
+Mario: Gracias por las recomendaciones.

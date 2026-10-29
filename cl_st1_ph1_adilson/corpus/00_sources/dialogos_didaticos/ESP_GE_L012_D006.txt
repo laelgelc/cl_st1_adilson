@@ -1,0 +1,11 @@
+﻿CHICO: Cristina, ¿te puedo pedir un favor?
+CHICA: ¿Qué quieres?
+CHICO: Pues mira, fa semana que viene tengo que grabar el vídeo para el trabajo de fin de curso y mi cámara de vídeo se ha estropeado. Tu padre tiene una, ¿no?
+CHICA: Sí, es un poco vieja pero funciona bastante bien. ¿No quedará mejor si grabáis el video con un móvil? Los teléfonos de hoy en día tienen cámaras estupendas.
+CHICO: Pues Sandra se acaba de comprar uno nuevo. Haré una
+cosa, se lo pediré a ella y así no molestamos a tu padre.
+CHICA: No es ninguna molestia, pero pídeselo a ella, seguro que te lo deja.
+CHICO: Voy a buscarla, ¿sabes dónde está?
+CHICA: Ahora mismo está en el gimnasio, la encontrarás allí.
+CHICO: Gracias, nos vemos.
+

@@ -1,0 +1,16 @@
+﻿Compradora: ¿Cuánto cuestan estos...? Eh... Ay, ¿cómo se dice...? Sirven para cerrar los puños sin botones de camisas...
+Vendedor: ¿Usted se refiere a estos gemelos? Vaya, vaya, señorita, tiene usted muy buen gusto. Ha elegido mi mejor pieza, una verdadera antigüedad hecha a mano por los mejores orfebres de la región.
+Compradora: Ya, ¿pero cuánto valen?
+Vendedor: Mmm, a usted, que es tan simpática, se los puedo vender por 150 euros.
+Compradora: ¡Pero lo que usted pide es una barbaridad! ¡No puede ser! Con ese dinero me compro todo lo que tiene en la tienda.
+Vendedor: Señorita, estos gemelos tienen más de 100 años, pertenecieron al Barón de la Saya y son de legítima plata peruana. Pero como usted me ha caído muy bien, se los puedo dejar por 120.
+Compradora: Infelizmente no dispongo de esa cantidad.
+Vendedor: ¿Y cuánto me ofrece?
+Compradora: Estos gemelos no valen más que 50 euros.
+Vendedor: De ninguna manera, eso es un insulto.
+Compradora: Entonces lo dejamos para otro día.
+Vendedor: No, no, no, no, no se vaya. ¿De verdad quiere comprarlos?
+Compradora: Sí, pero a un precio justo.
+Vendedor: Bueno, si me da 75 euros son suyos.
+Compradora: Mire, 60 es todo lo que tengo. Así que si los acepta cerramos negocio; si no, lo dejamos para otro día.
+

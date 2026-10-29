@@ -1,0 +1,6 @@
+﻿¿Cómo han empaquetado la mercancía?
+Los paquetes tienen 100 piezas y cada palet tiene 800 paquetes.
+¿Y cuánto pesa cada palet?
+Exactamente una tonelada.
+Muy bien, ¿entonces toda la mercancía cabe en un camión o hay más de 35 palets?
+Son exactamente 28 palets. La mitad va a París y el resto a Amsterdam.

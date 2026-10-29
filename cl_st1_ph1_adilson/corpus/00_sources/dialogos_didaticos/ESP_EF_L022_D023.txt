@@ -1,0 +1,14 @@
+﻿Dentista: Vamos a ver... ¿Qué te pasa?
+Joven: Doctor, tengo un dolor de muela insoportable.
+caries por eso te duele. Dentista: Humm... abre la boca. Tienes una caries, por eso te duele.
+Joven: ¿Será necesario extraer la muela?
+Dentista: No, no es necesario, vamos a tratarla. Te voy a dar una anestesia.
+Joven: - Ay, doctor, tengo miedo, no me gusta nada esa jeringa. ¿Me vas a pinchar con esa aguja?
+Dentista: ¡Tranquila! Primero vamos a pasar esta pomada en encía, para que no te duela el pinchazo.
+Joven: ¿Me vas a poner un empaste?
+Dentista: sí, pero antes voy a usar el torno ultrarrápido para tratar la muela. Verás que no vas a sentir nada. Y también colocaré el aspirador de saliva.
+Joven: - Bueno...
+Dentista:- Ya está. ¿Te ha dolido?
+Joven: No, no me ha dolido nada.
+Dentista: - A veces el miedo hace mayor el dolor. No te olvides de pasar el hilo dental entre los dientes después de cepillados y, por último, enjuagarte la boca con flúor. Y, claro está, venir al dentista regularmente.
+Joven: Gracias, doctor.

@@ -1,0 +1,14 @@
+﻿Enfermero: ¡Buenas tardes, señor Sanz! Me llamo Jorge.
+Paciente: ¡Hola, Jorge! ¿Cómo está?
+Enfermero: Bien, ¡gracias! Siéntese, por favor. ¿Qué brazo prefiere?
+Paciente: El izquierdo.
+Enfermero: ¿Puedo atarle un torniquete en el brazo?
+Paciente: ¡Claro!
+Enfermero: ¿Se siente bien?
+Paciente: Sí, aunque un poquito nervioso.
+Enfermero: Quédese tranquilo. Va a sentir un pinchacito.
+Paciente: OK.
+(Algunos minutos después.)
+Enfermero: Eso es todo. No doble el brazo por unos 10 minutos.
+Paciente: ¡Muchas gracias!
+Enfermero: ¡De nada!

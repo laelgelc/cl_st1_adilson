@@ -1,0 +1,8 @@
+﻿Enrique: Buenos días, señora, ¿sería tan amable de decirme dónde está la tienda de zapatos Torres?
+Señora: Sí, por supuesto: siga por esta calle hasta aquél semáforo, doble a la izquierda y después a la izquierda de nuevo. Está ahíen la calle Soledad.
+Enrique: A ver si he entendido, tengo que seguir esta calle hasta el semáforo, doblar a la izquierda y después a la izquierda de nuevo.
+Señora: Sí, es fácil. Perdóneme la pregunta pero... ¿Usted sabe que es una tienda de zapatos femeninos?, ¿no?
+Enrique: Sí, lo sé. Es que voy a comprar un regalo a mi novia, mañana es su cumpleaños y a ella le encantan los zapatos de esa tienda, además están en liquidación.
+Señora: Suerte entonces.
+Enrique: Mil gracias.
+

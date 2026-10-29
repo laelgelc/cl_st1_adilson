@@ -1,0 +1,25 @@
+﻿
+Gerente de personal: Anteriormente, ¿trabajaba en el sector administrativo?
+Juan Simoneto: Si, la vendad es que desde la época de la pasantía trabajo en el mismo sector. Cuando era pasante, por ejemplo, hacía exclusivamente tareas administrativas del área de ventas.
+Gerente de personal: ¿Qué funciones desempellaba?
+Juan Simoneto: Durante los tres años como empleado administrativo, asumía todas las tareas burocráticas: informes, balances, presupuestos, etc. Durante los cinco años como gerente desempeflaba funciones más directivas, autónomas y creativas.
+Gerente de personal: Muy bien. La última pregunta: ¿por qué cree que es usted ideal para el cargo de gerente de ventas de nuestra empresa?
+Juan Simoneto: Porque cuento entre mis cualidades personales con una fuerte iniciativa, con un espíritu espontáneo para el trabajo en grupo y con toda la disponibilidad de tiempo y esfuerzo que necesiten.
+Gerente de personal: Muy bien, señor Simoneto. Muchas gracias.
+Juan Simoneto: Muchas gracias a usted. Hasta pronto.
+Gerente de personal: Buenos días, adelante. Tome asiento.
+Flavia Gascón: Buenos días. Gracias.
+Gerente de personal: Bien, estoy aquí con su currículo... usted tiene.....
+Flavia Gascón: 45 años.
+Gerente de personal: ¿Cuáles son sus estudios?
+Flavia Gascón: Bueno, soy graduada en Administración de empresas y tengo un máster en Marketing.
+Gerente de personal: ¿Por qué tiene el máster en Marketing y no en el área de administración?
+Flavia Gascón: Porque el curso de Administración en la facultad no incluía Marketing y, con el paso del tiempo, esos conocimientos eran cada vez más necesarios.
+Gerente de personal: Hasta ahora, ¿en qué áreas tiene experiencia?
+Flavia Gascón: Bueno, en realidad mi experiencia se resume a tres áreas íntimamente relacionadas: diez años en el área financiera, siete años en el área de ventas y dos años en el área de marketing.
+Gerente de personal: ¿Qué funciones desempeñaba como gerente de ventas?
+Flavia Gascón: Realizaba la planificación comercial de todos los productos de la empresa; hacía el análisis de los precios y promociones; organizaba y controlaba la red de distribución; coordinaba estudios de mercado e investigaciones de la competencia.
+Gerente de personal: Muy bien. La última pregunta: ¿por qué cree que es usted ideal para el cargo de gerente de ventas de nuestra empresa?
+Flavia Gascón: Porque soy una líder espontánea, tengo espíritu de mando y equilibrio emocional para enfrentar cualquier situación de tensión y de presión.
+Gerente de personal: Muy bien, señora Gascón. Muchas gracias.
+

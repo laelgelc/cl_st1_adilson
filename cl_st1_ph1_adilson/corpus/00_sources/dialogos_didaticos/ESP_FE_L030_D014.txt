@@ -1,0 +1,4 @@
+﻿¿Tienes un lápiz?
+Pues no, no tengo. Y tú, ¿tienes un bolígrafo?
+Sí, toma.
+

@@ -1,0 +1,40 @@
+﻿(()) la encuesta?\
+voz_desconocida Sí sí sí sí sí.\
+Yo voy por el Atleti también a pesar de ser del Madri'.\
+voz_desconocida Hoy to's claro, hoy todos queremos ser Atleti.\
+Chavale', me estoy quedado sin batería.\
+voz_desconocida Todos todos todos.\
+¿Pero tú eres del Atleti también?\
+voz_desconocida No.\
+¿De qué equipo eres?\
+voz_desconocida Yo del Madri'.\
+Ah, o sea que vas contra el Barça.\
+voz_desconocida (())\
+Un número uno.\
+Tenemos que cambiar de mesa (()) que hay enchufe.\
+No, esta está bien.\
+No, que conste que yo voy con el Atleti, eh.\
+voz_desconocida2 (())\
+Que no que no que yo voy con el Atleti aunque vaya contra otros equipos, coño.\
+voz_desconocida2 Si va contra el Madrí', ¿con quién va'?\
+Con el Madrí', ¿no te jo'e?\
+Pero-\
+voz_desconocida2 (())\
+Que juegue contra el Málaga, yo voy con el Atleti.\
+Que yo no soy anti-madridista como sí vosotros anti-Atlético (()) con nosotros.\
+ (()) es un, es un madridista raro, ya está.|\
+Sonidos_de_trasfondo (Sonidos de tazas)\
+Que a mí me gusta el Atleti, coño.\
+A mí tam- a mí también me pasa que me gusta el Atlético pero no su puta afición.\
+Chaval, la (()) que tiene el Atleti ess la mejor del mundo.\
+Nah.\
+(())\
+Dime una afición mejor que la del Atleti en @nombre lugar.\
+La del Depor.\
+La del Betis.\
+Bueno, la del Atleti la verdá' que renta bastante pero-\
+La del Depor.\
+La del Depor no.\
+No te lo paso.\
+¿No?\
+La del Depor no te lo paso.

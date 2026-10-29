@@ -1,0 +1,11 @@
+﻿Profesor español: ¿Cómo te llamas?
+Julia: Soy Julia.
+Profesor español: ¿Y tu apellido?
+Julia: Law.
+Profesor español: ¿De dónde eres?
+Julia: Soy inglesa.
+Profesor español: ¿Qué haces?
+Julia: Soy estudiante y trabajo en un hotel.
+Profesor español: ¿Eres soltera?
+Julia: Sí, sí.
+

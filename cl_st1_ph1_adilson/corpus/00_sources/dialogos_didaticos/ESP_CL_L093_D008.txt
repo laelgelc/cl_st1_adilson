@@ -1,0 +1,21 @@
+﻿Marta: ¿Sí?
+Carolina: Buenos días. ¿Puedo hablar con Diego?
+Marta: Sí, un momento. ¿De parte de quién?
+Carolina: De Carolina. Llamo por el anuncio de la habitación en alquiler.
+Marta: ¡Ah, sí! Un momento, ahora se pone.
+Carolina: Vale.
+Diego: ¿Si?
+Carolina: Hola, me llamo Carolina. Llamo por el anuncio de la habitación.
+Diego: Ah, sí, sí. Dime.
+Carolina: Bueno, pues en principio me interesa, pero quería algo más de información.
+Diego: Claro. ¿Qué quieres saber?
+Carolina: Quería saber si es exterior y cómo son el edificio y la zona. Es que no soy de aquí y aún no conozco bien la ciudad.
+Diego: Pues el piso está en una zona muy tranquila. La habitación es exterior, pero da a una calle con poco tráfico, así que no hay casi nada de ruido. Y tiene sol por la mañana. Está muy bien, ya lo verás. Bueno, todo el piso está muy bien. Tiene cien metros cuadrados, terraza y la zona está muy bien comunicada.
+Carolina: ¿Y la habitación está completamente amueblada?
+Diego: Sí, sí, la habitación es perfecta para estudiar. Tiene cama, mesa de trabajo y un armario empotrado.
+Carolina: ¿Y tiene conexión a Internet?
+Diego: En la habitación no, porque la entrada de conexión a Internet está en el salón. Tenemos contratada una línea de ADSL. Pero si tienes wireless puedes trabajar en tu cuarto.
+Carolina: Ah, muy bien. ¿Y podría pasar esta tarde a verla?
+Diego: No, lo siento, esta tarde no estamos en casa. ¿Te va bien mañana por la tarde, a eso de las cinco?
+Carolina: De acuerdo, mañana a las cinco. ¿Me das la dirección?
+Diego: Sí, claro, toma nota. Es la calle Acacias, número 24...

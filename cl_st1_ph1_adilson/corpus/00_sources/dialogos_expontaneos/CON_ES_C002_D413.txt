@@ -1,0 +1,16 @@
+﻿A: yo lo que no sé es si uno puede confiar en Cuevas como mecánico , yo sé que él tiene toda su vida en eso , .
+A: pero yo no sé si puede confiar en él , y uno no tendría garantía , él me dijo que eso cuesta como .
+A: ciento y pico de pesos , .
+A: ciento sesenta y pico creo .
+B: &=background:speech &=noise el qué ?
+A: el , el amortiguador , .
+B: doscientos y pico de pesos .
+A: ciento y pico el amortiguador , porque di- que ese no es un amortiguador , .
+A: de esos regular , que ese es de los que tienen los Mercedes Benz , que es una vaina diferente , .
+B: sí .
+A: y que cuesta ciento y pico .
+B: &=noise .
+A: y que eso se coge un buen rato de montarlo , y de montarlo y montarlo .
+A: y que él nos lo podía hacer , que no había problema , que lo compráramos y se lo lleváramos , que él lo ponía , pero .
+B: &=background:speech .
+B: &=noise .

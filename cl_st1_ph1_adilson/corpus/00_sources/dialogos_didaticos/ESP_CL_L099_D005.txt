@@ -1,0 +1,21 @@
+﻿Sr. González: Buenos días, señorita.
+Vendedora: Buenos días, señor ¿En qué puedo ayudarlo?
+Sr. González: Quiero ver ese sobretodo negro que está en la vidriera.
+Vendedora: Sí, cómo no. ¿Qué talla usa usted?
+Sr. González: 40 o 42 creo.
+Vendedora: ¿Le gusta el color negro? También tenemos ese mismo modelo en gris azul y en marino.
+Sr. González: Bueno... tráigame también el gris
+Vendedora: Aquí están los probadores. ¿Cómo le queda?
+Sr. González: Me parece que me queda chico. ¿Tiene un talle más grande?
+Vendedora: Si, pero el más grande solo lo tengo en negro y en azul
+Sr. González: Está bien, quiero ver los dos. Realmente este talle me queda mejor. Pero no me decido por el color. ¿Cuál de los dos llevo?
+Vendedora: Los dos le quedan muy bien.
+Cuanto Sr. González: ¿Cuánto cuestan?
+Vendedora: Ahora están en oferta y con un descuento de 40% están por $400.
+Sr. González: Hummm... Bueno, igual solo puedo llevar uno. ¿Qué parece? Que le
+Vendedora: Y bueno... el negro combina con todo.
+Sr. González: Si, es verdad. Me llevo el negro.
+Vendedora: ¿Cómo va a pagar?
+Sr. González: Con tarjeta.
+Vendedora: Perfecto, acompáñeme a caja, por favor.
+Sr. González: Si, muchas gracias.

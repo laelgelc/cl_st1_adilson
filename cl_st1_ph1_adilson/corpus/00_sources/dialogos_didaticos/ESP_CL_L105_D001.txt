@@ -1,0 +1,12 @@
+﻿—¡Hola, buenos días!
+—¡Buenos días!
+—Tu nombre, por favor.
+—Me llamo Klaus.
+—¿Y tu apellido?
+—Schmidt, Klaus Schmidt.
+—¿Cómo se escribe?
+—Ese, ce, hache, eme, i, de, te.
+—Schmidt. ¿Eres de Alemania?
+—Sí, de Berlín.
+—Muy bien. Bienvenido Klaus a tu curso de español.
+

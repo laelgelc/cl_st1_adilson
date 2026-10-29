@@ -1,0 +1,19 @@
+﻿Recepcionista: Buenas tardes, señor López.
+López: Buenas tardes. ¿A qué hora tengo turno con Juan?
+Recepcionista: Tiene usted un turno con su peluquero dentro de dos horas.
+López: Perfecto. Querría aprovechar que estoy aquí temprano para hacer algo relajante, pues ando muy estresado últimamente.
+Recepcionista: Pues bien. Le puedo ofrecer tres tipos de masaje: relajante, tui-na y reiki, además de aromaterapia.
+López: ¿En qué consiste la aromaterapia?
+Recepcionista: Nuestra terapeuta trabaja con un baño de inmersión en aguas perfumadas, cuyos aromas traen beneficios para la salud y la belleza. En su caso, el baño podría incluir también un masaje con aceites aromáticos que le traerán distensión y sensación de bienestar.
+López: ¿A qué hora lo podría hacer?
+Recepcionista: Dentro de media hora.
+López: Muy bien. Entonces voy a aprovechar para hacerme los pies.
+Recepcionista: El único problema es que no tengo a nadie para atenderlo en este momento.
+López: Pues me haré las manos.
+Recepcionista: Nuestras manicuras también están todas ocupadas.
+López: ¿Y qué hago mientras tanto?
+Recepcionista: ¿Le puedo ofrecer un cafecito o un té?
+López: Está bien. Un té de manzanilla, por favor.
+[...]
+Recepción: Señor López, ¿lo de siempre con Juan?
+López: Sí, me voy a cortar y teñir el pelo. Lo de siempre.

@@ -1,0 +1,8 @@
+﻿Francisco: Eloísa, dime, ¿has leído alguna novela de Gabriel García Márquez?
+Eloisa: Sí, hombre, por supuesto. Me encanta la literatura. Ya leí El coronel no tiene quien le escriba y Cien años de soledad. ¿Y, tú?
+Francisco: Pues, yo sólo he leído Cien años de soledad y me ha gustado mucho.
+Eloisa: Oye, ¿te acuerdas de aquel programa que hablaba de esa novela?
+Francisco: Claro. Recuerdo que Gabriel García Márquez quería escribir una novela en la cual sucediera todo, que abarcara, en una sola obra, las angustias, las fantasías y las supersticiones de un pueblo. Así surgió Cien años de soledad.
+Eloisa: Y lo hizo con gran maestría, ¿eh? Es un libro mítico.
+Francisco: Y fascinante, también.
+

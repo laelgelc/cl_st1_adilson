@@ -1,0 +1,10 @@
+﻿Hotel La Vega, buenos días, ¿en qué puedo ayudarlo?
+Buenos días, ¿tiene habitaciones libres?
+¿Cuántas noches y qué tipo de habitaciones quiere?
+Siete, siete noches. Del 4 al 11 de septiembre. Quiero reservar dos habitaciones dobles y una individual.
+Sí, en esas fechas sí tenemos habitaciones.
+¿Qué precio tienen?
+Las dobles cuestan 90 € y las individuales 50 €
+El precio. ¿incluye el desayuno?
+Si. El desayuno está incluido. Si desea una estancia en regimen de media pensión son 120 € y la pensión completa son 150 € la habitación doble. Para la habitación individual el precio es de 65 € y 100 €.
+¡Ah! Entonces en régimen de media pensión

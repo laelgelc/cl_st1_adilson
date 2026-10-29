@@ -1,0 +1,12 @@
+﻿Paco: Mira, Antonio que cafetería más bonita! ¿No te gusta el café brasileño?
+Antonio: Me gusta mucho el café brasileño, pero pienso en cenar un pescado ya que estamos en Santos.
+Federico: Pues a mí me gusta mucho la idea de comer un pescado aquí.
+Paco: No me parece nada mal la idea del pescado, mira, otro restaurante.
+Federico: Aquí no hay pescados, solo hay pastas y ¡Me encantan las pastas!
+Paco: Amigos, me gustan las pastas y a vosotros ¿Qué os parece?
+Antonio: A mí me gustan mucho las pastas, pero me parece mejor comer un pescado.
+Paco: Chavales, tengo hambre, necesito comer algo.
+Antonio: Mira, vamos a entrar aquí y preguntar
+Federico: Hola, ¿Aquí sirven pescado?
+Mozo: Pues claro, si os gustan los pescados estáis en el mejor restaurante de esta ciudad. ¡Que seáis muy bienvenidos!
+

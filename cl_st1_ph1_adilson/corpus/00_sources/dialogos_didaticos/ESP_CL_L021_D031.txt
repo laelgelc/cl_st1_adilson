@@ -1,0 +1,22 @@
+﻿
+Buenos dÃ­as. QuerÃ­a pedir hora para el mÃ©dico de cabecera. 
+
+Â¿CÃ³mo se llama? 
+
+Manuel MartÃ­nez. 
+
+Â¿QuiÃ©n es su mÃ©dico? 
+
+Mi mÃ©dico es el Doctor RamÃ­rez. 
+
+Â¿CuÃ¡l es su nÃºmero de asegurado? 
+
+28/375648 
+
+Â¿Tiene historia clÃ­nica? Â¿QuÃ© nÃºmero es? 
+
+No, no tengo historia clÃ­nica. Vengo por primera vez. 
+
+Le voy a dar cita hoy a las cinco de la tarde. 
+
+Muy bien, muchas gracias.

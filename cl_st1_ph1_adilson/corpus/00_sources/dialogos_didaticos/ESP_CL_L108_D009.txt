@@ -1,0 +1,8 @@
+﻿María: Carmen, te presento a Peter.
+Carmen: Mucho gusto, Peter.
+Peter: Igualmente, Carmen.
+Maria: Peter es de Sydney, Australia.
+Carmen: ¡Ah!, eres australiano.
+Peter: Sí, soy australiano. Y tú, ¿eres mexicana?
+Carmen: No, no soy mexicana. Soy ecuatoriana.
+

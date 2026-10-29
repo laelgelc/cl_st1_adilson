@@ -1,0 +1,7 @@
+﻿Buenos días. Traigo esta receta.
+A ver, déjeme leerla. ¿Qué prefiere inyección, cápsulas o pastillas?
+Prefiero pastillas.
+Aquí las tiene.
+¿Cuánto es?
+Con receta sólo tiene que pagar 200 pesetas.
+Muchas gracias. Adiós.

@@ -1,0 +1,6 @@
+﻿Turista: No me siento bien, señora.
+Policía: Tranquilícese. ¿Qué le pasa?
+Turista: Me duele el estómago. Tengo ardor de estómago.
+Policía: ¿Toma usted alguna medicina?
+Turista: No, no tomo ninguna.
+Policía: Un momento. Voy a llamar auxilio.

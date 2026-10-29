@@ -1,0 +1,8 @@
+﻿¡Hola! ¿Es esta la clase de español?
+¿Sí, también eres estudiante de español?
+Sí, soy estudiante de español.
+Me llamo Carlos. ¿y tú? ¿Cómo te llamas?
+Yo me llamo Pilar.
+Mucho gusto, Pilar.
+Encantada.
+

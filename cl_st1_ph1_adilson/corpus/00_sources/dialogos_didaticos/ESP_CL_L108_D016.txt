@@ -1,0 +1,8 @@
+﻿Roberto: ¡Qué tal, Francisco! ¿Cómo estás?
+Francisco: Bien, gracias, ¿qué haces por aquí?
+Roberto: Busco un banco.
+Francisco: Mira, allí hay uno.
+Roberto: ¡Qué bueno! Tengo que pagar la inscripción al curso de historia.
+Francisco: Yo quiero inscribirme a un curso de español superior. Necesito hablar mejor.
+Roberto: Pues, acompáñame al banco y luego vamos al Centro de Enseñanza Para Extranjeros (CEPE).
+

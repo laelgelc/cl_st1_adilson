@@ -1,0 +1,9 @@
+﻿Gabriela: Dime, ¿cuál es tu nacionalidad?
+Valeria: Soy chilena. ¿Y tú?
+Gabriela: Soy argentina.
+Valeria: Entonces, ¡somos vecinas!
+Gabriela: Pues sí.
+Valeria: ¿Cuál es el número de la sala de tu ponencia en el congreso?
+Gabriela: 9. ¿Y el número de la tuya?
+Valeria: 7. ¡Suerte para nosotras dos!
+Gabriela: ¡Sí, para las dos!

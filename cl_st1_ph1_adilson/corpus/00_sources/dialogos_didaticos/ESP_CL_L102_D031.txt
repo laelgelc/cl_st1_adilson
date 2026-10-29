@@ -1,0 +1,17 @@
+﻿Jorgelina: ¡Hola, Marcos!
+Marcos: Jorgelinal ¿Qué tal?
+Jorgelina: Muy bien, gracias. ¿Y tú?
+Marcos: La verdad que muy bien. Me acaban de contratar como gerente en una multinacional.
+Jorgelina: ¡Qué bien! Me alegra muchísimo que te hayan contratado.
+Marcos: Y lo mejor es que, antes de asumir el cargo, me voy al exterior a hacer un curso en la central.
+Jorgelina: Eso es muy bueno. Es fantástico que te den la oportunidad de actualizarte dentro de la empresa.
+Marcos: Y la compañía de seguros, ¿cómo te trata?
+Jorgelina: Me acaba de despedir.
+Marcos: ¡No lo puedo creer! ¿Cómo puede ser? ¡Qué raro que los directores no se hayan pronunciado a tu favor!
+Jorgelina: Es que hubo grandes cambios dentro de la empresa y no están más.
+Marcos: Sin duda, es una lástima que la empresa haya perdido una jefe de personal con tanta capacidad y experiencia como tú.
+Jorgelina: Ahora estoy desempleada, pero no parada. Estoy haciendo entrevistas y entregando currículos.
+Marcos: ¡Qué pena que no tenga mi tarjeta aquí! Pues me gustaría entregar en manos tu currículo en el departamento de Recursos Humanos de la empresa.
+Jorgelina: Gracias, eres muy gentil.
+Marcos: Hagamos  así: mándame un correo electrónico a mi dirección personal con tu currículo adjunto y yo lo enderezo al departamento de RR.HH.
+Jorgelina: Perfecto.
